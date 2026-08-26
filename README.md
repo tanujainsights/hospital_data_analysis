@@ -2,193 +2,141 @@
 
 ## 📌 Project Overview
 
-This project focuses on analyzing hospital data to understand patient admissions, hospital stays, financial performance, and patient experience.
+Hospital Data Analysis is an end-to-end data analytics project focused on understanding hospital admissions, patient stays, service performance, financial performance, and patient experience. The project uses **Python, SQL, PostgreSQL, and Power BI** to transform raw healthcare data into meaningful business insights and interactive dashboards.
 
-The analysis was performed using **Python, SQL, and Power BI** to clean the data, answer important business questions, identify trends, and create interactive dashboards.
+## 🎯 Project Objective
 
-The main goal of this project is to transform raw hospital data into meaningful insights that can help healthcare organizations understand their operational and patient-related performance.
+The main objective of this project is to analyze hospital data and answer important business questions related to:
 
----
+* Hospital admissions and patient volume
+* Patient stay duration
+* Service-wise performance
+* Revenue and financial performance
+* Patient satisfaction
+* Operational and patient-experience trends
 
-## 🎯 Business Objective
-
-The objective of this project is to analyze hospital operations and answer questions such as:
-
-- How many patients were admitted?
-- What are the major admission trends?
-- Which departments/services have the highest number of patients?
-- What is the average length of hospital stay?
-- Which services generate higher revenue?
-- How does patient satisfaction vary across services?
-- What are the major patient and hospital performance indicators?
-- Which areas require operational improvement?
-
----
-
-## 📂 Datasets
+## 📊 Datasets
 
 The project uses two datasets:
 
 ### 1. Hospital Admissions
 
-**File:** `hospital_admissions.csv`
-
-This dataset contains information related to hospital admissions and patient admission patterns.
+Contains information related to hospital admissions and patient admission patterns.
 
 ### 2. Patient Stays
 
-**File:** `patients_stays.csv`
-
-This dataset contains information related to patient hospital stays, services, financial information, and patient experience.
-
----
+Contains information related to patient stays, hospital services, financial metrics, and patient satisfaction.
 
 ## 🛠️ Tools & Technologies
 
-- **Python**
-  - Pandas
-  - NumPy
-  - Matplotlib
-  - Seaborn
-
-- **SQL**
-  - PostgreSQL
-  - Data analysis and business queries
-
-- **Power BI**
-  - Data visualization
-  - Interactive dashboards
-  - KPI cards
-  - Charts and filters
-
-- **Jupyter Notebook**
-  - Data cleaning
-  - Exploratory Data Analysis
-  - Visualization
-
----
+* **Python**
+* **Pandas**
+* **NumPy**
+* **Matplotlib**
+* **Seaborn**
+* **SQL**
+* **PostgreSQL**
+* **Power BI**
+* **Jupyter Notebook**
 
 ## 🔄 Project Workflow
 
-### Step 1: Data Collection
+### 1. Data Cleaning with Python
 
-Imported the hospital admission and patient stay datasets into the analysis environment.
+The raw datasets were cleaned and prepared using Python and Pandas.
 
-### Step 2: Data Cleaning
+The process included:
 
-Cleaned and prepared the datasets using Python.
+* Checking missing values
+* Identifying duplicate records
+* Checking data types
+* Handling inconsistent data
+* Validating important columns
+* Preparing datasets for further analysis
 
-The cleaning process included:
+### 2. Exploratory Data Analysis
 
-- Checking missing values
-- Removing duplicate records
-- Checking data types
-- Handling inconsistent values
-- Validating numerical columns
-- Preparing data for analysis
+Python was used to explore the datasets and identify important patterns related to:
 
-### Step 3: Exploratory Data Analysis
+* Patient admissions
+* Patient stays
+* Hospital services
+* Revenue
+* Patient satisfaction
+* Length of stay
 
-Performed exploratory analysis using Python to identify:
+### 3. SQL Analysis
 
-- Admission patterns
-- Patient distribution
-- Service-wise performance
-- Length of stay
-- Financial trends
-- Patient satisfaction
+The cleaned datasets were analyzed using PostgreSQL and SQL queries.
 
-### Step 4: SQL Analysis
+Business questions included:
 
-Loaded the cleaned data into PostgreSQL and created SQL queries to answer important business questions.
+* What is the total number of patients?
+* Which services have the highest patient volume?
+* What is the average length of stay?
+* Which services generate the highest revenue?
+* What is the average patient satisfaction by service?
+* Which services perform best based on patient volume and satisfaction?
 
-Examples include:
+### 4. Power BI Dashboard
 
-- Patient count by service
-- Average satisfaction by service
-- Average length of stay
-- Revenue analysis
-- Admission trends
-- Service performance
+The analyzed data was used to create interactive dashboards for easier business reporting and decision-making.
 
-### Step 5: Power BI Dashboard
+The dashboards cover:
 
-Created interactive Power BI dashboards to present the key findings in an easy-to-understand format.
+**🏥 Hospital Overview**
 
----
+* Total patients
+* Total admissions
+* Patient distribution
+* Admission trends
+* Service performance
 
-# 📊 Dashboard
+**💰 Financial Analysis**
 
-The project dashboard focuses on three major areas:
+* Revenue performance
+* Revenue by service
+* Financial trends
+* Average revenue metrics
 
-## 🏥 1. Hospital Overview
+**😊 Patient Experience**
 
-Key metrics include:
+* Patient satisfaction
+* Satisfaction by service
+* Service-wise patient experience
+* Patient experience trends
 
-- Total Patients
-- Total Admissions
-- Average Length of Stay
-- Admission Trends
-- Service-wise Patient Distribution
-
-## 💰 2. Financial Analysis
-
-The financial analysis focuses on:
-
-- Total Revenue
-- Revenue by Service
-- Average Revenue per Patient
-- Revenue Trends
-- Service-wise Financial Performance
-
-## 😊 3. Patient Experience
-
-The patient experience analysis includes:
-
-- Average Patient Satisfaction
-- Satisfaction by Service
-- Patient Experience Trends
-- Service-wise Satisfaction Comparison
-
----
-
-# 📈 Key Business Questions
-
-Some of the major questions explored in this project are:
+## 📈 Key Business Questions
 
 ### Hospital Admissions
 
-1. What is the total number of hospital admissions?
-2. How do admissions change over time?
-3. Which services have the highest patient volume?
-4. What is the distribution of patients across different services?
+* How many patients were admitted?
+* What are the major admission trends?
+* Which services have the highest patient volume?
+* How is patient volume distributed across services?
 
 ### Patient Stays
 
-1. What is the average length of stay?
-2. Which services have longer patient stays?
-3. Which services handle the highest number of patients?
-4. How does patient satisfaction differ between services?
+* What is the average length of stay?
+* Which services have longer stays?
+* Which services handle the highest number of patients?
+* How does satisfaction vary across services?
 
 ### Financial Performance
 
-1. What is the total revenue generated?
-2. Which services generate the highest revenue?
-3. What is the average revenue per patient?
-4. Which services have strong patient volume and financial performance?
+* What is the total revenue?
+* Which services generate the highest revenue?
+* What is the average revenue per patient?
+* Which services show strong financial performance?
 
 ### Patient Experience
 
-1. What is the overall patient satisfaction score?
-2. Which services have the highest satisfaction?
-3. Which services have lower satisfaction?
-4. Are there services that require improvement in patient experience?
+* What is the overall patient satisfaction?
+* Which services have the highest satisfaction?
+* Which services have lower satisfaction?
+* Which areas may require improvement?
 
----
-
-# 🔍 Sample SQL Analysis
-
-Example query used to analyze patient count and satisfaction by service:
+## 💻 Sample SQL Query
 
 ```sql
 SELECT
@@ -198,64 +146,69 @@ SELECT
 FROM patients_stays
 GROUP BY service
 ORDER BY patient_count DESC;
+```
 
-💡 Insights
+This query compares patient volume and average satisfaction across different hospital services.
+
+## 💡 Key Insights
 
 The analysis helps identify:
 
-High-volume hospital services
-Services with longer patient stays
-Differences in patient satisfaction
-Financial performance across services
-Operational areas that may require attention
-Relationships between patient volume, hospital stay, and satisfaction
+* High-volume hospital services
+* Differences in patient satisfaction
+* Services with longer patient stays
+* Revenue performance across services
+* Areas that may require operational improvement
+* Patterns that can support better healthcare decision-making
 
-The final dashboard converts these findings into visual insights that can be used for better hospital performance monitoring.
+## 📊 Dashboard
 
-📁 Project Structure
-hospital_data_analysis/
-│
-├── data/
-│   ├── hospital_admissions.csv
-│   └── patients_stays.csv
-│
-├── notebooks/
-│   └── hospital_analysis.ipynb
-│
-├── sql/
-│   └── hospital_analysis.sql
-│
-├── dashboard/
-│   └── hospital_analysis.pbix
-│
-├── screenshots/
-│   └── dashboard.png
-│
-└── README.md
-🚀 Skills Demonstrated
+The project includes separate dashboard reports covering:
 
-This project demonstrates practical skills in:
+* **Hospital Overview**
+* **Financial Analysis**
+* **Patient Experience**
 
-Data Cleaning
-Exploratory Data Analysis
-Data Visualization
-SQL
-PostgreSQL
-Python
-Pandas
-Business Analysis
-Power BI
-Dashboard Development
-KPI Analysis
-Healthcare Analytics
-📌 Conclusion
+These dashboards convert the analysis into clear visual reports that can be used by management to monitor hospital performance.
 
-This project demonstrates how healthcare data can be transformed from raw datasets into actionable business insights using Python, SQL, and Power BI.
+## 📁 Project Files
 
-The combination of data cleaning, SQL analysis, exploratory analysis, and interactive dashboards provides a complete end-to-end data analytics workflow.
+The repository contains:
 
-👩‍💻 Author
+* Hospital admissions dataset
+* Patient stays dataset
+* Python/Jupyter Notebook analysis
+* SQL analysis queries
+* Hospital Overview dashboard
+* Financial Analysis dashboard
+* Patient Experience dashboard
+* Project documentation
 
-Tanuja
+## 🚀 Skills Demonstrated
+
+* Data Cleaning
+* Exploratory Data Analysis
+* Python
+* Pandas
+* SQL
+* PostgreSQL
+* Power BI
+* Data Visualization
+* Business Analysis
+* KPI Analysis
+* Dashboard Development
+* Healthcare Analytics
+
+## 📌 Conclusion
+
+This project demonstrates a complete data analytics workflow, starting from raw hospital data and progressing through **data cleaning, exploratory analysis, SQL-based business analysis, and Power BI dashboard development**.
+
+The final analysis provides a clear view of hospital operations, financial performance, patient stays, and patient experience, helping convert healthcare data into actionable business insights.
+
+## 👩‍💻 Author
+
+**Tanuja**
 
 Data Analyst | Python | SQL | Power BI
+
+GitHub: **@tanujainsights**

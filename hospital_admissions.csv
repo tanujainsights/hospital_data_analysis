@@ -1,0 +1,1501 @@
+﻿age,gender,blood_type,medical_condition,date_of_admission,hospital,billing_amount,admission_type,discharge_date,medication,test_results,length_of_stay
+30,Male,B-,cancer,31-01-2024 00:00,sons and miller,18856.28131,urgent,02-02-2024 00:00,Paracetamol,Normal,2
+62,Male,A+,obesity,20-08-2019 00:00,kim inc,33643.32729,emergency,26-08-2019 00:00,Ibuprofen,Inconclusive,6
+76,Female,A-,obesity,22-09-2022 00:00,cook plc,27955.09608,emergency,07-10-2022 00:00,Aspirin,Normal,15
+28,Female,O+,diabetes,18-11-2020 00:00,"hernandez rogers and vang,",37909.78241,elective,18-12-2020 00:00,Ibuprofen,Abnormal,30
+43,Female,AB+,cancer,19-09-2022 00:00,white-white,14238.31781,urgent,09-10-2022 00:00,Penicillin,Abnormal,20
+36,Male,A+,asthma,20-12-2023 00:00,nunez-humphrey,48145.11095,urgent,24-12-2023 00:00,Ibuprofen,Normal,4
+21,Female,AB-,diabetes,03-11-2020 00:00,group middleton,19580.87234,emergency,15-11-2020 00:00,Paracetamol,Inconclusive,12
+20,Female,A+,cancer,28-12-2021 00:00,"powell robinson and valdez,",45820.46272,emergency,07-01-2022 00:00,Paracetamol,Inconclusive,10
+82,Male,AB+,asthma,01-07-2020 00:00,sons rich and,50119.22279,elective,14-07-2020 00:00,Aspirin,Abnormal,13
+58,Female,AB-,cancer,23-05-2021 00:00,padilla-walker,19784.63106,elective,22-06-2021 00:00,Paracetamol,Inconclusive,30
+72,Male,O+,cancer,19-04-2020 00:00,schaefer-porter,12576.79561,urgent,22-04-2020 00:00,Paracetamol,Normal,3
+38,Female,A-,hypertension,13-08-2023 00:00,lyons-blair,7999.58688,urgent,05-09-2023 00:00,Lipitor,Inconclusive,23
+75,Female,A+,diabetes,12-12-2019 00:00,"powers miller, and flores",43282.28336,emergency,28-12-2019 00:00,Penicillin,Abnormal,16
+68,Female,AB+,asthma,22-05-2020 00:00,rivera-gutierrez,33207.70663,urgent,19-06-2020 00:00,Lipitor,Normal,28
+44,Female,AB+,cancer,08-10-2021 00:00,morris-arellano,40701.59923,urgent,13-10-2021 00:00,Paracetamol,Normal,5
+46,Female,AB-,obesity,01-01-2023 00:00,cline-williams,12263.35743,elective,11-01-2023 00:00,Aspirin,Inconclusive,10
+63,Female,A+,arthritis,23-06-2020 00:00,cervantes-wells,24499.8479,elective,14-07-2020 00:00,Paracetamol,Normal,21
+38,Male,AB-,obesity,08-03-2020 00:00,"torres, and harrison jones",17440.46544,urgent,02-04-2020 00:00,Paracetamol,Abnormal,25
+34,Female,A-,hypertension,04-03-2021 00:00,houston plc,18843.02302,elective,14-03-2021 00:00,Aspirin,Abnormal,10
+63,Male,B+,asthma,15-11-2022 00:00,hammond ltd,23762.20358,elective,22-11-2022 00:00,Penicillin,Normal,7
+67,Female,A-,asthma,28-06-2023 00:00,jones llc,42.51458855,elective,02-07-2023 00:00,Aspirin,Normal,4
+48,Male,B+,asthma,21-01-2020 00:00,williams-davis,17695.91162,urgent,09-02-2020 00:00,Lipitor,Normal,19
+58,Female,O+,arthritis,12-05-2022 00:00,clark-mayo,5998.102908,urgent,10-06-2022 00:00,Lipitor,Inconclusive,29
+59,Male,A+,asthma,02-08-2021 00:00,and sons smith,25250.05243,urgent,12-08-2021 00:00,Lipitor,Inconclusive,10
+72,Female,AB+,hypertension,15-05-2020 00:00,wilson group,33211.29542,emergency,08-06-2020 00:00,Paracetamol,Inconclusive,24
+73,Male,AB+,obesity,15-05-2020 00:00,garner-bowman,19746.83201,urgent,20-05-2020 00:00,Aspirin,Abnormal,5
+51,Female,O-,asthma,23-12-2023 00:00,"brown, and jones weaver",26786.52956,elective,19-01-2024 00:00,Ibuprofen,Normal,27
+34,Female,A+,diabetes,21-06-2022 00:00,serrano-dixon,18834.80134,emergency,30-06-2022 00:00,Lipitor,Abnormal,9
+38,Female,O-,hypertension,03-01-2021 00:00,gardner-miller,32643.29935,emergency,16-01-2021 00:00,Penicillin,Normal,13
+63,Female,B+,hypertension,03-10-2023 00:00,guerrero-boone,5767.011054,elective,12-10-2023 00:00,Paracetamol,Abnormal,9
+34,Male,B-,asthma,18-08-2019 00:00,hart ltd,47909.12881,urgent,01-09-2019 00:00,Ibuprofen,Inconclusive,14
+23,Female,A+,arthritis,03-11-2019 00:00,cruz-santiago,25835.32359,urgent,29-11-2019 00:00,Penicillin,Abnormal,26
+78,Male,AB-,arthritis,18-05-2023 00:00,group duncan,17993.2262,elective,15-06-2023 00:00,Penicillin,Normal,28
+43,Male,AB-,cancer,24-05-2023 00:00,lopez-phillips,21185.95353,elective,03-06-2023 00:00,Ibuprofen,Normal,10
+30,Female,AB+,diabetes,17-01-2020 00:00,poole inc,8408.949354,emergency,10-02-2020 00:00,Lipitor,Normal,24
+25,Female,AB+,asthma,07-01-2021 00:00,sons and cox,45453.41855,elective,26-01-2021 00:00,Lipitor,Abnormal,19
+33,Male,AB+,diabetes,14-10-2019 00:00,llc martin,4397.776995,urgent,19-10-2019 00:00,Paracetamol,Inconclusive,5
+26,Female,B-,hypertension,19-12-2021 00:00,espinoza-stone,9380.325968,urgent,16-01-2022 00:00,Ibuprofen,Normal,28
+70,Female,O-,diabetes,12-03-2022 00:00,"and garcia morris cunningham,",48290.69341,emergency,29-03-2022 00:00,Lipitor,Abnormal,17
+57,Female,B-,obesity,17-01-2021 00:00,walton-meyer,32973.94083,urgent,29-01-2021 00:00,Penicillin,Abnormal,12
+74,Female,B-,hypertension,15-09-2021 00:00,plc young,49943.2785,emergency,05-10-2021 00:00,Lipitor,Normal,20
+81,Male,A+,hypertension,27-01-2020 00:00,meadows group,35633.95545,urgent,09-02-2020 00:00,Aspirin,Normal,13
+49,Female,A-,asthma,24-06-2022 00:00,"and howell brooks, rogers",25966.32861,elective,18-07-2022 00:00,Paracetamol,Normal,24
+26,Female,AB+,obesity,09-06-2021 00:00,"and mcclure white boone,",21784.44507,urgent,01-07-2021 00:00,Paracetamol,Normal,22
+81,Female,AB-,cancer,23-08-2020 00:00,"gates brown, and stuart",42684.55888,urgent,08-09-2020 00:00,Penicillin,Abnormal,16
+65,Male,O+,cancer,12-10-2022 00:00,group armstrong,45585.88656,emergency,02-11-2022 00:00,Penicillin,Normal,21
+31,Female,O+,hypertension,01-12-2021 00:00,ltd schwartz,29615.44186,elective,09-12-2021 00:00,Paracetamol,Normal,8
+58,Male,A-,diabetes,04-05-2020 00:00,nelson-phillips,36992.27369,urgent,13-05-2020 00:00,Aspirin,Normal,9
+22,Male,O+,hypertension,09-09-2023 00:00,"knight and nguyen, riggs",28051.49948,urgent,23-09-2023 00:00,Ibuprofen,Abnormal,14
+77,Female,O+,asthma,19-07-2019 00:00,lopez plc,16320.23245,urgent,29-07-2019 00:00,Ibuprofen,Abnormal,10
+30,Male,AB-,hypertension,05-04-2024 00:00,"fernandez and phillips, singh",30590.54181,emergency,22-04-2024 00:00,Paracetamol,Inconclusive,17
+42,Female,A-,cancer,15-06-2019 00:00,beck-galloway,14681.01636,emergency,05-07-2019 00:00,Ibuprofen,Abnormal,20
+67,Female,AB+,cancer,29-10-2022 00:00,"decker glover, and christensen",21879.53191,urgent,20-11-2022 00:00,Penicillin,Inconclusive,22
+24,Female,A-,obesity,08-04-2022 00:00,"nelson walker myers, and",6767.634397,elective,13-04-2022 00:00,Lipitor,Abnormal,5
+84,Female,B-,asthma,17-08-2023 00:00,mitchell-navarro,19973.46293,elective,11-09-2023 00:00,Ibuprofen,Inconclusive,25
+73,Female,A-,hypertension,05-11-2023 00:00,group delgado,14362.31449,emergency,07-11-2023 00:00,Paracetamol,Inconclusive,2
+55,Female,A+,cancer,09-04-2023 00:00,"and montes graves, thomas",10300.65731,emergency,21-04-2023 00:00,Paracetamol,Normal,12
+23,Male,O-,hypertension,21-09-2022 00:00,hall-bentley,37951.66491,emergency,25-09-2022 00:00,Ibuprofen,Inconclusive,4
+40,Female,AB-,cancer,21-01-2021 00:00,taylor-nguyen,6733.990947,urgent,06-02-2021 00:00,Ibuprofen,Normal,16
+51,Male,O+,hypertension,10-07-2020 00:00,hunter-grant,17839.74565,elective,20-07-2020 00:00,Paracetamol,Abnormal,10
+83,Male,AB+,obesity,06-11-2019 00:00,miller-lawson,24637.09006,elective,22-11-2019 00:00,Paracetamol,Inconclusive,16
+63,Male,A-,asthma,07-04-2024 00:00,scott-kelly,39723.16605,emergency,04-05-2024 00:00,Ibuprofen,Inconclusive,27
+18,Male,A+,cancer,06-07-2022 00:00,"moss and ferguson, baker",48407.38629,emergency,18-07-2022 00:00,Aspirin,Normal,12
+23,Female,B-,hypertension,03-08-2022 00:00,"and mason smith chase,",5517.393642,elective,10-08-2022 00:00,Aspirin,Inconclusive,7
+58,Male,A-,hypertension,08-05-2020 00:00,"khan, and rodriguez fischer",19183.16889,emergency,01-06-2020 00:00,Aspirin,Abnormal,24
+27,Male,AB-,cancer,09-12-2019 00:00,sons watson and,8320.660803,urgent,21-12-2019 00:00,Lipitor,Abnormal,12
+59,Male,B+,diabetes,21-11-2019 00:00,rhodes-carey,10107.18765,emergency,08-12-2019 00:00,Penicillin,Abnormal,17
+27,Male,B-,hypertension,07-01-2023 00:00,bullock-ramsey,49402.29837,elective,27-01-2023 00:00,Lipitor,Inconclusive,20
+31,Male,B+,diabetes,06-02-2024 00:00,"clark brown, and myers",35776.81511,emergency,10-02-2024 00:00,Penicillin,Normal,4
+19,Female,A+,arthritis,30-01-2020 00:00,"jackson and lane, dillon",20227.86373,elective,12-02-2020 00:00,Penicillin,Normal,13
+29,Female,O+,cancer,24-10-2022 00:00,"turner cook, banks and",19328.11858,urgent,07-11-2022 00:00,Ibuprofen,Normal,14
+18,Male,A-,obesity,09-01-2022 00:00,"miles, and weaver hudson",46956.54573,emergency,15-01-2022 00:00,Aspirin,Inconclusive,6
+24,Male,AB-,cancer,28-12-2023 00:00,evans ltd,10709.69039,emergency,02-01-2024 00:00,Paracetamol,Abnormal,5
+27,Male,AB-,diabetes,16-09-2021 00:00,sons and schaefer,45353.99078,urgent,14-10-2021 00:00,Penicillin,Abnormal,28
+57,Female,AB-,arthritis,24-07-2023 00:00,sons hodges and,8451.001758,elective,11-08-2023 00:00,Paracetamol,Abnormal,18
+74,Female,A+,arthritis,13-11-2021 00:00,simpson-mccall,29850.87973,emergency,07-12-2021 00:00,Paracetamol,Inconclusive,24
+22,Female,A-,arthritis,11-10-2023 00:00,"lin thompson wells, and",42696.52116,urgent,27-10-2023 00:00,Penicillin,Normal,16
+33,Female,B-,diabetes,30-01-2021 00:00,jones-scott,2305.13914,emergency,04-02-2021 00:00,Penicillin,Inconclusive,5
+57,Male,B+,arthritis,21-11-2021 00:00,howe-kelly,44437.47067,emergency,05-12-2021 00:00,Penicillin,Inconclusive,14
+61,Male,B+,cancer,02-03-2024 00:00,and sons reyes,29504.38744,urgent,26-03-2024 00:00,Ibuprofen,Inconclusive,24
+20,Male,O+,arthritis,04-12-2020 00:00,shaw-young,34617.78834,emergency,08-12-2020 00:00,Ibuprofen,Abnormal,4
+67,Male,AB+,hypertension,26-08-2020 00:00,inc skinner,46814.0112,urgent,27-08-2020 00:00,Penicillin,Abnormal,1
+80,Female,AB-,diabetes,12-11-2023 00:00,clark-johnson,20257.54428,elective,12-12-2023 00:00,Penicillin,Abnormal,30
+44,Male,O+,obesity,30-05-2020 00:00,perez and sons,22841.36388,emergency,14-06-2020 00:00,Aspirin,Inconclusive,15
+26,Female,B-,asthma,12-05-2023 00:00,kemp llc,10283.71686,emergency,10-06-2023 00:00,Ibuprofen,Abnormal,29
+80,Male,AB+,cancer,07-07-2022 00:00,llc dixon,1586.476601,emergency,23-07-2022 00:00,Ibuprofen,Normal,16
+63,Male,B-,asthma,24-09-2020 00:00,"and morales jennings cook,",34774.35113,emergency,08-10-2020 00:00,Penicillin,Inconclusive,14
+58,Female,B-,arthritis,19-08-2023 00:00,group hood,24870.10366,emergency,25-08-2023 00:00,Ibuprofen,Inconclusive,6
+38,Female,A+,cancer,16-05-2023 00:00,lindsey inc,39476.94751,elective,01-06-2023 00:00,Aspirin,Abnormal,16
+60,Male,B+,hypertension,22-08-2022 00:00,ltd wang,26062.43432,elective,07-09-2022 00:00,Paracetamol,Inconclusive,16
+49,Male,B+,cancer,17-06-2022 00:00,inc ford,25302.11263,elective,28-06-2022 00:00,Penicillin,Abnormal,11
+80,Male,A+,diabetes,05-11-2022 00:00,dean-hawkins,10661.51065,emergency,25-11-2022 00:00,Lipitor,Abnormal,20
+35,Female,B+,diabetes,10-09-2021 00:00,walter plc,30358.19458,elective,18-09-2021 00:00,Ibuprofen,Inconclusive,8
+84,Male,A+,asthma,06-09-2022 00:00,sons horn and,23684.52547,urgent,27-09-2022 00:00,Ibuprofen,Inconclusive,21
+76,Male,A+,diabetes,17-04-2021 00:00,"powell ward, and mercado",3908.946568,elective,10-05-2021 00:00,Lipitor,Inconclusive,23
+79,Female,A-,hypertension,19-08-2019 00:00,james ltd,25503.67381,elective,26-08-2019 00:00,Lipitor,Abnormal,7
+76,Female,O+,diabetes,24-03-2024 00:00,kemp-munoz,6312.607691,elective,14-04-2024 00:00,Aspirin,Abnormal,21
+55,Female,A+,diabetes,10-12-2022 00:00,henderson-taylor,21772.3414,elective,31-12-2022 00:00,Ibuprofen,Normal,21
+53,Male,B-,cancer,14-09-2022 00:00,"parsons, hartman martinez and",30437.00179,elective,18-09-2022 00:00,Aspirin,Normal,4
+18,Male,B+,asthma,18-10-2022 00:00,luna inc,28837.67705,elective,11-11-2022 00:00,Aspirin,Abnormal,24
+69,Male,O+,arthritis,13-11-2021 00:00,"hernandez, ritter and huffman",25425.72786,elective,21-11-2021 00:00,Aspirin,Normal,8
+70,Male,B+,diabetes,08-07-2022 00:00,reed llc,7187.272346,emergency,25-07-2022 00:00,Aspirin,Normal,17
+21,Male,A+,diabetes,25-06-2023 00:00,thompson-walker,3125.736477,urgent,11-07-2023 00:00,Ibuprofen,Normal,16
+47,Male,A-,diabetes,09-07-2019 00:00,group nguyen,31516.10073,elective,05-08-2019 00:00,Penicillin,Inconclusive,27
+85,Male,A-,arthritis,14-05-2021 00:00,newton-white,40014.76235,emergency,03-06-2021 00:00,Aspirin,Abnormal,20
+28,Male,O+,cancer,15-01-2024 00:00,ltd thomas,40782.92781,elective,07-02-2024 00:00,Ibuprofen,Abnormal,23
+62,Male,A-,obesity,30-09-2019 00:00,"pierce ward, torres and",3879.084602,elective,15-10-2019 00:00,Aspirin,Inconclusive,15
+49,Female,B-,arthritis,05-03-2021 00:00,"evans and hall schneider,",24948.47782,emergency,20-03-2021 00:00,Penicillin,Abnormal,15
+52,Male,AB-,hypertension,14-05-2021 00:00,stout-brown,37734.74218,elective,06-06-2021 00:00,Penicillin,Abnormal,23
+53,Male,B+,cancer,08-06-2023 00:00,cruz ltd,27360.46189,elective,05-07-2023 00:00,Ibuprofen,Abnormal,27
+55,Male,AB-,asthma,13-05-2022 00:00,stewart sons and,37405.69653,elective,20-05-2022 00:00,Paracetamol,Normal,7
+18,Male,B-,arthritis,22-09-2022 00:00,"hall roberts and duarte,",31485.97316,emergency,14-10-2022 00:00,Ibuprofen,Normal,22
+52,Male,AB-,hypertension,25-08-2023 00:00,ramirez-robinson,23737.39932,urgent,18-09-2023 00:00,Lipitor,Normal,24
+67,Male,AB-,obesity,02-06-2019 00:00,"garcia, and bishop hernandez",3326.382675,emergency,04-06-2019 00:00,Lipitor,Inconclusive,2
+82,Female,A+,hypertension,19-11-2021 00:00,"and brown oneal, shah",23067.67217,elective,12-12-2021 00:00,Ibuprofen,Normal,23
+37,Female,O+,asthma,02-12-2019 00:00,group white,8521.214253,elective,13-12-2019 00:00,Penicillin,Abnormal,11
+52,Female,AB-,cancer,21-08-2020 00:00,"hughes and erickson, anderson",47985.16734,elective,06-09-2020 00:00,Penicillin,Inconclusive,16
+37,Female,B+,asthma,12-02-2021 00:00,lane-kelly,25230.24688,elective,11-03-2021 00:00,Ibuprofen,Inconclusive,27
+83,Female,A+,diabetes,13-01-2024 00:00,cox-hester,10352.20849,urgent,22-01-2024 00:00,Aspirin,Abnormal,9
+33,Male,O-,arthritis,26-12-2021 00:00,"jarvis scott, fleming and",6175.867249,urgent,12-01-2022 00:00,Aspirin,Abnormal,17
+22,Female,A-,obesity,22-08-2022 00:00,cline-carpenter,23499.93625,urgent,07-09-2022 00:00,Penicillin,Normal,16
+19,Female,B+,cancer,03-07-2021 00:00,"johnson, and ross harris",33681.57264,elective,31-07-2021 00:00,Ibuprofen,Abnormal,28
+85,Female,O+,obesity,31-05-2020 00:00,"kim rosario, and hammond",39957.94062,urgent,01-06-2020 00:00,Ibuprofen,Normal,1
+19,Male,B+,cancer,26-10-2020 00:00,plc jimenez,49833.70772,elective,17-11-2020 00:00,Lipitor,Inconclusive,22
+50,Female,B-,asthma,03-06-2021 00:00,cantu-berry,48175.46612,urgent,01-07-2021 00:00,Paracetamol,Inconclusive,28
+50,Female,O-,obesity,24-10-2020 00:00,wright-alexander,40133.96739,urgent,13-11-2020 00:00,Ibuprofen,Normal,20
+40,Male,O+,obesity,27-08-2019 00:00,guzman-carlson,9585.952128,urgent,06-09-2019 00:00,Lipitor,Inconclusive,10
+57,Male,AB-,obesity,30-11-2021 00:00,meyer-hill,40693.35422,emergency,09-12-2021 00:00,Aspirin,Abnormal,9
+82,Male,AB+,obesity,15-10-2023 00:00,dudley-atkinson,16399.26576,emergency,08-11-2023 00:00,Penicillin,Abnormal,24
+20,Male,AB+,diabetes,17-03-2024 00:00,kelly-allen,44939.56552,emergency,28-03-2024 00:00,Ibuprofen,Inconclusive,11
+20,Male,B+,hypertension,13-10-2019 00:00,"lewis livingston, lowe and",10663.91001,emergency,16-10-2019 00:00,Aspirin,Normal,3
+19,Female,A-,hypertension,02-03-2020 00:00,rodriguez ltd,22564.78798,elective,07-03-2020 00:00,Paracetamol,Normal,5
+32,Female,AB-,cancer,05-11-2019 00:00,"and johnson moore, branch",-502.5078127,urgent,23-11-2019 00:00,Penicillin,Normal,18
+55,Male,B-,diabetes,07-02-2021 00:00,"holmes and hughes, phillips",34758.25675,emergency,05-03-2021 00:00,Aspirin,Normal,26
+81,Male,B+,hypertension,25-10-2021 00:00,"and smith, tucker cross",46377.86515,urgent,22-11-2021 00:00,Lipitor,Normal,28
+26,Male,O-,hypertension,24-07-2022 00:00,sons and lozano,7555.772965,elective,31-07-2022 00:00,Paracetamol,Abnormal,7
+54,Female,AB+,cancer,04-03-2020 00:00,russell ltd,14299.99345,emergency,05-03-2020 00:00,Lipitor,Abnormal,1
+57,Male,B-,arthritis,01-08-2021 00:00,jones ltd,46429.5082,elective,19-08-2021 00:00,Paracetamol,Inconclusive,18
+38,Female,AB+,asthma,24-01-2020 00:00,gordon-ward,17978.95074,elective,12-02-2020 00:00,Ibuprofen,Abnormal,19
+54,Male,O+,obesity,30-07-2021 00:00,barnes and sons,32629.06775,elective,13-08-2021 00:00,Paracetamol,Normal,14
+42,Male,A+,diabetes,04-01-2024 00:00,levine-miller,22356.22649,urgent,03-02-2024 00:00,Aspirin,Inconclusive,30
+20,Male,O-,diabetes,05-01-2024 00:00,"and marquez silva smith,",48995.98059,elective,04-02-2024 00:00,Lipitor,Normal,30
+44,Female,O-,hypertension,11-08-2020 00:00,jackson-copeland,4532.483554,emergency,04-09-2020 00:00,Lipitor,Inconclusive,24
+54,Male,B+,diabetes,17-06-2022 00:00,"perez and ochoa white,",35521.58215,elective,24-06-2022 00:00,Paracetamol,Normal,7
+21,Female,AB-,arthritis,02-04-2022 00:00,ltd conrad,1589.503523,emergency,09-04-2022 00:00,Aspirin,Inconclusive,7
+45,Female,AB+,diabetes,03-06-2020 00:00,hampton-thomas,22950.65114,elective,22-06-2020 00:00,Ibuprofen,Abnormal,19
+68,Female,B+,arthritis,16-08-2019 00:00,thomas-kelley,2678.953936,urgent,21-08-2019 00:00,Paracetamol,Abnormal,5
+27,Male,A+,hypertension,22-02-2024 00:00,myers-monroe,39615.60066,urgent,24-02-2024 00:00,Penicillin,Inconclusive,2
+42,Male,AB-,asthma,06-05-2021 00:00,"and ford lee, rodriguez",13355.78209,elective,29-05-2021 00:00,Ibuprofen,Inconclusive,23
+27,Female,B-,asthma,27-10-2021 00:00,sons garcia and,32561.53041,elective,04-11-2021 00:00,Ibuprofen,Inconclusive,8
+80,Male,B+,asthma,01-09-2020 00:00,"perry little, and moore",29221.34021,emergency,17-09-2020 00:00,Paracetamol,Inconclusive,16
+21,Male,O+,diabetes,26-05-2021 00:00,anderson group,12880.65241,urgent,22-06-2021 00:00,Penicillin,Normal,27
+84,Female,A-,obesity,22-06-2022 00:00,rodriguez and sons,15475.40324,elective,22-07-2022 00:00,Ibuprofen,Abnormal,30
+67,Female,O-,arthritis,17-05-2023 00:00,thomas-huber,27309.43676,elective,31-05-2023 00:00,Aspirin,Abnormal,14
+66,Male,AB+,arthritis,23-06-2021 00:00,robinson inc,1897.891727,elective,09-07-2021 00:00,Ibuprofen,Abnormal,16
+37,Female,A-,cancer,17-11-2023 00:00,wood-mathews,31308.20601,urgent,25-11-2023 00:00,Penicillin,Normal,8
+30,Female,A-,diabetes,11-10-2020 00:00,"walker and gardner fernandez,",42792.24128,elective,21-10-2020 00:00,Ibuprofen,Abnormal,10
+78,Male,O+,diabetes,10-08-2021 00:00,"smith and johnston, collins",14377.33432,emergency,27-08-2021 00:00,Penicillin,Abnormal,17
+39,Female,A+,diabetes,29-08-2023 00:00,sons miller and,1150.874986,urgent,07-09-2023 00:00,Penicillin,Abnormal,9
+29,Male,O-,asthma,27-02-2020 00:00,donaldson-frey,41939.11994,elective,26-03-2020 00:00,Ibuprofen,Normal,28
+81,Female,AB-,cancer,07-07-2021 00:00,brown-yoder,41982.3744,elective,15-07-2021 00:00,Aspirin,Abnormal,8
+66,Female,AB-,obesity,03-06-2022 00:00,"morgan rios and keller,",33861.01863,elective,27-06-2022 00:00,Aspirin,Normal,24
+65,Male,B-,asthma,20-02-2020 00:00,gonzalez-king,49321.15763,emergency,01-03-2020 00:00,Penicillin,Abnormal,10
+80,Male,AB-,asthma,05-02-2021 00:00,wagner ltd,47433.27865,elective,05-03-2021 00:00,Penicillin,Inconclusive,28
+72,Female,O-,arthritis,24-10-2020 00:00,"and brown white, jones",19065.06089,emergency,02-11-2020 00:00,Paracetamol,Abnormal,9
+85,Male,O-,cancer,06-12-2023 00:00,james-smith,50142.02695,elective,19-12-2023 00:00,Ibuprofen,Abnormal,13
+68,Female,O+,hypertension,21-12-2021 00:00,hanson group,12081.67903,urgent,30-12-2021 00:00,Lipitor,Abnormal,9
+56,Female,A-,cancer,03-09-2023 00:00,mcclain-reed,18030.79078,elective,30-09-2023 00:00,Lipitor,Inconclusive,27
+53,Female,O-,asthma,18-10-2020 00:00,young-smith,5142.163763,elective,10-11-2020 00:00,Paracetamol,Abnormal,23
+37,Female,B+,asthma,07-07-2021 00:00,hart-brock,19851.24293,elective,24-07-2021 00:00,Penicillin,Normal,17
+57,Female,O+,hypertension,28-08-2023 00:00,"jones and jones, turner",20545.87176,urgent,16-09-2023 00:00,Penicillin,Abnormal,19
+36,Male,O+,arthritis,17-11-2019 00:00,spears-shah,36869.72574,urgent,01-12-2019 00:00,Penicillin,Normal,14
+20,Female,B+,cancer,22-11-2020 00:00,"and anderson smith sanchez,",40598.42257,elective,17-12-2020 00:00,Paracetamol,Normal,25
+83,Male,O-,asthma,13-11-2021 00:00,"tran, and ferrell garcia",18198.05852,urgent,08-12-2021 00:00,Ibuprofen,Normal,25
+79,Male,B+,obesity,13-02-2022 00:00,ltd walton,4920.041189,elective,20-02-2022 00:00,Paracetamol,Normal,7
+62,Male,O+,diabetes,16-05-2019 00:00,group rodriguez,3864.139499,urgent,31-05-2019 00:00,Aspirin,Inconclusive,15
+38,Male,AB+,asthma,04-08-2021 00:00,carr llc,21562.86105,urgent,26-08-2021 00:00,Paracetamol,Normal,22
+75,Female,B-,cancer,03-01-2020 00:00,rodriguez-guerra,11815.20274,elective,27-01-2020 00:00,Ibuprofen,Abnormal,24
+28,Male,A+,hypertension,13-09-2022 00:00,"sullivan mullins, macias and",25796.86967,urgent,07-10-2022 00:00,Lipitor,Abnormal,24
+36,Male,O-,hypertension,19-12-2020 00:00,ballard plc,4266.784307,emergency,09-01-2021 00:00,Lipitor,Normal,21
+54,Male,AB+,obesity,31-03-2023 00:00,liu-wilson,4751.162741,urgent,29-04-2023 00:00,Penicillin,Inconclusive,29
+81,Female,B-,diabetes,08-05-2020 00:00,llc lewis,17968.49599,emergency,28-05-2020 00:00,Lipitor,Inconclusive,20
+56,Female,AB+,obesity,31-07-2023 00:00,"stokes chambers and martin,",11311.32735,urgent,02-08-2023 00:00,Lipitor,Normal,2
+30,Male,AB-,hypertension,09-01-2022 00:00,hernandez-green,47242.2243,emergency,12-01-2022 00:00,Ibuprofen,Inconclusive,3
+64,Female,A-,diabetes,16-12-2023 00:00,inc lee,17670.50522,elective,15-01-2024 00:00,Paracetamol,Inconclusive,30
+76,Male,A+,obesity,05-12-2020 00:00,wilkins group,5714.748018,elective,18-12-2020 00:00,Lipitor,Abnormal,13
+21,Female,AB+,diabetes,11-11-2021 00:00,valentine ltd,5985.978487,urgent,04-12-2021 00:00,Penicillin,Normal,23
+59,Female,O+,obesity,11-09-2019 00:00,alvarado-deleon,27385.73623,emergency,15-09-2019 00:00,Penicillin,Inconclusive,4
+31,Female,A-,diabetes,15-12-2020 00:00,"alexander and jensen andrews,",3730.002191,urgent,01-01-2021 00:00,Ibuprofen,Abnormal,17
+36,Female,O+,asthma,08-12-2022 00:00,"and black, henson rhodes",22480.96593,elective,02-01-2023 00:00,Ibuprofen,Inconclusive,25
+42,Female,B+,diabetes,15-07-2021 00:00,sons and marshall,35022.31671,elective,05-08-2021 00:00,Aspirin,Inconclusive,21
+18,Female,AB+,asthma,16-06-2022 00:00,rodriguez-franco,45072.41826,urgent,04-07-2022 00:00,Lipitor,Inconclusive,18
+62,Female,A+,obesity,09-02-2024 00:00,"fritz henderson stanton, and",45902.70764,urgent,19-02-2024 00:00,Aspirin,Normal,10
+53,Male,AB+,hypertension,04-03-2024 00:00,west-young,28899.18576,emergency,18-03-2024 00:00,Paracetamol,Abnormal,14
+82,Female,A+,obesity,11-02-2022 00:00,ltd solis,39003.18144,elective,25-02-2022 00:00,Lipitor,Normal,14
+19,Female,O-,diabetes,08-02-2022 00:00,mcneil-blake,10348.81852,emergency,17-02-2022 00:00,Ibuprofen,Inconclusive,9
+83,Female,A-,hypertension,15-06-2023 00:00,moore-waters,14371.5397,urgent,30-06-2023 00:00,Paracetamol,Inconclusive,15
+26,Male,O-,diabetes,11-10-2021 00:00,group scott,13769.40313,urgent,24-10-2021 00:00,Ibuprofen,Abnormal,13
+51,Male,O+,arthritis,12-12-2021 00:00,and simmons sons,35868.53864,elective,30-12-2021 00:00,Lipitor,Abnormal,18
+20,Male,O+,obesity,09-07-2023 00:00,"humphrey and browning fitzgerald,",35205.2846,emergency,15-07-2023 00:00,Lipitor,Abnormal,6
+61,Female,A-,obesity,08-09-2020 00:00,adams-molina,21576.50235,emergency,03-10-2020 00:00,Ibuprofen,Abnormal,25
+44,Male,AB-,hypertension,31-08-2020 00:00,guzman llc,18771.01069,urgent,18-09-2020 00:00,Lipitor,Abnormal,18
+74,Female,AB+,cancer,10-04-2024 00:00,gonzalez-pacheco,21668.56451,emergency,03-05-2024 00:00,Lipitor,Abnormal,23
+82,Female,B-,diabetes,10-08-2021 00:00,"hunt, carlson and cherry",36339.81908,elective,09-09-2021 00:00,Lipitor,Inconclusive,30
+83,Male,O-,diabetes,25-01-2022 00:00,ltd barnes,40825.18442,elective,28-01-2022 00:00,Aspirin,Abnormal,3
+62,Female,AB-,cancer,12-09-2023 00:00,"gordon, fox lane and",40469.56626,elective,12-10-2023 00:00,Penicillin,Normal,30
+62,Female,B-,obesity,05-08-2020 00:00,petersen ltd,25749.52084,elective,14-08-2020 00:00,Ibuprofen,Inconclusive,9
+18,Male,A-,asthma,07-05-2022 00:00,and mcdonald sons,15841.20168,urgent,03-06-2022 00:00,Ibuprofen,Abnormal,27
+66,Male,A+,arthritis,13-02-2022 00:00,"smith, elliott and blackburn",36086.57208,urgent,23-02-2022 00:00,Paracetamol,Normal,10
+26,Female,AB+,asthma,03-03-2024 00:00,plc oliver,32085.22765,urgent,27-03-2024 00:00,Penicillin,Inconclusive,24
+45,Female,B+,cancer,14-03-2020 00:00,"griffin and lyons rivers,",12356.56065,emergency,03-04-2020 00:00,Aspirin,Inconclusive,20
+26,Male,AB-,asthma,07-02-2024 00:00,craig-garcia,15367.41132,emergency,24-02-2024 00:00,Ibuprofen,Inconclusive,17
+26,Male,O+,cancer,21-07-2019 00:00,baker-jones,40190.20292,elective,05-08-2019 00:00,Penicillin,Abnormal,15
+79,Female,O+,diabetes,14-04-2023 00:00,duffy-kelly,3872.096985,elective,18-04-2023 00:00,Penicillin,Inconclusive,4
+33,Female,B-,arthritis,17-01-2024 00:00,rodriguez-becker,3311.589106,elective,05-02-2024 00:00,Lipitor,Normal,19
+34,Female,O+,cancer,25-06-2019 00:00,group brown,18524.86664,urgent,30-06-2019 00:00,Lipitor,Abnormal,5
+76,Female,AB-,hypertension,20-05-2021 00:00,powers-vincent,30107.48704,emergency,12-06-2021 00:00,Ibuprofen,Inconclusive,23
+50,Female,B-,obesity,03-04-2020 00:00,"and ramos brown edwards,",15826.10128,emergency,11-04-2020 00:00,Paracetamol,Normal,8
+44,Male,B-,diabetes,21-01-2020 00:00,johnson group,26437.77463,emergency,30-01-2020 00:00,Ibuprofen,Abnormal,9
+38,Female,AB-,arthritis,02-12-2021 00:00,atkins inc,49663.45287,emergency,07-12-2021 00:00,Paracetamol,Normal,5
+43,Male,AB+,cancer,28-05-2021 00:00,marshall llc,27278.23689,urgent,18-06-2021 00:00,Ibuprofen,Abnormal,21
+27,Female,AB+,hypertension,23-03-2020 00:00,ltd cruz,33170.43674,urgent,11-04-2020 00:00,Paracetamol,Abnormal,19
+78,Male,A+,asthma,06-08-2022 00:00,harrison-parker,1791.389001,urgent,05-09-2022 00:00,Paracetamol,Normal,30
+40,Male,A+,diabetes,09-03-2024 00:00,lee-clayton,31188.04149,elective,05-04-2024 00:00,Ibuprofen,Normal,27
+25,Male,AB-,arthritis,15-03-2022 00:00,mcdaniel and sons,13854.64576,elective,10-04-2022 00:00,Penicillin,Inconclusive,26
+67,Female,AB+,obesity,08-08-2020 00:00,inc lynch,11870.90838,elective,14-08-2020 00:00,Ibuprofen,Abnormal,6
+47,Female,AB+,obesity,09-06-2019 00:00,"and mendoza rich morales,",25574.12762,elective,01-07-2019 00:00,Aspirin,Inconclusive,22
+75,Male,AB-,arthritis,07-09-2019 00:00,proctor-jones,6132.404095,urgent,06-10-2019 00:00,Paracetamol,Normal,29
+58,Female,A-,obesity,14-02-2021 00:00,"and ramirez figueroa may,",33343.90249,elective,26-02-2021 00:00,Lipitor,Inconclusive,12
+26,Female,A-,hypertension,10-11-2019 00:00,michael-jenkins,43484.24975,urgent,26-11-2019 00:00,Penicillin,Abnormal,16
+22,Male,O+,obesity,16-04-2023 00:00,hardy inc,7858.92686,urgent,14-05-2023 00:00,Penicillin,Normal,28
+29,Female,B+,asthma,25-04-2020 00:00,"turner, and williams mercado",33161.9384,urgent,28-04-2020 00:00,Paracetamol,Inconclusive,3
+30,Male,A-,cancer,21-08-2021 00:00,plc williams,2879.460532,urgent,28-08-2021 00:00,Ibuprofen,Normal,7
+22,Female,O+,asthma,14-01-2021 00:00,evans ltd,46492.86177,elective,27-01-2021 00:00,Aspirin,Inconclusive,13
+34,Male,AB+,hypertension,12-09-2020 00:00,merritt-gray,5259.27305,elective,26-09-2020 00:00,Paracetamol,Abnormal,14
+20,Male,AB+,arthritis,27-03-2020 00:00,"huang travis thomas, and",2784.58249,emergency,16-04-2020 00:00,Aspirin,Inconclusive,20
+37,Female,A-,arthritis,26-07-2019 00:00,rodriguez-zimmerman,13418.21637,emergency,17-08-2019 00:00,Penicillin,Abnormal,22
+25,Female,A+,cancer,07-12-2023 00:00,miller plc,36990.45578,urgent,14-12-2023 00:00,Aspirin,Normal,7
+45,Female,B-,cancer,11-06-2021 00:00,"may, mullins and martin",43567.14416,urgent,03-07-2021 00:00,Paracetamol,Normal,22
+18,Male,O-,diabetes,11-02-2022 00:00,moore-robbins,35570.07656,emergency,23-02-2022 00:00,Ibuprofen,Inconclusive,12
+56,Male,O+,arthritis,12-09-2020 00:00,ltd howard,6848.130427,emergency,22-09-2020 00:00,Aspirin,Normal,10
+44,Male,AB-,asthma,25-05-2020 00:00,group crosby,4677.595847,emergency,05-06-2020 00:00,Lipitor,Inconclusive,11
+34,Male,O+,hypertension,25-09-2023 00:00,cook ltd,35157.17027,elective,21-10-2023 00:00,Penicillin,Normal,26
+26,Male,B+,obesity,22-06-2022 00:00,"rivas, mcconnell hill and",34719.17385,elective,20-07-2022 00:00,Lipitor,Normal,28
+32,Male,O+,obesity,12-01-2020 00:00,conner-flores,23775.44901,elective,19-01-2020 00:00,Aspirin,Normal,7
+64,Male,B+,arthritis,29-07-2022 00:00,suarez-nelson,17732.46937,urgent,07-08-2022 00:00,Ibuprofen,Normal,9
+80,Male,A-,asthma,20-02-2023 00:00,"and walker glenn, long",3845.397496,emergency,10-03-2023 00:00,Penicillin,Normal,18
+80,Male,A-,cancer,14-07-2021 00:00,plc anderson,22401.55035,elective,24-07-2021 00:00,Lipitor,Inconclusive,10
+37,Female,O+,hypertension,17-04-2024 00:00,blackwell-gamble,23340.30472,urgent,07-05-2024 00:00,Aspirin,Normal,20
+52,Female,A+,hypertension,04-02-2021 00:00,wagner plc,3042.409184,urgent,28-02-2021 00:00,Aspirin,Abnormal,24
+83,Female,O-,diabetes,02-09-2021 00:00,goodman-kelly,41817.67918,urgent,19-09-2021 00:00,Paracetamol,Inconclusive,17
+28,Female,B-,arthritis,10-09-2022 00:00,"and boyd powell, sims",49700.32421,elective,01-10-2022 00:00,Paracetamol,Abnormal,21
+63,Male,A+,diabetes,25-11-2022 00:00,"and conrad boyd, burnett",45157.47112,elective,20-12-2022 00:00,Lipitor,Normal,25
+85,Male,O-,asthma,04-08-2023 00:00,ayala-armstrong,18832.10034,emergency,12-08-2023 00:00,Ibuprofen,Abnormal,8
+37,Male,O-,hypertension,20-11-2020 00:00,"and lambert white, vargas",31732.13008,elective,06-12-2020 00:00,Lipitor,Normal,16
+22,Male,AB-,diabetes,23-10-2019 00:00,group doyle,42214.9797,urgent,09-11-2019 00:00,Paracetamol,Abnormal,17
+80,Female,AB+,arthritis,17-10-2020 00:00,henderson-johnson,12400.2051,elective,29-10-2020 00:00,Aspirin,Normal,12
+48,Female,O+,arthritis,27-12-2022 00:00,"baker conrad and andrews,",1133.586476,urgent,31-12-2022 00:00,Penicillin,Abnormal,4
+29,Male,B+,obesity,16-06-2023 00:00,"perkins, salazar and johnson",24340.32286,emergency,14-07-2023 00:00,Aspirin,Inconclusive,28
+76,Male,A+,arthritis,06-11-2023 00:00,johnson-perez,39390.93555,elective,21-11-2023 00:00,Aspirin,Abnormal,15
+23,Female,A+,hypertension,26-12-2023 00:00,powell-werner,17012.5074,elective,22-01-2024 00:00,Penicillin,Normal,27
+33,Male,B-,asthma,10-02-2023 00:00,morales group,14493.6139,emergency,05-03-2023 00:00,Penicillin,Inconclusive,23
+34,Male,O+,hypertension,01-07-2020 00:00,"and fernandez, wilson morrison",32679.26859,emergency,10-07-2020 00:00,Paracetamol,Normal,9
+44,Female,AB+,obesity,21-09-2023 00:00,mayo and sons,6232.001787,emergency,25-09-2023 00:00,Ibuprofen,Inconclusive,4
+84,Male,B+,diabetes,25-11-2020 00:00,"huffman hall orozco, and",22982.25212,urgent,02-12-2020 00:00,Ibuprofen,Abnormal,7
+25,Female,A+,cancer,10-07-2020 00:00,white-buchanan,28213.81547,urgent,18-07-2020 00:00,Aspirin,Abnormal,8
+42,Male,B-,arthritis,24-12-2022 00:00,"and dixon taylor hunter,",10645.56585,emergency,06-01-2023 00:00,Ibuprofen,Normal,13
+57,Male,B+,arthritis,05-10-2019 00:00,"anderson and medina, sullivan",35041.03097,elective,20-10-2019 00:00,Lipitor,Normal,15
+75,Female,O-,arthritis,13-03-2022 00:00,plc dixon,45980.29229,emergency,26-03-2022 00:00,Aspirin,Inconclusive,13
+24,Female,AB+,obesity,15-05-2020 00:00,bowman-keith,25163.82248,elective,10-06-2020 00:00,Ibuprofen,Normal,26
+43,Female,AB-,asthma,02-12-2020 00:00,tyler plc,43670.37819,elective,23-12-2020 00:00,Aspirin,Normal,21
+22,Male,AB+,asthma,08-01-2024 00:00,velazquez-patton,33706.59767,emergency,15-01-2024 00:00,Aspirin,Inconclusive,7
+64,Female,AB-,arthritis,16-08-2019 00:00,bass inc,5549.785436,emergency,06-09-2019 00:00,Ibuprofen,Inconclusive,21
+66,Female,AB+,arthritis,23-03-2023 00:00,"newton, smith ruiz and",49078.46901,elective,19-04-2023 00:00,Penicillin,Abnormal,27
+19,Male,O+,obesity,20-01-2020 00:00,graham-fisher,23687.99364,emergency,11-02-2020 00:00,Ibuprofen,Normal,22
+79,Female,B-,diabetes,23-01-2024 00:00,scott ltd,17720.31873,elective,22-02-2024 00:00,Paracetamol,Abnormal,30
+76,Male,B-,asthma,20-12-2022 00:00,rosales-sweeney,27361.24968,emergency,02-01-2023 00:00,Paracetamol,Normal,13
+37,Female,A+,obesity,10-08-2021 00:00,"larson andrews, and lynch",39265.64605,elective,03-09-2021 00:00,Ibuprofen,Normal,24
+62,Male,O-,arthritis,23-11-2020 00:00,plc york,32868.08277,emergency,28-11-2020 00:00,Paracetamol,Inconclusive,5
+80,Male,A-,asthma,10-02-2020 00:00,kelly-watson,22032.38959,emergency,29-02-2020 00:00,Ibuprofen,Normal,19
+49,Female,A+,diabetes,04-06-2019 00:00,"smith gonzalez robinson, and",43165.69409,elective,17-06-2019 00:00,Ibuprofen,Abnormal,13
+66,Female,O+,obesity,24-09-2023 00:00,cook-taylor,1870.60844,emergency,11-10-2023 00:00,Penicillin,Inconclusive,17
+50,Male,B-,diabetes,16-08-2021 00:00,robinson-reyes,50254.20183,elective,20-08-2021 00:00,Aspirin,Inconclusive,4
+39,Male,AB-,arthritis,06-07-2020 00:00,reid inc,23159.66303,elective,22-07-2020 00:00,Penicillin,Inconclusive,16
+31,Female,B-,diabetes,07-12-2022 00:00,"kemp and taylor, jones",11469.39059,elective,29-12-2022 00:00,Paracetamol,Abnormal,22
+84,Male,AB-,cancer,29-12-2023 00:00,richards-mack,35435.17015,elective,16-01-2024 00:00,Ibuprofen,Abnormal,18
+71,Male,O-,cancer,16-02-2023 00:00,"and smith harmon, marshall",26139.78595,urgent,25-02-2023 00:00,Paracetamol,Abnormal,9
+79,Male,B+,cancer,12-05-2022 00:00,"velasquez and walker russo,",21296.51873,emergency,16-05-2022 00:00,Paracetamol,Abnormal,4
+56,Male,O+,arthritis,20-09-2023 00:00,"harrington, and owens preston",8421.915385,emergency,25-09-2023 00:00,Paracetamol,Inconclusive,5
+36,Male,O-,obesity,11-01-2020 00:00,downs plc,23892.55267,emergency,16-01-2020 00:00,Aspirin,Normal,5
+38,Male,O-,obesity,30-03-2022 00:00,"zhang long eaton, and",8171.462615,elective,26-04-2022 00:00,Ibuprofen,Inconclusive,27
+21,Male,AB+,arthritis,11-05-2020 00:00,plc mills,23457.30929,elective,20-05-2020 00:00,Lipitor,Normal,9
+55,Female,O+,cancer,20-01-2022 00:00,"hoffman cox mcdonald, and",25787.43914,emergency,16-02-2022 00:00,Paracetamol,Normal,27
+79,Female,A-,hypertension,13-11-2019 00:00,carpenter and sons,28525.52477,urgent,24-11-2019 00:00,Aspirin,Abnormal,11
+55,Male,AB-,arthritis,03-02-2021 00:00,"collins and moore chan,",17182.86981,emergency,20-02-2021 00:00,Lipitor,Abnormal,17
+24,Male,AB+,asthma,24-10-2020 00:00,"and wood lewis, monroe",20980.30306,elective,15-11-2020 00:00,Aspirin,Inconclusive,22
+39,Female,O+,hypertension,03-10-2022 00:00,"and keller, ortega miller",4243.202644,urgent,06-10-2022 00:00,Ibuprofen,Abnormal,3
+63,Female,B+,cancer,24-12-2023 00:00,"austin, and reynolds duran",40137.78917,elective,02-01-2024 00:00,Ibuprofen,Normal,9
+26,Male,AB-,asthma,18-11-2023 00:00,lopez llc,30676.44176,elective,26-11-2023 00:00,Ibuprofen,Normal,8
+76,Female,AB+,hypertension,12-03-2024 00:00,clark-tran,45594.88907,urgent,09-04-2024 00:00,Paracetamol,Abnormal,28
+69,Male,A+,cancer,12-04-2023 00:00,"villanueva and carter hughes,",29076.62961,urgent,07-05-2023 00:00,Ibuprofen,Abnormal,25
+38,Female,O+,obesity,16-06-2021 00:00,ltd osborn,5223.502081,emergency,11-07-2021 00:00,Paracetamol,Abnormal,25
+19,Male,AB-,hypertension,24-11-2021 00:00,llc hodge,41840.65803,elective,13-12-2021 00:00,Penicillin,Abnormal,19
+61,Male,B-,obesity,06-07-2020 00:00,"lopez and shepard smith,",26504.86591,emergency,22-07-2020 00:00,Aspirin,Normal,16
+42,Female,AB-,arthritis,26-06-2022 00:00,"moss and meadows jones,",7946.129113,elective,01-07-2022 00:00,Ibuprofen,Inconclusive,5
+57,Male,AB-,diabetes,21-07-2020 00:00,young-williams,18689.13845,urgent,31-07-2020 00:00,Lipitor,Normal,10
+36,Female,A-,arthritis,04-11-2019 00:00,"bailey morgan frey, and",30051.97507,urgent,03-12-2019 00:00,Ibuprofen,Abnormal,29
+68,Female,AB+,hypertension,01-11-2021 00:00,"neal price and smith,",22913.55425,urgent,03-11-2021 00:00,Paracetamol,Normal,2
+25,Female,B+,obesity,17-11-2019 00:00,"and johnson hobbs owens,",36238.57685,elective,30-11-2019 00:00,Ibuprofen,Inconclusive,13
+37,Female,B+,obesity,19-12-2022 00:00,melton inc,25217.45618,urgent,06-01-2023 00:00,Aspirin,Normal,18
+68,Male,A+,asthma,06-10-2020 00:00,and weber sons,41548.40831,urgent,20-10-2020 00:00,Aspirin,Normal,14
+81,Female,AB-,arthritis,16-01-2022 00:00,"chung rodriguez bradley, and",7562.39438,elective,22-01-2022 00:00,Ibuprofen,Abnormal,6
+74,Female,A+,asthma,06-07-2023 00:00,"white wilson and farmer,",386.0540547,elective,03-08-2023 00:00,Aspirin,Normal,28
+75,Male,O+,arthritis,12-06-2021 00:00,group thompson,31491.61471,urgent,15-06-2021 00:00,Ibuprofen,Abnormal,3
+74,Female,AB+,cancer,27-08-2019 00:00,and sons rangel,34224.34834,elective,01-09-2019 00:00,Lipitor,Abnormal,5
+28,Female,AB-,diabetes,17-05-2022 00:00,"travis, and richardson hampton",23673.72174,urgent,12-06-2022 00:00,Ibuprofen,Abnormal,26
+35,Male,AB+,hypertension,02-10-2020 00:00,"and wilson matthews, faulkner",40301.99731,elective,17-10-2020 00:00,Ibuprofen,Inconclusive,15
+79,Female,O+,asthma,20-08-2021 00:00,group bailey,37116.16381,elective,16-09-2021 00:00,Lipitor,Abnormal,27
+59,Female,O-,asthma,05-11-2019 00:00,rosales-johnson,38606.9638,elective,17-11-2019 00:00,Aspirin,Inconclusive,12
+84,Female,O-,arthritis,06-02-2024 00:00,bush-brown,17813.9305,emergency,28-02-2024 00:00,Penicillin,Inconclusive,22
+36,Female,O-,asthma,07-02-2024 00:00,saunders-smith,20773.02332,urgent,21-02-2024 00:00,Ibuprofen,Normal,14
+69,Male,O+,arthritis,22-06-2023 00:00,"and mckay, morrow myers",9609.522307,urgent,11-07-2023 00:00,Lipitor,Normal,19
+54,Male,A-,cancer,19-11-2020 00:00,sherman-martinez,3771.237166,urgent,27-11-2020 00:00,Penicillin,Abnormal,8
+30,Female,O+,asthma,24-11-2021 00:00,"baker, weber patton and",51587.93682,emergency,07-12-2021 00:00,Ibuprofen,Abnormal,13
+31,Male,O-,cancer,26-07-2019 00:00,"and fitzgerald shaw, edwards",28456.69856,elective,29-07-2019 00:00,Lipitor,Inconclusive,3
+81,Female,AB+,cancer,05-07-2022 00:00,kim-higgins,33870.1209,elective,08-07-2022 00:00,Ibuprofen,Abnormal,3
+61,Female,O+,diabetes,29-08-2019 00:00,"morgan, kramer munoz and",2303.998423,elective,07-09-2019 00:00,Paracetamol,Normal,9
+52,Male,B+,hypertension,02-05-2024 00:00,harvey group,1878.007302,elective,21-05-2024 00:00,Paracetamol,Abnormal,19
+25,Male,B+,asthma,26-05-2020 00:00,mercer-rogers,19160.99373,elective,31-05-2020 00:00,Penicillin,Normal,5
+56,Male,B+,cancer,20-03-2024 00:00,duran sons and,5811.629851,urgent,06-04-2024 00:00,Paracetamol,Normal,17
+44,Male,O+,diabetes,27-03-2024 00:00,"vaughan parker and wagner,",22868.53034,elective,08-04-2024 00:00,Ibuprofen,Abnormal,12
+30,Female,O+,arthritis,22-03-2021 00:00,lee-jacobson,48281.91194,urgent,25-03-2021 00:00,Ibuprofen,Abnormal,3
+82,Male,O-,cancer,03-10-2020 00:00,"hayes robbins and gallagher,",30562.56763,emergency,28-10-2020 00:00,Paracetamol,Abnormal,25
+67,Male,B+,obesity,17-05-2023 00:00,"evans and byrd, smith",24293.63303,emergency,31-05-2023 00:00,Ibuprofen,Normal,14
+41,Male,A+,arthritis,12-08-2022 00:00,and howell sons,5878.778853,emergency,31-08-2022 00:00,Ibuprofen,Abnormal,19
+84,Male,A-,arthritis,20-06-2020 00:00,"clements and scott, peters",28410.43877,urgent,22-06-2020 00:00,Ibuprofen,Abnormal,2
+85,Female,AB+,asthma,20-04-2023 00:00,gomez-olson,27414.0188,emergency,05-05-2023 00:00,Ibuprofen,Normal,15
+26,Female,A-,hypertension,28-10-2019 00:00,"and medina morgan, whitehead",5826.244027,emergency,21-11-2019 00:00,Penicillin,Abnormal,24
+49,Female,O+,diabetes,31-08-2021 00:00,miller llc,2133.737202,urgent,05-09-2021 00:00,Ibuprofen,Normal,5
+47,Female,A+,hypertension,14-07-2021 00:00,jones-aguirre,34262.60947,urgent,06-08-2021 00:00,Penicillin,Inconclusive,23
+69,Male,A-,diabetes,21-01-2022 00:00,plc gonzalez,44897.04901,elective,02-02-2022 00:00,Paracetamol,Normal,12
+78,Female,O+,asthma,16-09-2019 00:00,and davies sons,22230.12276,urgent,16-10-2019 00:00,Penicillin,Normal,30
+29,Male,AB+,diabetes,20-01-2023 00:00,soto-richmond,32895.10189,urgent,29-01-2023 00:00,Aspirin,Abnormal,9
+73,Male,A+,cancer,04-01-2020 00:00,"and morrison ho woods,",5349.056116,emergency,16-01-2020 00:00,Paracetamol,Normal,12
+53,Male,AB-,obesity,03-03-2024 00:00,lewis and sons,23235.85441,elective,15-03-2024 00:00,Aspirin,Inconclusive,12
+34,Male,AB+,diabetes,06-07-2019 00:00,wood-sandoval,25683.27986,elective,01-08-2019 00:00,Paracetamol,Inconclusive,26
+38,Female,AB-,obesity,01-12-2022 00:00,ball llc,45560.28184,elective,03-12-2022 00:00,Ibuprofen,Normal,2
+70,Female,B-,arthritis,10-05-2020 00:00,scott llc,16850.88631,urgent,30-05-2020 00:00,Penicillin,Abnormal,20
+59,Female,AB+,hypertension,10-03-2024 00:00,"and wright, long schroeder",34365.99712,elective,16-03-2024 00:00,Ibuprofen,Inconclusive,6
+43,Male,AB+,arthritis,14-01-2020 00:00,ltd crawford,11968.02382,urgent,19-01-2020 00:00,Paracetamol,Inconclusive,5
+49,Male,B-,diabetes,07-06-2020 00:00,group moore,10076.89253,elective,26-06-2020 00:00,Penicillin,Inconclusive,19
+63,Male,AB-,asthma,11-11-2020 00:00,burch-marks,44582.81736,elective,30-11-2020 00:00,Penicillin,Abnormal,19
+40,Female,O+,asthma,07-05-2021 00:00,koch-alvarado,30334.98907,urgent,31-05-2021 00:00,Aspirin,Abnormal,24
+80,Male,B-,arthritis,13-07-2021 00:00,"garcia edwards and daniel,",6196.635136,urgent,05-08-2021 00:00,Penicillin,Normal,23
+74,Female,B+,cancer,25-03-2024 00:00,carter-camacho,45438.90695,emergency,03-04-2024 00:00,Lipitor,Normal,9
+70,Male,O+,diabetes,25-03-2020 00:00,malone llc,43707.17924,urgent,02-04-2020 00:00,Lipitor,Normal,8
+39,Female,AB-,diabetes,14-05-2023 00:00,zamora plc,20105.02993,urgent,20-05-2023 00:00,Penicillin,Normal,6
+47,Female,AB+,diabetes,19-11-2022 00:00,ltd hernandez,11938.06769,urgent,23-11-2022 00:00,Penicillin,Normal,4
+49,Male,AB+,diabetes,10-03-2021 00:00,"gomez ray, and jones",10836.21122,emergency,30-03-2021 00:00,Lipitor,Abnormal,20
+64,Male,A-,obesity,15-11-2020 00:00,"davis, ray and thompson",40037.47999,urgent,20-11-2020 00:00,Ibuprofen,Inconclusive,5
+40,Male,A+,asthma,28-01-2024 00:00,mckinney-edwards,42959.29981,elective,21-02-2024 00:00,Paracetamol,Abnormal,24
+77,Male,A-,arthritis,07-07-2020 00:00,parker-shannon,40196.82528,urgent,05-08-2020 00:00,Paracetamol,Abnormal,29
+61,Male,AB-,hypertension,22-01-2023 00:00,lawrence llc,39827.66342,elective,27-01-2023 00:00,Ibuprofen,Inconclusive,5
+36,Female,A-,asthma,10-05-2020 00:00,"and thompson burke, harrington",3516.84785,emergency,24-05-2020 00:00,Aspirin,Inconclusive,14
+19,Female,O+,diabetes,09-07-2021 00:00,"johnson goodman clark, and",25414.79593,elective,04-08-2021 00:00,Aspirin,Abnormal,26
+21,Male,O-,cancer,11-06-2020 00:00,"doyle hess, and dudley",36230.38776,elective,21-06-2020 00:00,Paracetamol,Inconclusive,10
+49,Male,AB-,asthma,21-04-2020 00:00,bass plc,22427.17414,emergency,09-05-2020 00:00,Lipitor,Inconclusive,18
+62,Female,A+,obesity,06-10-2019 00:00,"willis and hunt pope,",39250.44744,urgent,04-11-2019 00:00,Aspirin,Normal,29
+54,Female,O-,hypertension,11-07-2020 00:00,"gray, hensley and hanson",5226.001297,urgent,31-07-2020 00:00,Penicillin,Normal,20
+22,Male,AB-,obesity,03-04-2022 00:00,moore-woods,7732.672265,elective,17-04-2022 00:00,Paracetamol,Abnormal,14
+74,Male,A-,hypertension,21-01-2020 00:00,moore-franco,11304.00258,urgent,29-01-2020 00:00,Aspirin,Abnormal,8
+35,Female,A+,asthma,16-12-2022 00:00,hamilton and sons,38403.57658,elective,08-01-2023 00:00,Lipitor,Abnormal,23
+20,Male,B-,asthma,20-07-2022 00:00,burke group,14039.88614,emergency,29-07-2022 00:00,Ibuprofen,Inconclusive,9
+18,Female,B-,cancer,25-07-2021 00:00,anderson llc,6958.697671,elective,28-07-2021 00:00,Paracetamol,Abnormal,3
+55,Female,O+,cancer,19-07-2023 00:00,sims-jimenez,3254.03222,urgent,02-08-2023 00:00,Lipitor,Normal,14
+66,Male,B-,diabetes,22-05-2023 00:00,holloway plc,11855.95202,urgent,08-06-2023 00:00,Ibuprofen,Inconclusive,17
+62,Female,O-,hypertension,08-07-2020 00:00,cain-stone,22368.37594,emergency,25-07-2020 00:00,Ibuprofen,Inconclusive,17
+43,Female,A-,asthma,27-12-2022 00:00,garner group,48511.65473,urgent,24-01-2023 00:00,Lipitor,Inconclusive,28
+24,Female,B-,diabetes,21-06-2019 00:00,ltd logan,10126.50257,urgent,12-07-2019 00:00,Ibuprofen,Abnormal,21
+46,Female,O+,diabetes,01-01-2021 00:00,bishop plc,8470.6413,elective,27-01-2021 00:00,Penicillin,Inconclusive,26
+58,Male,AB-,asthma,07-09-2022 00:00,lewis-mitchell,25086.01392,urgent,28-09-2022 00:00,Lipitor,Inconclusive,21
+58,Male,B+,obesity,09-06-2022 00:00,and campbell sons,36524.37725,urgent,26-06-2022 00:00,Ibuprofen,Abnormal,17
+48,Male,B+,cancer,01-11-2023 00:00,james plc,5945.011816,elective,10-11-2023 00:00,Paracetamol,Inconclusive,9
+43,Male,O-,obesity,06-08-2023 00:00,colon-meyer,3601.681679,urgent,13-08-2023 00:00,Lipitor,Inconclusive,7
+74,Female,AB+,obesity,30-07-2022 00:00,"and woods liu, berry",4920.190418,elective,25-08-2022 00:00,Aspirin,Abnormal,26
+47,Female,AB-,diabetes,04-02-2021 00:00,llc clayton,48887.23452,elective,28-02-2021 00:00,Ibuprofen,Inconclusive,24
+35,Male,A+,cancer,26-11-2021 00:00,le-hawkins,48826.38706,urgent,09-12-2021 00:00,Paracetamol,Normal,13
+28,Male,B-,arthritis,02-07-2020 00:00,"martinez taylor lopez, and",5509.595801,emergency,03-07-2020 00:00,Lipitor,Abnormal,1
+49,Male,A-,diabetes,09-08-2021 00:00,williams group,37636.44166,elective,06-09-2021 00:00,Ibuprofen,Normal,28
+28,Male,AB-,obesity,18-01-2024 00:00,schmidt-douglas,20885.91951,emergency,04-02-2024 00:00,Ibuprofen,Inconclusive,17
+50,Male,O-,obesity,17-01-2023 00:00,ltd fleming,35114.48997,elective,10-02-2023 00:00,Paracetamol,Normal,24
+59,Male,A-,obesity,27-03-2024 00:00,"smith brown wallace, and",6191.392656,elective,21-04-2024 00:00,Lipitor,Normal,25
+22,Female,O+,hypertension,10-01-2023 00:00,boyer inc,40697.96895,elective,23-01-2023 00:00,Ibuprofen,Normal,13
+62,Female,B+,arthritis,14-07-2019 00:00,miranda-collins,43465.95278,urgent,18-07-2019 00:00,Lipitor,Normal,4
+21,Female,A+,cancer,18-05-2020 00:00,hoffman and sons,16866.06882,elective,02-06-2020 00:00,Ibuprofen,Normal,15
+44,Male,B-,obesity,15-06-2022 00:00,group ortega,41454.68526,emergency,25-06-2022 00:00,Ibuprofen,Inconclusive,10
+27,Male,B+,hypertension,27-03-2020 00:00,"mitchell, vasquez and chaney",47735.38424,urgent,05-04-2020 00:00,Penicillin,Normal,9
+47,Male,O-,diabetes,20-02-2020 00:00,villa-simpson,2826.812981,elective,01-03-2020 00:00,Lipitor,Normal,10
+51,Male,O-,hypertension,16-06-2020 00:00,llc haynes,26524.1728,elective,21-06-2020 00:00,Penicillin,Inconclusive,5
+48,Female,B-,hypertension,06-06-2019 00:00,inc cummings,36727.58101,urgent,02-07-2019 00:00,Ibuprofen,Normal,26
+83,Male,B-,arthritis,18-01-2022 00:00,downs-stephens,4509.403061,elective,05-02-2022 00:00,Paracetamol,Abnormal,18
+64,Male,A+,arthritis,11-01-2021 00:00,"carson and nielsen, buchanan",25709.58443,elective,23-01-2021 00:00,Aspirin,Abnormal,12
+19,Male,O+,obesity,04-02-2021 00:00,hicks-perez,20086.2171,urgent,15-02-2021 00:00,Aspirin,Abnormal,11
+39,Male,B-,asthma,30-05-2022 00:00,"wilson and brown, ortiz",36862.1718,elective,01-06-2022 00:00,Aspirin,Inconclusive,2
+23,Female,O+,hypertension,19-12-2021 00:00,berg-mcconnell,40065.33889,elective,30-12-2021 00:00,Paracetamol,Normal,11
+24,Male,B+,diabetes,20-07-2021 00:00,gilbert ltd,41997.35456,elective,07-08-2021 00:00,Lipitor,Abnormal,18
+73,Female,AB-,cancer,27-12-2022 00:00,gutierrez-webster,22601.56745,elective,19-01-2023 00:00,Paracetamol,Abnormal,23
+56,Male,O-,obesity,05-09-2022 00:00,group thompson,36204.73233,urgent,04-10-2022 00:00,Penicillin,Normal,29
+36,Male,B+,cancer,27-07-2022 00:00,cooley-reid,41311.2939,emergency,19-08-2022 00:00,Lipitor,Inconclusive,23
+33,Male,A+,cancer,03-05-2024 00:00,"and davenport davis hobbs,",36890.26905,elective,15-05-2024 00:00,Lipitor,Normal,12
+21,Male,O+,arthritis,28-08-2019 00:00,thompson-becker,5716.104208,emergency,16-09-2019 00:00,Aspirin,Abnormal,19
+80,Male,B-,diabetes,21-04-2024 00:00,mitchell inc,10461.98069,emergency,07-05-2024 00:00,Aspirin,Abnormal,16
+79,Female,O+,arthritis,12-03-2024 00:00,"mack, wilson and fowler",37879.97903,urgent,04-04-2024 00:00,Aspirin,Abnormal,23
+44,Male,A+,obesity,29-09-2019 00:00,"johnson garcia, and anthony",44355.20415,elective,05-10-2019 00:00,Aspirin,Inconclusive,6
+23,Male,AB+,obesity,19-08-2022 00:00,"and young powell mitchell,",28355.45246,urgent,24-08-2022 00:00,Penicillin,Normal,5
+75,Male,A-,cancer,18-10-2021 00:00,bishop inc,22935.41171,elective,01-11-2021 00:00,Ibuprofen,Normal,14
+60,Male,A-,hypertension,07-04-2023 00:00,coleman-dawson,42605.63534,elective,05-05-2023 00:00,Lipitor,Normal,28
+83,Male,AB-,asthma,28-10-2019 00:00,cunningham-king,24023.95612,elective,24-11-2019 00:00,Ibuprofen,Inconclusive,27
+61,Female,AB+,hypertension,29-06-2020 00:00,anderson plc,20577.70893,elective,26-07-2020 00:00,Penicillin,Normal,27
+82,Female,AB+,diabetes,21-09-2022 00:00,"freeman king hodges, and",7264.885037,emergency,03-10-2022 00:00,Aspirin,Normal,12
+40,Male,A-,arthritis,10-08-2023 00:00,sons wilson and,29913.84933,urgent,15-08-2023 00:00,Ibuprofen,Normal,5
+70,Female,B+,hypertension,16-05-2022 00:00,woodward ltd,43353.40395,elective,26-05-2022 00:00,Lipitor,Normal,10
+68,Female,O+,cancer,25-08-2020 00:00,"powell branch osborn, and",18382.66405,elective,15-09-2020 00:00,Lipitor,Abnormal,21
+31,Female,B-,cancer,04-10-2023 00:00,"brown brown, and sanders",49419.86801,elective,11-10-2023 00:00,Ibuprofen,Inconclusive,7
+28,Male,O+,asthma,28-04-2022 00:00,harris-oconnor,9958.023901,emergency,27-05-2022 00:00,Penicillin,Inconclusive,29
+84,Male,O+,hypertension,29-05-2019 00:00,"paul richardson haynes, and",21438.27899,elective,17-06-2019 00:00,Aspirin,Abnormal,19
+34,Female,AB+,arthritis,09-03-2024 00:00,patterson-lee,1820.015821,emergency,23-03-2024 00:00,Aspirin,Abnormal,14
+25,Female,B+,hypertension,07-01-2020 00:00,"and yang fox scott,",32760.46876,urgent,01-02-2020 00:00,Aspirin,Normal,25
+58,Female,B+,asthma,10-11-2019 00:00,"burch, and sexton sandoval",35421.82583,elective,06-12-2019 00:00,Paracetamol,Abnormal,26
+78,Female,O+,diabetes,24-01-2023 00:00,"johnson and delgado, bennett",44393.18053,elective,01-02-2023 00:00,Aspirin,Inconclusive,8
+56,Male,AB+,diabetes,28-07-2019 00:00,garza group,16578.90584,urgent,26-08-2019 00:00,Penicillin,Inconclusive,29
+77,Male,AB-,arthritis,18-07-2022 00:00,"olson, andrade and dixon",33749.85877,emergency,07-08-2022 00:00,Paracetamol,Abnormal,20
+61,Female,A+,asthma,07-06-2020 00:00,fisher inc,3903.756243,urgent,01-07-2020 00:00,Penicillin,Abnormal,24
+40,Female,B-,cancer,07-12-2020 00:00,farrell-lyons,22720.3337,emergency,20-12-2020 00:00,Lipitor,Abnormal,13
+80,Male,AB-,diabetes,10-04-2020 00:00,"greer cain and taylor,",35411.47137,elective,30-04-2020 00:00,Paracetamol,Abnormal,20
+35,Male,A-,hypertension,12-07-2023 00:00,turner ltd,27342.22674,urgent,22-07-2023 00:00,Aspirin,Normal,10
+85,Female,A+,cancer,10-09-2022 00:00,johnson group,27971.28036,emergency,14-09-2022 00:00,Lipitor,Abnormal,4
+64,Male,AB-,hypertension,15-04-2021 00:00,sherman inc,26894.07493,emergency,07-05-2021 00:00,Aspirin,Normal,22
+30,Female,O-,cancer,20-08-2020 00:00,"and garcia wade richardson,",36551.05475,emergency,23-08-2020 00:00,Ibuprofen,Abnormal,3
+19,Female,A+,arthritis,14-08-2020 00:00,white-graham,10693.38926,elective,28-08-2020 00:00,Ibuprofen,Abnormal,14
+64,Male,A+,diabetes,17-07-2021 00:00,and miller sons,28835.44119,urgent,03-08-2021 00:00,Lipitor,Inconclusive,17
+44,Male,B+,diabetes,27-01-2023 00:00,"taylor, and mullins lara",7083.614266,elective,02-02-2023 00:00,Lipitor,Inconclusive,6
+66,Female,O-,asthma,04-09-2020 00:00,"and king, vega jones",2068.429204,urgent,20-09-2020 00:00,Penicillin,Inconclusive,16
+79,Female,AB+,hypertension,08-02-2020 00:00,alvarez-cruz,42956.12895,elective,21-02-2020 00:00,Aspirin,Normal,13
+59,Female,O+,diabetes,01-07-2019 00:00,"walker cisneros and adams,",17307.36622,urgent,05-07-2019 00:00,Penicillin,Abnormal,4
+47,Male,O+,asthma,01-01-2024 00:00,ltd lewis,41492.12759,elective,12-01-2024 00:00,Aspirin,Normal,11
+49,Male,AB+,obesity,10-03-2021 00:00,esparza-martinez,16097.76216,emergency,07-04-2021 00:00,Paracetamol,Normal,28
+35,Male,AB+,cancer,19-09-2019 00:00,"baker hernandez and scott,",44495.73104,elective,16-10-2019 00:00,Paracetamol,Inconclusive,27
+69,Female,B+,obesity,24-02-2023 00:00,group lopez,2936.894499,emergency,25-02-2023 00:00,Aspirin,Abnormal,1
+57,Male,O+,obesity,30-03-2022 00:00,"and le martin young,",43374.01146,emergency,14-04-2022 00:00,Lipitor,Inconclusive,15
+51,Female,A+,asthma,30-08-2019 00:00,plc cook,6949.875645,urgent,17-09-2019 00:00,Paracetamol,Inconclusive,18
+31,Female,O+,arthritis,21-12-2019 00:00,"baker, davis hill and",15449.06397,elective,31-12-2019 00:00,Lipitor,Abnormal,10
+34,Female,A-,obesity,31-08-2019 00:00,johnson-gray,37458.15928,elective,28-09-2019 00:00,Paracetamol,Abnormal,28
+57,Male,O+,cancer,30-03-2022 00:00,"mitchell, and garcia saunders",5919.300084,elective,11-04-2022 00:00,Ibuprofen,Normal,12
+51,Female,O+,arthritis,11-08-2023 00:00,dennis-roth,21534.71557,emergency,20-08-2023 00:00,Penicillin,Normal,9
+85,Male,B+,asthma,29-10-2021 00:00,"mcgee patton aguirre, and",43393.92292,elective,25-11-2021 00:00,Penicillin,Inconclusive,27
+51,Male,A-,cancer,18-09-2020 00:00,foster-thomas,50332.93241,emergency,12-10-2020 00:00,Aspirin,Abnormal,24
+39,Male,AB+,cancer,24-02-2021 00:00,group mann,18062.59684,urgent,17-03-2021 00:00,Paracetamol,Inconclusive,21
+75,Male,AB-,hypertension,07-07-2023 00:00,martinez-strickland,30064.18079,urgent,13-07-2023 00:00,Paracetamol,Normal,6
+46,Female,O+,hypertension,26-06-2023 00:00,"shaw tapia and barnes,",45440.79281,elective,23-07-2023 00:00,Ibuprofen,Inconclusive,27
+47,Male,O-,obesity,12-11-2021 00:00,morris-campbell,12073.06727,urgent,04-12-2021 00:00,Paracetamol,Normal,22
+38,Female,O+,arthritis,23-10-2021 00:00,"anderson morton and vang,",48065.46239,urgent,08-11-2021 00:00,Paracetamol,Abnormal,16
+25,Female,O+,arthritis,30-11-2019 00:00,olson llc,16342.36373,emergency,20-12-2019 00:00,Lipitor,Inconclusive,20
+65,Male,AB+,hypertension,19-03-2023 00:00,juarez and sons,21767.23167,elective,16-04-2023 00:00,Lipitor,Normal,28
+50,Female,O-,hypertension,02-02-2022 00:00,"ramos hansen clark, and",16055.9304,emergency,05-02-2022 00:00,Aspirin,Inconclusive,3
+40,Male,AB+,obesity,25-09-2023 00:00,plc aguirre,30123.53857,urgent,05-10-2023 00:00,Aspirin,Normal,10
+70,Male,B+,arthritis,28-10-2021 00:00,"nelson baldwin, boyd and",38572.16948,emergency,31-10-2021 00:00,Ibuprofen,Inconclusive,3
+56,Female,AB-,hypertension,16-06-2020 00:00,"martinez, and moore white",37798.95059,urgent,14-07-2020 00:00,Ibuprofen,Abnormal,28
+25,Male,O+,diabetes,07-10-2021 00:00,"barker, costa hahn and",38716.35593,emergency,06-11-2021 00:00,Ibuprofen,Normal,30
+20,Male,A-,diabetes,29-04-2021 00:00,"anderson and higgins galvan,",13666.28337,elective,17-05-2021 00:00,Paracetamol,Inconclusive,18
+73,Female,AB-,diabetes,12-05-2019 00:00,flores-roman,30753.68882,elective,07-06-2019 00:00,Lipitor,Abnormal,26
+82,Male,B-,obesity,12-09-2021 00:00,"miller, moon boyd and",44278.23166,elective,17-09-2021 00:00,Aspirin,Inconclusive,5
+31,Male,B+,diabetes,25-01-2021 00:00,inc harmon,6267.540562,urgent,27-01-2021 00:00,Ibuprofen,Normal,2
+74,Male,O-,cancer,22-05-2020 00:00,"elliott jones hinton, and",26276.79266,elective,17-06-2020 00:00,Ibuprofen,Normal,26
+38,Female,B-,asthma,20-06-2022 00:00,sons mckinney and,33171.03009,elective,14-07-2022 00:00,Aspirin,Inconclusive,24
+63,Female,AB-,cancer,16-11-2020 00:00,carroll-howard,44984.24156,elective,06-12-2020 00:00,Paracetamol,Normal,20
+62,Female,B-,obesity,09-10-2020 00:00,"and park, garcia lam",27091.86037,urgent,14-10-2020 00:00,Ibuprofen,Inconclusive,5
+80,Male,O+,obesity,12-12-2023 00:00,"chavez valenzuela, and gutierrez",32387.92515,urgent,27-12-2023 00:00,Ibuprofen,Normal,15
+25,Female,AB-,cancer,14-06-2022 00:00,hill-hernandez,32905.47679,emergency,03-07-2022 00:00,Lipitor,Abnormal,19
+51,Male,A-,diabetes,23-02-2023 00:00,skinner llc,1332.338433,emergency,18-03-2023 00:00,Aspirin,Abnormal,23
+46,Female,AB+,obesity,25-04-2024 00:00,inc cox,17702.56939,urgent,12-05-2024 00:00,Ibuprofen,Inconclusive,17
+18,Female,A+,asthma,08-06-2022 00:00,perez sons and,33443.55249,emergency,22-06-2022 00:00,Penicillin,Normal,14
+30,Female,B-,cancer,07-12-2023 00:00,"parker turner, houston and",23175.49703,emergency,24-12-2023 00:00,Ibuprofen,Normal,17
+43,Male,AB-,cancer,03-11-2020 00:00,wilson-chen,14224.31229,emergency,01-12-2020 00:00,Paracetamol,Abnormal,28
+21,Male,AB+,hypertension,03-10-2023 00:00,boone-duffy,23483.49684,urgent,18-10-2023 00:00,Paracetamol,Normal,15
+28,Female,B-,hypertension,11-06-2022 00:00,reid-simmons,31326.72672,emergency,28-06-2022 00:00,Paracetamol,Abnormal,17
+26,Female,O-,hypertension,03-07-2021 00:00,dunn-bentley,48651.73666,urgent,29-07-2021 00:00,Penicillin,Inconclusive,26
+24,Male,A-,asthma,19-03-2024 00:00,inc cherry,18932.31467,elective,02-04-2024 00:00,Penicillin,Inconclusive,14
+55,Female,AB-,diabetes,11-01-2024 00:00,zavala-fernandez,22063.22903,elective,30-01-2024 00:00,Paracetamol,Inconclusive,19
+41,Female,A+,cancer,26-06-2021 00:00,jones-fleming,20714.70673,urgent,21-07-2021 00:00,Lipitor,Inconclusive,25
+85,Male,O+,asthma,19-01-2024 00:00,christian-hall,34510.8849,elective,05-02-2024 00:00,Ibuprofen,Inconclusive,17
+45,Male,O-,hypertension,15-12-2020 00:00,llc cabrera,42200.51465,elective,13-01-2021 00:00,Lipitor,Inconclusive,29
+22,Female,B+,hypertension,14-05-2021 00:00,"hernandez and delacruz, kramer",24451.28948,emergency,28-05-2021 00:00,Paracetamol,Abnormal,14
+18,Male,B+,diabetes,10-07-2021 00:00,cervantes-herrera,30289.70491,emergency,12-07-2021 00:00,Paracetamol,Normal,2
+60,Male,B-,diabetes,25-07-2020 00:00,garrison-mcfarland,35317.49304,urgent,29-07-2020 00:00,Lipitor,Normal,4
+22,Female,AB+,obesity,17-09-2019 00:00,warren-brown,8033.611655,elective,01-10-2019 00:00,Lipitor,Inconclusive,14
+65,Female,A+,obesity,14-05-2019 00:00,ruiz group,7391.534745,elective,20-05-2019 00:00,Aspirin,Inconclusive,6
+73,Female,B+,asthma,31-05-2020 00:00,anderson-brown,35945.88447,emergency,28-06-2020 00:00,Ibuprofen,Inconclusive,28
+82,Female,AB+,hypertension,27-03-2020 00:00,hull sons and,10780.74201,emergency,04-04-2020 00:00,Ibuprofen,Inconclusive,8
+32,Female,O-,arthritis,23-12-2019 00:00,"oliver mcdonald, and johnson",28743.00384,elective,30-12-2019 00:00,Penicillin,Normal,7
+76,Male,A-,obesity,08-02-2024 00:00,lara-allen,47270.24574,elective,16-02-2024 00:00,Aspirin,Abnormal,8
+61,Female,A-,asthma,23-09-2023 00:00,group summers,37846.35221,emergency,24-09-2023 00:00,Ibuprofen,Abnormal,1
+63,Male,AB+,cancer,14-05-2020 00:00,"phillips medina, rivera and",46502.76579,elective,20-05-2020 00:00,Paracetamol,Inconclusive,6
+54,Female,B+,hypertension,11-02-2020 00:00,llc flores,27660.28505,urgent,01-03-2020 00:00,Lipitor,Normal,19
+77,Male,AB+,hypertension,13-09-2021 00:00,inc pace,36686.65593,urgent,09-10-2021 00:00,Paracetamol,Normal,26
+64,Male,B+,diabetes,24-10-2020 00:00,garcia-robinson,19563.20303,urgent,25-10-2020 00:00,Penicillin,Normal,1
+69,Male,B+,arthritis,29-12-2020 00:00,snow-day,23523.59682,elective,21-01-2021 00:00,Aspirin,Inconclusive,23
+31,Male,O+,cancer,19-03-2024 00:00,inc rangel,50563.79858,urgent,07-04-2024 00:00,Penicillin,Inconclusive,19
+40,Male,O-,arthritis,13-12-2021 00:00,irwin-kaufman,15518.45778,emergency,19-12-2021 00:00,Penicillin,Abnormal,6
+50,Male,O-,asthma,17-05-2022 00:00,"brown and colon, anderson",42150.70379,urgent,03-06-2022 00:00,Paracetamol,Abnormal,17
+83,Female,A-,arthritis,01-12-2022 00:00,"and peterson, rodriguez murphy",42192.98687,emergency,17-12-2022 00:00,Paracetamol,Abnormal,16
+23,Female,O-,cancer,16-03-2020 00:00,"and frederick, jones garcia",3925.933841,emergency,22-03-2020 00:00,Lipitor,Normal,6
+68,Female,AB+,arthritis,20-10-2020 00:00,"and fuentes rogers gill,",12605.74744,emergency,27-10-2020 00:00,Paracetamol,Inconclusive,7
+37,Male,AB-,asthma,05-01-2024 00:00,group schneider,7421.176732,urgent,27-01-2024 00:00,Penicillin,Inconclusive,22
+24,Female,B-,arthritis,17-08-2023 00:00,sandoval-bennett,24561.73719,emergency,01-09-2023 00:00,Aspirin,Abnormal,15
+21,Male,B-,diabetes,31-03-2023 00:00,young ltd,32854.15326,emergency,22-04-2023 00:00,Lipitor,Abnormal,22
+46,Female,AB-,diabetes,21-11-2022 00:00,lopez-brooks,18828.76413,elective,22-11-2022 00:00,Ibuprofen,Abnormal,1
+61,Female,B+,arthritis,24-08-2020 00:00,"leblanc conway, holt and",34381.68871,urgent,06-09-2020 00:00,Lipitor,Inconclusive,13
+25,Male,O-,arthritis,12-02-2022 00:00,ltd roberts,31501.71986,elective,03-03-2022 00:00,Ibuprofen,Inconclusive,19
+75,Female,A-,arthritis,15-08-2023 00:00,and carter sons,12098.03322,elective,04-09-2023 00:00,Lipitor,Abnormal,20
+43,Female,O-,diabetes,13-01-2023 00:00,"moore and rhodes lang,",39547.38119,elective,01-02-2023 00:00,Paracetamol,Inconclusive,19
+38,Female,B-,obesity,28-04-2020 00:00,poole llc,6486.235726,elective,20-05-2020 00:00,Aspirin,Abnormal,22
+28,Male,AB+,arthritis,21-10-2022 00:00,hansen-torres,46657.68608,urgent,22-10-2022 00:00,Penicillin,Inconclusive,1
+80,Male,O+,hypertension,15-12-2022 00:00,park-douglas,31709.46503,urgent,25-12-2022 00:00,Paracetamol,Abnormal,10
+63,Female,O+,asthma,01-09-2020 00:00,"ruiz, scott mitchell and",9894.809407,emergency,01-10-2020 00:00,Ibuprofen,Inconclusive,30
+75,Female,AB-,cancer,18-11-2019 00:00,"and rodriguez gallegos henry,",29995.42856,emergency,11-12-2019 00:00,Paracetamol,Abnormal,23
+59,Female,O+,arthritis,22-08-2022 00:00,ltd miller,7796.259614,urgent,30-08-2022 00:00,Ibuprofen,Inconclusive,8
+27,Male,A+,diabetes,01-08-2020 00:00,"turner bradford and allison,",48965.1758,emergency,26-08-2020 00:00,Aspirin,Abnormal,25
+77,Male,A+,arthritis,18-01-2024 00:00,goodwin ltd,16128.25262,emergency,15-02-2024 00:00,Penicillin,Inconclusive,28
+19,Female,B-,asthma,17-03-2020 00:00,carrillo-price,16920.16153,emergency,10-04-2020 00:00,Lipitor,Abnormal,24
+58,Male,AB+,arthritis,15-08-2022 00:00,and sons lee,49861.87424,emergency,01-09-2022 00:00,Ibuprofen,Abnormal,17
+57,Male,AB+,cancer,15-05-2023 00:00,rogers-robles,36287.38506,elective,19-05-2023 00:00,Lipitor,Inconclusive,4
+59,Male,A+,hypertension,27-06-2019 00:00,massey inc,48035.36933,urgent,19-07-2019 00:00,Ibuprofen,Abnormal,22
+62,Male,B+,hypertension,29-10-2023 00:00,arias-galvan,22030.69335,urgent,14-11-2023 00:00,Lipitor,Normal,16
+71,Male,AB-,diabetes,09-01-2024 00:00,scott-moore,45665.85089,elective,20-01-2024 00:00,Penicillin,Inconclusive,11
+35,Female,B+,cancer,23-08-2020 00:00,jarvis-roberts,4415.754867,emergency,29-08-2020 00:00,Lipitor,Inconclusive,6
+34,Male,AB+,asthma,07-01-2020 00:00,clay llc,41122.28914,urgent,12-01-2020 00:00,Paracetamol,Normal,5
+84,Female,O-,arthritis,25-10-2019 00:00,"quinn, bentley and allen",28401.55693,elective,15-11-2019 00:00,Ibuprofen,Inconclusive,21
+77,Female,AB+,diabetes,20-09-2023 00:00,williams plc,28228.69472,urgent,08-10-2023 00:00,Paracetamol,Inconclusive,18
+85,Male,B+,arthritis,12-01-2020 00:00,"griffith mccullough mendoza, and",2106.393757,urgent,23-01-2020 00:00,Penicillin,Inconclusive,11
+34,Female,B+,asthma,04-06-2019 00:00,meyers-moore,47398.58621,urgent,07-06-2019 00:00,Ibuprofen,Normal,3
+72,Female,AB-,asthma,14-12-2021 00:00,blair-bell,47454.59468,emergency,24-12-2021 00:00,Aspirin,Abnormal,10
+33,Female,A-,diabetes,30-05-2023 00:00,lester-fletcher,22257.60937,urgent,01-06-2023 00:00,Ibuprofen,Abnormal,2
+80,Female,AB-,arthritis,26-08-2019 00:00,rodriguez llc,30324.06598,urgent,15-09-2019 00:00,Penicillin,Abnormal,20
+24,Female,O-,arthritis,16-11-2019 00:00,llc baldwin,10053.92458,emergency,02-12-2019 00:00,Aspirin,Abnormal,16
+44,Female,A-,arthritis,23-04-2022 00:00,riley plc,9823.303433,elective,19-05-2022 00:00,Lipitor,Normal,26
+32,Female,B+,asthma,20-02-2020 00:00,snyder-perry,17862.69225,elective,21-02-2020 00:00,Paracetamol,Inconclusive,1
+83,Male,B+,obesity,19-10-2022 00:00,perez-carlson,17855.80107,emergency,10-11-2022 00:00,Ibuprofen,Inconclusive,22
+80,Male,O-,arthritis,05-02-2022 00:00,"richardson mccormick, cruz and",40178.46329,elective,18-02-2022 00:00,Penicillin,Inconclusive,13
+41,Female,B+,cancer,01-08-2019 00:00,underwood-mcguire,24690.22218,emergency,09-08-2019 00:00,Ibuprofen,Abnormal,8
+39,Male,O-,arthritis,19-06-2021 00:00,"galvan, lopez salazar and",21862.05636,elective,16-07-2021 00:00,Aspirin,Normal,27
+55,Male,O-,asthma,28-06-2020 00:00,fisher-perez,29790.84684,urgent,24-07-2020 00:00,Ibuprofen,Normal,26
+59,Male,A-,asthma,06-10-2019 00:00,"maldonado anderson and adkins,",6539.760332,urgent,24-10-2019 00:00,Aspirin,Abnormal,18
+34,Female,A-,asthma,17-07-2022 00:00,ruiz plc,20453.3175,urgent,23-07-2022 00:00,Paracetamol,Inconclusive,6
+27,Female,O+,hypertension,22-05-2021 00:00,ltd watts,6827.697955,urgent,09-06-2021 00:00,Paracetamol,Normal,18
+56,Female,O+,diabetes,16-08-2022 00:00,and martinez sons,7557.59915,urgent,04-09-2022 00:00,Aspirin,Inconclusive,19
+60,Female,A+,cancer,31-03-2021 00:00,harrington-marshall,15364.48479,emergency,18-04-2021 00:00,Ibuprofen,Abnormal,18
+71,Female,O-,obesity,06-09-2021 00:00,robbins inc,6664.216917,elective,17-09-2021 00:00,Lipitor,Abnormal,11
+20,Male,AB-,diabetes,26-08-2023 00:00,"and conway george, huff",7235.19069,urgent,27-08-2023 00:00,Penicillin,Inconclusive,1
+75,Male,A+,asthma,27-11-2019 00:00,group thompson,20336.49292,emergency,07-12-2019 00:00,Penicillin,Normal,10
+32,Female,A+,obesity,07-03-2023 00:00,rodriguez-arnold,38668.69459,urgent,12-03-2023 00:00,Lipitor,Normal,5
+66,Female,A-,diabetes,03-10-2022 00:00,"and sullivan, mcclure shields",41222.00587,elective,14-10-2022 00:00,Lipitor,Abnormal,11
+78,Female,O-,diabetes,10-01-2023 00:00,charles llc,38520.01119,urgent,30-01-2023 00:00,Lipitor,Abnormal,20
+49,Male,O-,cancer,12-04-2020 00:00,morgan-young,44411.12453,urgent,04-05-2020 00:00,Aspirin,Normal,22
+73,Male,B-,arthritis,20-11-2020 00:00,"garcia and nguyen, leonard",26044.25094,urgent,15-12-2020 00:00,Aspirin,Inconclusive,25
+69,Male,AB-,hypertension,26-04-2024 00:00,plc fox,7902.420483,emergency,24-05-2024 00:00,Ibuprofen,Abnormal,28
+51,Female,A+,hypertension,29-06-2023 00:00,"bell preston washington, and",46245.58395,urgent,07-07-2023 00:00,Paracetamol,Abnormal,8
+66,Male,O+,diabetes,11-01-2020 00:00,llc hernandez,40448.96917,emergency,07-02-2020 00:00,Paracetamol,Abnormal,27
+38,Female,O-,arthritis,05-06-2022 00:00,steele plc,20914.94741,elective,15-06-2022 00:00,Paracetamol,Normal,10
+33,Male,O+,asthma,28-01-2024 00:00,"and sims, gonzalez huff",46682.44679,elective,22-02-2024 00:00,Paracetamol,Inconclusive,25
+27,Male,B-,cancer,06-11-2021 00:00,allen-perez,10965.69575,elective,07-11-2021 00:00,Penicillin,Normal,1
+36,Male,B-,cancer,21-07-2021 00:00,"and alexander crawford graham,",27507.04298,emergency,31-07-2021 00:00,Ibuprofen,Normal,10
+41,Male,A-,cancer,23-11-2019 00:00,moyer-lamb,12678.09623,urgent,06-12-2019 00:00,Penicillin,Normal,13
+33,Male,AB-,asthma,30-05-2019 00:00,taylor-wilson,38395.52996,emergency,29-06-2019 00:00,Ibuprofen,Inconclusive,30
+56,Female,AB-,asthma,23-03-2024 00:00,plc sutton,28510.80722,emergency,14-04-2024 00:00,Lipitor,Inconclusive,22
+25,Male,O+,obesity,23-06-2019 00:00,and sons sanders,43400.66659,emergency,12-07-2019 00:00,Aspirin,Abnormal,19
+21,Female,O-,asthma,30-01-2022 00:00,gentry and sons,46890.42601,elective,26-02-2022 00:00,Aspirin,Abnormal,27
+57,Male,B-,cancer,12-11-2022 00:00,haynes-silva,48491.64321,elective,22-11-2022 00:00,Penicillin,Normal,10
+39,Female,O+,cancer,22-12-2020 00:00,"marshall, and koch harper",13643.73085,elective,27-12-2020 00:00,Lipitor,Normal,5
+51,Female,A-,diabetes,22-05-2022 00:00,duffy-jackson,5415.28351,emergency,08-06-2022 00:00,Aspirin,Inconclusive,17
+31,Male,B+,hypertension,27-03-2021 00:00,brown-diaz,44008.05021,elective,23-04-2021 00:00,Lipitor,Abnormal,27
+85,Male,AB-,asthma,22-06-2022 00:00,mcdaniel-castaneda,43866.65848,urgent,22-07-2022 00:00,Aspirin,Normal,30
+76,Male,O+,diabetes,15-07-2022 00:00,lyons llc,45242.85699,emergency,19-07-2022 00:00,Penicillin,Abnormal,4
+59,Male,A+,asthma,06-06-2022 00:00,plc french,13550.12449,elective,30-06-2022 00:00,Paracetamol,Normal,24
+64,Male,O-,diabetes,29-12-2020 00:00,llc coleman,34963.63898,urgent,07-01-2021 00:00,Aspirin,Inconclusive,9
+28,Male,A+,arthritis,23-05-2020 00:00,tucker-warren,48890.44782,elective,12-06-2020 00:00,Penicillin,Abnormal,20
+63,Male,A-,obesity,25-07-2022 00:00,wang-hill,17159.58153,emergency,22-08-2022 00:00,Ibuprofen,Normal,28
+24,Male,A-,arthritis,01-04-2021 00:00,jones ltd,7192.628178,emergency,19-04-2021 00:00,Penicillin,Abnormal,18
+81,Male,B+,arthritis,20-07-2020 00:00,"white west herman, and",44982.85247,elective,29-07-2020 00:00,Lipitor,Normal,9
+74,Male,A+,diabetes,28-02-2020 00:00,inc newton,16004.46908,emergency,28-03-2020 00:00,Ibuprofen,Inconclusive,29
+28,Male,AB+,cancer,30-08-2023 00:00,huerta-sanchez,7320.042617,elective,17-09-2023 00:00,Ibuprofen,Normal,18
+27,Male,AB-,obesity,27-07-2020 00:00,snyder-parrish,28329.82407,emergency,24-08-2020 00:00,Aspirin,Normal,28
+24,Male,AB-,diabetes,28-03-2021 00:00,inc bryant,24130.51675,urgent,05-04-2021 00:00,Paracetamol,Inconclusive,8
+63,Male,A-,diabetes,08-05-2022 00:00,williams inc,22361.1476,emergency,10-05-2022 00:00,Paracetamol,Normal,2
+46,Female,O+,obesity,16-06-2021 00:00,"smith white, and ryan",19650.00179,emergency,06-07-2021 00:00,Lipitor,Inconclusive,20
+35,Female,AB+,arthritis,31-10-2023 00:00,"williams dillon white, and",30986.93252,urgent,21-11-2023 00:00,Paracetamol,Abnormal,21
+28,Female,B+,diabetes,23-04-2022 00:00,vargas-cohen,45987.15678,elective,11-05-2022 00:00,Penicillin,Normal,18
+80,Female,B+,obesity,09-12-2021 00:00,gardner group,11086.73048,urgent,12-12-2021 00:00,Lipitor,Inconclusive,3
+31,Male,O-,obesity,10-01-2024 00:00,garcia-blake,28483.87694,urgent,02-02-2024 00:00,Lipitor,Abnormal,23
+69,Female,O+,diabetes,17-11-2019 00:00,castaneda-tran,37905.95518,emergency,15-12-2019 00:00,Lipitor,Inconclusive,28
+82,Male,AB+,asthma,05-01-2022 00:00,kim-ibarra,27878.85084,elective,11-01-2022 00:00,Ibuprofen,Normal,6
+64,Female,B+,arthritis,15-01-2024 00:00,boyer-burgess,13900.05426,urgent,10-02-2024 00:00,Ibuprofen,Inconclusive,26
+77,Female,O+,arthritis,17-11-2022 00:00,cross ltd,30575.7646,urgent,15-12-2022 00:00,Paracetamol,Abnormal,28
+32,Male,O+,obesity,02-08-2021 00:00,"patel payne, and young",11941.6313,urgent,26-08-2021 00:00,Lipitor,Normal,24
+70,Female,A+,diabetes,20-04-2020 00:00,group santana,7422.72526,elective,23-04-2020 00:00,Lipitor,Abnormal,3
+50,Female,O-,hypertension,28-06-2023 00:00,sons and cook,34005.547,urgent,30-06-2023 00:00,Ibuprofen,Inconclusive,2
+29,Male,O+,asthma,06-04-2022 00:00,martin-rice,48574.83244,elective,30-04-2022 00:00,Penicillin,Inconclusive,24
+66,Female,AB+,cancer,31-03-2021 00:00,"ortiz, and rios price",45010.79764,urgent,16-04-2021 00:00,Lipitor,Abnormal,16
+70,Male,AB+,obesity,07-03-2020 00:00,barnes-williams,7409.336546,elective,29-03-2020 00:00,Aspirin,Normal,22
+56,Female,B-,cancer,03-06-2020 00:00,hardy-gutierrez,34968.07645,urgent,21-06-2020 00:00,Paracetamol,Abnormal,18
+85,Male,B-,asthma,31-08-2021 00:00,cole llc,5648.175526,elective,17-09-2021 00:00,Aspirin,Inconclusive,17
+67,Male,AB+,cancer,22-09-2022 00:00,white-rowe,14227.32116,elective,11-10-2022 00:00,Paracetamol,Normal,19
+50,Female,B+,arthritis,02-07-2022 00:00,"rodriguez harris, willis and",47551.57014,elective,15-07-2022 00:00,Ibuprofen,Inconclusive,13
+52,Female,O+,asthma,18-06-2019 00:00,"santana garcia, alexander and",42301.91462,elective,08-07-2019 00:00,Aspirin,Abnormal,20
+84,Male,B-,hypertension,19-07-2019 00:00,collins-lozano,2275.636632,urgent,08-08-2019 00:00,Aspirin,Normal,20
+70,Male,A-,cancer,06-01-2022 00:00,brown-clark,10003.67103,elective,27-01-2022 00:00,Paracetamol,Normal,21
+66,Male,AB-,diabetes,08-02-2022 00:00,"mcmahon and kim, holmes",42653.76534,urgent,28-02-2022 00:00,Lipitor,Normal,20
+74,Male,AB-,hypertension,09-12-2022 00:00,gomez-smith,10722.49507,elective,28-12-2022 00:00,Penicillin,Inconclusive,19
+75,Female,O+,obesity,14-06-2020 00:00,"hall lee bailey, and",47516.52055,urgent,20-06-2020 00:00,Lipitor,Normal,6
+61,Male,B+,obesity,12-03-2021 00:00,"brennan bentley, and hunter",41379.38261,urgent,25-03-2021 00:00,Lipitor,Inconclusive,13
+82,Male,AB+,asthma,27-12-2022 00:00,"mullins, gray and reed",27481.33148,elective,12-01-2023 00:00,Paracetamol,Abnormal,16
+51,Female,A-,obesity,08-12-2019 00:00,anderson group,32006.03157,urgent,05-01-2020 00:00,Penicillin,Normal,28
+37,Female,A-,arthritis,19-06-2023 00:00,"walsh, howell and jennings",14405.93924,elective,14-07-2023 00:00,Lipitor,Inconclusive,25
+51,Male,B+,hypertension,10-05-2019 00:00,haney-marshall,24691.24905,urgent,07-06-2019 00:00,Penicillin,Normal,28
+23,Male,A-,asthma,11-06-2021 00:00,"rich and roach, king",47491.39239,elective,27-06-2021 00:00,Ibuprofen,Abnormal,16
+70,Male,B-,asthma,27-10-2019 00:00,"johnson, and petty rubio",37861.50911,emergency,12-11-2019 00:00,Lipitor,Normal,16
+60,Female,B+,cancer,27-08-2022 00:00,"morse, hudson williams and",22952.72982,elective,15-09-2022 00:00,Penicillin,Normal,19
+45,Female,A+,arthritis,08-08-2019 00:00,"kane, and dickson schwartz",2735.031575,emergency,14-08-2019 00:00,Penicillin,Inconclusive,6
+30,Male,A-,arthritis,12-02-2023 00:00,inc mccullough,37755.48078,elective,17-02-2023 00:00,Paracetamol,Normal,5
+35,Male,A+,hypertension,04-05-2021 00:00,taylor-wong,2691.049064,elective,10-05-2021 00:00,Penicillin,Inconclusive,6
+51,Female,O+,obesity,11-07-2021 00:00,avery-roy,7897.287485,elective,28-07-2021 00:00,Lipitor,Normal,17
+61,Male,A+,diabetes,10-02-2021 00:00,llc anderson,4446.342917,emergency,18-02-2021 00:00,Lipitor,Inconclusive,8
+52,Female,AB+,diabetes,16-10-2021 00:00,castaneda-young,20852.14637,elective,04-11-2021 00:00,Penicillin,Normal,19
+64,Female,B+,diabetes,03-10-2019 00:00,"and thomas strong, cook",47701.47743,urgent,25-10-2019 00:00,Lipitor,Inconclusive,22
+25,Male,A+,obesity,26-04-2020 00:00,wells-price,49934.13796,elective,02-05-2020 00:00,Aspirin,Abnormal,6
+76,Female,B-,obesity,13-09-2019 00:00,rios ltd,17263.94898,emergency,19-09-2019 00:00,Penicillin,Abnormal,6
+52,Female,B-,diabetes,20-01-2022 00:00,vincent-hill,45274.39656,emergency,06-02-2022 00:00,Penicillin,Inconclusive,17
+77,Male,B+,obesity,14-10-2023 00:00,brooks llc,10057.91558,elective,04-11-2023 00:00,Paracetamol,Abnormal,21
+83,Male,A+,diabetes,23-11-2019 00:00,group carpenter,36369.09117,urgent,26-11-2019 00:00,Aspirin,Normal,3
+57,Female,B-,cancer,05-12-2023 00:00,"henderson carpenter and barrett,",3548.051648,elective,31-12-2023 00:00,Lipitor,Abnormal,26
+54,Male,B+,arthritis,01-02-2021 00:00,mcdaniel-walsh,10011.29075,emergency,07-02-2021 00:00,Lipitor,Inconclusive,6
+62,Male,A-,cancer,30-06-2022 00:00,ross-jones,14876.33422,urgent,01-07-2022 00:00,Lipitor,Inconclusive,1
+37,Male,B-,arthritis,09-11-2023 00:00,"mathews, smith and moss",30294.65138,elective,29-11-2023 00:00,Penicillin,Normal,20
+56,Female,B+,hypertension,30-07-2020 00:00,"and lawrence, williams thomas",45888.70486,elective,10-08-2020 00:00,Paracetamol,Abnormal,11
+68,Female,O+,arthritis,10-04-2022 00:00,wilkerson group,31958.39662,elective,19-04-2022 00:00,Lipitor,Normal,9
+46,Male,A-,obesity,02-01-2020 00:00,villanueva-garcia,22645.7861,urgent,16-01-2020 00:00,Paracetamol,Normal,14
+62,Male,B-,hypertension,10-11-2023 00:00,duffy-bowman,21297.40651,emergency,01-12-2023 00:00,Paracetamol,Abnormal,21
+49,Female,AB-,diabetes,14-02-2021 00:00,tyler-velasquez,26432.16099,urgent,18-02-2021 00:00,Aspirin,Inconclusive,4
+75,Male,B-,hypertension,16-07-2022 00:00,james inc,6336.708014,emergency,13-08-2022 00:00,Ibuprofen,Normal,28
+40,Female,O+,diabetes,15-05-2023 00:00,montgomery-jones,31063.55679,elective,27-05-2023 00:00,Penicillin,Normal,12
+51,Female,AB+,arthritis,30-04-2020 00:00,montgomery-anthony,10710.32572,urgent,22-05-2020 00:00,Penicillin,Abnormal,22
+64,Male,AB+,asthma,12-01-2021 00:00,davis-padilla,25066.52145,urgent,25-01-2021 00:00,Ibuprofen,Abnormal,13
+49,Female,O-,arthritis,23-05-2019 00:00,ellison-hayden,13396.90017,emergency,02-06-2019 00:00,Paracetamol,Normal,10
+74,Male,A+,obesity,23-04-2023 00:00,long-lee,29822.09786,emergency,09-05-2023 00:00,Lipitor,Normal,16
+66,Female,A-,hypertension,07-12-2022 00:00,graves llc,12025.3473,urgent,01-01-2023 00:00,Aspirin,Abnormal,25
+52,Female,A-,arthritis,25-10-2020 00:00,and sons dixon,33708.85754,elective,04-11-2020 00:00,Lipitor,Abnormal,10
+58,Female,B-,obesity,08-04-2021 00:00,"clark, garza tate and",40825.08467,elective,01-05-2021 00:00,Ibuprofen,Normal,23
+21,Male,B-,arthritis,09-09-2020 00:00,bates inc,27345.4552,emergency,04-10-2020 00:00,Aspirin,Inconclusive,25
+69,Male,AB+,arthritis,06-12-2019 00:00,llc sanford,38751.79652,emergency,08-12-2019 00:00,Ibuprofen,Inconclusive,2
+47,Female,AB-,asthma,16-02-2023 00:00,and harper sons,6252.083557,elective,06-03-2023 00:00,Penicillin,Inconclusive,18
+51,Female,O-,hypertension,12-09-2023 00:00,"young mcclain, newman and",18714.337,emergency,12-10-2023 00:00,Penicillin,Abnormal,30
+20,Female,A+,cancer,21-11-2019 00:00,"ray, cain and miller",14291.69892,elective,11-12-2019 00:00,Ibuprofen,Inconclusive,20
+38,Female,B-,hypertension,14-07-2019 00:00,zamora-rivers,38210.96495,elective,19-07-2019 00:00,Lipitor,Inconclusive,5
+70,Female,AB+,obesity,03-10-2019 00:00,"and perez smith, kim",7074.792709,emergency,02-11-2019 00:00,Paracetamol,Inconclusive,30
+73,Male,O-,arthritis,04-07-2019 00:00,johnson-wilson,35419.51297,elective,06-07-2019 00:00,Penicillin,Abnormal,2
+44,Male,AB+,hypertension,26-05-2019 00:00,delacruz-chavez,3852.947112,emergency,08-06-2019 00:00,Paracetamol,Abnormal,13
+44,Female,A+,obesity,12-12-2021 00:00,"and gonzalez, warren moore",48747.54519,elective,18-12-2021 00:00,Paracetamol,Normal,6
+54,Male,AB-,hypertension,22-05-2021 00:00,ramirez-humphrey,40577.6012,urgent,01-06-2021 00:00,Penicillin,Abnormal,10
+45,Male,AB-,diabetes,03-09-2020 00:00,and sons ford,16648.5474,emergency,15-09-2020 00:00,Aspirin,Normal,12
+18,Female,B-,arthritis,30-03-2022 00:00,"and wells, thomas kline",38588.97256,urgent,13-04-2022 00:00,Penicillin,Abnormal,14
+44,Male,B+,hypertension,20-12-2019 00:00,wood-herring,32990.19439,elective,18-01-2020 00:00,Ibuprofen,Normal,29
+28,Female,A+,obesity,21-01-2022 00:00,wilkerson llc,20115.75587,urgent,20-02-2022 00:00,Paracetamol,Abnormal,30
+42,Male,A+,obesity,19-05-2020 00:00,brown-henry,5947.68965,emergency,12-06-2020 00:00,Aspirin,Inconclusive,24
+61,Female,A+,diabetes,20-02-2024 00:00,sheppard-livingston,28281.34838,emergency,08-03-2024 00:00,Penicillin,Abnormal,17
+75,Female,AB-,cancer,31-08-2023 00:00,golden plc,30873.61991,elective,07-09-2023 00:00,Ibuprofen,Inconclusive,7
+85,Male,A+,hypertension,19-01-2023 00:00,"and perez, bennett townsend",9542.739709,emergency,28-01-2023 00:00,Paracetamol,Abnormal,9
+74,Male,O-,obesity,20-11-2023 00:00,"johnson, and benson harris",32429.61913,emergency,17-12-2023 00:00,Ibuprofen,Inconclusive,27
+59,Male,AB+,obesity,28-07-2021 00:00,"and clay, morton cunningham",5588.993885,urgent,03-08-2021 00:00,Penicillin,Normal,6
+49,Male,A-,asthma,04-04-2023 00:00,anderson-estrada,31497.55488,emergency,27-04-2023 00:00,Lipitor,Inconclusive,23
+85,Female,B-,obesity,11-08-2020 00:00,and sons carlson,14283.01595,elective,24-08-2020 00:00,Ibuprofen,Inconclusive,13
+51,Female,B+,hypertension,28-01-2020 00:00,gonzalez inc,15422.04289,urgent,21-02-2020 00:00,Ibuprofen,Inconclusive,24
+23,Male,AB+,asthma,07-01-2020 00:00,schaefer-hoffman,40309.27742,emergency,05-02-2020 00:00,Penicillin,Inconclusive,29
+26,Male,O-,asthma,20-04-2020 00:00,wilson group,45916.32483,elective,17-05-2020 00:00,Penicillin,Abnormal,27
+59,Female,AB+,obesity,18-03-2020 00:00,"and vargas reynolds evans,",41632.52485,elective,25-03-2020 00:00,Penicillin,Normal,7
+25,Female,AB-,diabetes,18-06-2020 00:00,"cantu and tanner rojas,",7437.418708,emergency,23-06-2020 00:00,Paracetamol,Inconclusive,5
+29,Male,O-,cancer,15-07-2023 00:00,"thornton, adams mccarty and",38860.02088,elective,27-07-2023 00:00,Aspirin,Abnormal,12
+25,Male,A-,hypertension,02-10-2023 00:00,cantrell-griffith,6662.242854,urgent,24-10-2023 00:00,Ibuprofen,Inconclusive,22
+61,Male,B-,diabetes,13-01-2021 00:00,martin group,13074.21528,urgent,05-02-2021 00:00,Aspirin,Inconclusive,23
+46,Male,A+,hypertension,16-05-2022 00:00,and sons nelson,10443.2069,elective,31-05-2022 00:00,Aspirin,Inconclusive,15
+54,Male,AB-,hypertension,22-10-2019 00:00,ramirez-hill,20227.0394,emergency,01-11-2019 00:00,Aspirin,Abnormal,10
+41,Male,A+,obesity,09-08-2019 00:00,jackson-butler,38779.20787,emergency,03-09-2019 00:00,Paracetamol,Abnormal,25
+21,Female,O-,asthma,30-12-2023 00:00,miller-avila,4561.664207,elective,27-01-2024 00:00,Lipitor,Abnormal,28
+38,Female,AB+,diabetes,11-07-2022 00:00,reyes-crawford,1656.548217,elective,03-08-2022 00:00,Lipitor,Abnormal,23
+75,Male,AB+,obesity,19-09-2020 00:00,marshall-smith,28463.86099,emergency,06-10-2020 00:00,Penicillin,Inconclusive,17
+44,Male,B+,cancer,06-09-2019 00:00,"and peterson matthews robinson,",5268.690457,urgent,07-09-2019 00:00,Ibuprofen,Inconclusive,1
+23,Male,O-,obesity,22-11-2019 00:00,nelson plc,24011.70225,emergency,22-12-2019 00:00,Paracetamol,Inconclusive,30
+45,Female,B-,cancer,22-07-2020 00:00,perez-mitchell,18467.07945,elective,24-07-2020 00:00,Penicillin,Abnormal,2
+58,Male,B+,cancer,01-03-2022 00:00,"gross, thompson smith and",3782.741416,urgent,19-03-2022 00:00,Paracetamol,Abnormal,18
+34,Male,B-,diabetes,01-03-2023 00:00,"burch, moore and thompson",11921.65951,urgent,21-03-2023 00:00,Ibuprofen,Inconclusive,20
+54,Female,B+,obesity,22-04-2021 00:00,hamilton group,16725.97959,urgent,11-05-2021 00:00,Lipitor,Abnormal,19
+29,Female,A+,obesity,23-09-2020 00:00,shaw llc,39700.82412,urgent,25-09-2020 00:00,Paracetamol,Inconclusive,2
+54,Female,A+,cancer,08-01-2023 00:00,"and day, lewis coleman",2568.011967,emergency,19-01-2023 00:00,Lipitor,Abnormal,11
+46,Male,AB-,asthma,17-08-2022 00:00,stone-perez,15242.38718,elective,08-09-2022 00:00,Paracetamol,Abnormal,22
+35,Female,AB+,hypertension,15-06-2021 00:00,ltd foley,31054.04606,urgent,25-06-2021 00:00,Lipitor,Normal,10
+58,Female,AB+,obesity,01-03-2024 00:00,ward-mayer,49118.59126,urgent,20-03-2024 00:00,Lipitor,Inconclusive,19
+36,Female,AB+,hypertension,11-12-2023 00:00,and martinez sons,3235.581156,elective,08-01-2024 00:00,Aspirin,Normal,28
+80,Female,B+,arthritis,04-05-2022 00:00,group anderson,26052.02416,elective,05-05-2022 00:00,Aspirin,Abnormal,1
+43,Male,A-,arthritis,01-12-2021 00:00,"garcia, and marshall maxwell",11095.40185,emergency,29-12-2021 00:00,Paracetamol,Inconclusive,28
+47,Female,B+,hypertension,21-09-2021 00:00,inc martinez,10725.82546,elective,10-10-2021 00:00,Ibuprofen,Abnormal,19
+49,Female,B-,hypertension,20-03-2020 00:00,"mcmahon ortiz, owens and",30038.27598,elective,09-04-2020 00:00,Ibuprofen,Abnormal,20
+58,Male,AB-,asthma,29-03-2024 00:00,williams-saunders,49446.45818,emergency,16-04-2024 00:00,Lipitor,Abnormal,18
+40,Female,AB-,obesity,12-03-2024 00:00,spencer ltd,5315.705616,emergency,25-03-2024 00:00,Penicillin,Abnormal,13
+44,Male,A-,cancer,21-03-2022 00:00,mathis-schwartz,13928.28013,emergency,06-04-2022 00:00,Penicillin,Inconclusive,16
+38,Male,A+,diabetes,23-07-2020 00:00,romero-ramsey,2744.40891,emergency,09-08-2020 00:00,Ibuprofen,Abnormal,17
+82,Male,A+,obesity,10-03-2024 00:00,avery and sons,27512.91317,emergency,07-04-2024 00:00,Aspirin,Normal,28
+71,Male,A-,arthritis,15-03-2020 00:00,ltd richardson,35854.08642,urgent,29-03-2020 00:00,Lipitor,Abnormal,14
+42,Male,A+,diabetes,10-05-2021 00:00,and sons williams,2784.020531,urgent,16-05-2021 00:00,Penicillin,Abnormal,6
+38,Female,O+,diabetes,29-12-2020 00:00,carter-reyes,2547.912531,elective,07-01-2021 00:00,Penicillin,Inconclusive,9
+84,Male,B-,arthritis,23-03-2020 00:00,llc gray,29992.53616,urgent,29-03-2020 00:00,Aspirin,Normal,6
+64,Female,O-,hypertension,13-07-2023 00:00,"gonzalez anderson jacobson, and",4018.016876,emergency,25-07-2023 00:00,Ibuprofen,Abnormal,12
+57,Female,AB-,asthma,20-07-2023 00:00,"miller massey lopez, and",20508.58896,urgent,02-08-2023 00:00,Ibuprofen,Inconclusive,13
+54,Male,B+,diabetes,14-02-2020 00:00,"taylor walsh hawkins, and",25648.04376,urgent,01-03-2020 00:00,Paracetamol,Normal,16
+44,Male,B-,arthritis,28-05-2023 00:00,llc brown,19691.42069,elective,22-06-2023 00:00,Aspirin,Inconclusive,25
+78,Female,B-,cancer,12-06-2022 00:00,nelson-wong,10311.93617,urgent,27-06-2022 00:00,Penicillin,Inconclusive,15
+63,Female,A+,cancer,12-12-2023 00:00,llc berry,17733.95499,elective,13-12-2023 00:00,Lipitor,Normal,1
+66,Female,B-,hypertension,06-11-2023 00:00,anderson-jenkins,10521.47193,emergency,12-11-2023 00:00,Lipitor,Inconclusive,6
+75,Male,AB-,arthritis,16-05-2023 00:00,wells and sons,29910.9055,elective,30-05-2023 00:00,Penicillin,Abnormal,14
+36,Male,O-,diabetes,12-10-2022 00:00,"allen, williams and phillips",26612.00845,elective,14-10-2022 00:00,Aspirin,Normal,2
+18,Female,AB+,diabetes,30-12-2023 00:00,gonzalez-cummings,25858.43752,elective,14-01-2024 00:00,Penicillin,Normal,15
+49,Male,B+,hypertension,26-02-2024 00:00,"and richardson webster smith,",22069.59657,elective,09-03-2024 00:00,Paracetamol,Normal,12
+22,Female,B+,asthma,07-11-2021 00:00,hudson-flores,43117.65848,emergency,26-11-2021 00:00,Penicillin,Abnormal,19
+72,Female,B+,hypertension,03-02-2020 00:00,inc rios,3718.54817,urgent,04-02-2020 00:00,Aspirin,Normal,1
+46,Female,B+,arthritis,05-07-2019 00:00,plc thompson,18788.14423,emergency,20-07-2019 00:00,Lipitor,Inconclusive,15
+50,Male,O-,asthma,13-11-2021 00:00,"rosario wells, roberts and",39089.86606,urgent,23-11-2021 00:00,Penicillin,Abnormal,10
+61,Male,B+,diabetes,15-08-2019 00:00,ramirez-taylor,47594.47484,elective,09-09-2019 00:00,Paracetamol,Abnormal,25
+40,Male,O+,asthma,19-07-2023 00:00,murphy-mason,19261.51085,emergency,14-08-2023 00:00,Paracetamol,Normal,26
+34,Male,A-,diabetes,06-04-2023 00:00,"edwards johnson, and burgess",6578.029058,emergency,06-05-2023 00:00,Ibuprofen,Inconclusive,30
+71,Female,AB+,arthritis,08-10-2019 00:00,llc spears,38435.44776,elective,28-10-2019 00:00,Penicillin,Abnormal,20
+61,Male,A+,obesity,10-08-2020 00:00,perez-smith,29810.04692,emergency,06-09-2020 00:00,Penicillin,Normal,27
+24,Male,A+,asthma,26-09-2019 00:00,and sons mcbride,4808.820312,emergency,14-10-2019 00:00,Ibuprofen,Normal,18
+28,Male,O+,cancer,11-02-2021 00:00,sons and chapman,38365.87278,urgent,19-02-2021 00:00,Lipitor,Abnormal,8
+21,Female,O+,arthritis,05-09-2019 00:00,cole-davila,45540.09554,elective,29-09-2019 00:00,Lipitor,Inconclusive,24
+40,Female,B+,asthma,01-03-2021 00:00,"pearson, and lynch oconnor",31444.08804,urgent,20-03-2021 00:00,Penicillin,Abnormal,19
+57,Male,A-,cancer,19-04-2024 00:00,rivera-peck,37194.26398,urgent,14-05-2024 00:00,Ibuprofen,Abnormal,25
+47,Female,AB+,cancer,27-04-2023 00:00,hess-white,12422.75542,elective,03-05-2023 00:00,Lipitor,Normal,6
+59,Male,O+,cancer,06-07-2022 00:00,"fox and moreno williams,",8024.410053,elective,26-07-2022 00:00,Aspirin,Inconclusive,20
+33,Female,O-,arthritis,31-10-2020 00:00,johnson-estrada,13034.0755,urgent,18-11-2020 00:00,Penicillin,Normal,18
+58,Female,B-,cancer,08-09-2023 00:00,rivera-mosley,37903.29004,elective,22-09-2023 00:00,Lipitor,Normal,14
+39,Female,O-,cancer,20-11-2022 00:00,"diaz smith johnson, and",45913.16591,emergency,19-12-2022 00:00,Paracetamol,Abnormal,29
+30,Male,O-,arthritis,04-07-2020 00:00,harris-ingram,30468.26338,emergency,02-08-2020 00:00,Lipitor,Normal,29
+27,Male,B+,asthma,24-06-2023 00:00,and esparza sons,50202.20785,urgent,13-07-2023 00:00,Aspirin,Abnormal,19
+39,Female,O-,hypertension,06-10-2020 00:00,hunt sons and,2104.377396,elective,14-10-2020 00:00,Penicillin,Normal,8
+76,Female,B+,cancer,16-03-2023 00:00,llc hernandez,43206.22411,emergency,02-04-2023 00:00,Aspirin,Inconclusive,17
+62,Male,O-,arthritis,16-09-2019 00:00,perez-smith,10622.28254,urgent,21-09-2019 00:00,Lipitor,Abnormal,5
+71,Male,O-,asthma,10-04-2021 00:00,"foster lamb, graham and",10659.60881,elective,18-04-2021 00:00,Ibuprofen,Abnormal,8
+67,Male,B-,diabetes,21-07-2019 00:00,sanchez llc,10919.11095,elective,17-08-2019 00:00,Penicillin,Normal,27
+34,Female,A+,cancer,14-12-2021 00:00,fox-anthony,8407.488792,urgent,21-12-2021 00:00,Ibuprofen,Abnormal,7
+31,Male,O-,cancer,19-09-2023 00:00,"fuentes knight, sandoval and",32926.23354,emergency,16-10-2023 00:00,Lipitor,Inconclusive,27
+25,Male,A-,cancer,27-01-2024 00:00,hudson-williams,48004.97468,emergency,26-02-2024 00:00,Paracetamol,Normal,30
+33,Female,O-,arthritis,03-04-2020 00:00,"lowery, dunn anderson and",28452.78349,elective,03-05-2020 00:00,Aspirin,Inconclusive,30
+61,Female,AB+,hypertension,16-04-2020 00:00,mullen-hernandez,20651.61484,urgent,22-04-2020 00:00,Aspirin,Abnormal,6
+42,Female,O+,hypertension,23-08-2019 00:00,"herman, liu and hill",31822.73085,emergency,05-09-2019 00:00,Lipitor,Abnormal,13
+44,Male,AB-,diabetes,01-07-2021 00:00,"davis white, flores and",21856.73825,elective,23-07-2021 00:00,Paracetamol,Inconclusive,22
+18,Female,B+,obesity,21-08-2022 00:00,williams-jones,45326.91486,emergency,04-09-2022 00:00,Ibuprofen,Abnormal,14
+51,Male,A-,cancer,06-08-2020 00:00,inc holloway,25152.29389,emergency,26-08-2020 00:00,Lipitor,Abnormal,20
+26,Female,AB+,diabetes,16-01-2022 00:00,"phillips jones and wu,",37544.80371,elective,10-02-2022 00:00,Lipitor,Inconclusive,25
+44,Male,O-,diabetes,02-08-2021 00:00,"wilson and lopez, molina",35487.51241,urgent,04-08-2021 00:00,Penicillin,Abnormal,2
+56,Female,AB+,obesity,17-03-2020 00:00,jones-garrett,2076.325536,emergency,13-04-2020 00:00,Aspirin,Inconclusive,27
+24,Male,AB+,obesity,23-07-2020 00:00,"and brown, james green",35312.30148,emergency,03-08-2020 00:00,Penicillin,Normal,11
+39,Male,O-,hypertension,22-07-2022 00:00,"meadows and nelson, owen",13869.78852,urgent,24-07-2022 00:00,Aspirin,Abnormal,2
+53,Male,O-,hypertension,08-08-2020 00:00,sons and gallegos,36107.40314,emergency,21-08-2020 00:00,Ibuprofen,Normal,13
+21,Male,O-,asthma,29-09-2023 00:00,davis group,41208.16759,emergency,06-10-2023 00:00,Paracetamol,Normal,7
+82,Female,B-,cancer,05-01-2022 00:00,herrera group,14292.06579,urgent,08-01-2022 00:00,Ibuprofen,Abnormal,3
+61,Female,AB-,cancer,22-06-2020 00:00,juarez-weiss,17722.96108,emergency,20-07-2020 00:00,Ibuprofen,Abnormal,28
+59,Female,AB-,obesity,26-10-2019 00:00,dawson-jones,21125.32198,elective,29-10-2019 00:00,Lipitor,Normal,3
+51,Female,O+,arthritis,21-02-2024 00:00,hickman group,5164.553856,urgent,19-03-2024 00:00,Paracetamol,Abnormal,27
+43,Male,AB+,hypertension,07-01-2023 00:00,herman-ewing,2162.607297,emergency,08-01-2023 00:00,Ibuprofen,Abnormal,1
+79,Male,B+,cancer,21-09-2023 00:00,gutierrez inc,2675.230609,emergency,01-10-2023 00:00,Penicillin,Normal,10
+79,Female,B-,arthritis,07-12-2022 00:00,hurley-gill,44918.3238,emergency,21-12-2022 00:00,Lipitor,Abnormal,14
+49,Male,O+,obesity,13-12-2022 00:00,dillon plc,6327.801026,emergency,28-12-2022 00:00,Aspirin,Abnormal,15
+68,Female,O-,hypertension,16-11-2022 00:00,"murphy, and garcia jones",29526.32153,elective,21-11-2022 00:00,Aspirin,Inconclusive,5
+69,Female,O+,asthma,19-06-2019 00:00,ramsey-thomas,38989.53376,elective,17-07-2019 00:00,Penicillin,Inconclusive,28
+49,Female,B+,obesity,29-01-2023 00:00,miller and sons,33395.10366,emergency,18-02-2023 00:00,Ibuprofen,Normal,20
+27,Female,O-,cancer,30-11-2023 00:00,"chung herrera, and pollard",20258.78032,elective,12-12-2023 00:00,Paracetamol,Abnormal,12
+73,Male,A+,obesity,26-03-2021 00:00,"and hernandez waters, cruz",43050.83138,urgent,20-04-2021 00:00,Penicillin,Abnormal,25
+42,Female,AB+,diabetes,21-08-2021 00:00,schmidt sons and,37284.04971,elective,03-09-2021 00:00,Paracetamol,Abnormal,13
+59,Female,O-,cancer,03-01-2024 00:00,"and carroll orr kelly,",42434.77686,urgent,25-01-2024 00:00,Lipitor,Abnormal,22
+20,Female,A+,hypertension,23-03-2024 00:00,"smith and rose rivera,",38570.12641,emergency,21-04-2024 00:00,Penicillin,Abnormal,29
+61,Female,A+,cancer,03-12-2022 00:00,odonnell-watts,22108.972,emergency,10-12-2022 00:00,Paracetamol,Inconclusive,7
+50,Male,B+,asthma,25-09-2021 00:00,inc roberts,40783.1503,urgent,23-10-2021 00:00,Penicillin,Inconclusive,28
+29,Female,B-,asthma,23-08-2020 00:00,llc chaney,28296.1835,emergency,26-08-2020 00:00,Ibuprofen,Normal,3
+44,Male,B+,asthma,18-09-2020 00:00,"hutchinson, wilson daniel and",46950.58326,elective,16-10-2020 00:00,Penicillin,Inconclusive,28
+37,Female,AB+,diabetes,01-08-2022 00:00,davis-martin,41548.15083,elective,30-08-2022 00:00,Lipitor,Inconclusive,29
+79,Female,AB-,hypertension,11-01-2020 00:00,"and thompson cook wiggins,",43277.56449,urgent,25-01-2020 00:00,Penicillin,Inconclusive,14
+18,Male,AB+,hypertension,16-10-2020 00:00,baldwin plc,41248.13084,elective,17-10-2020 00:00,Lipitor,Abnormal,1
+25,Female,A+,cancer,29-04-2024 00:00,heath-brown,6162.345959,emergency,19-05-2024 00:00,Aspirin,Inconclusive,20
+64,Female,O+,cancer,05-07-2022 00:00,"mendez, and smith munoz",45208.33769,urgent,06-07-2022 00:00,Lipitor,Abnormal,1
+23,Male,B+,diabetes,27-08-2019 00:00,inc daugherty,36324.52348,emergency,15-09-2019 00:00,Paracetamol,Normal,19
+57,Male,A-,hypertension,10-03-2024 00:00,gonzalez llc,46084.67377,urgent,22-03-2024 00:00,Penicillin,Abnormal,12
+49,Female,AB-,asthma,16-02-2023 00:00,hunter-hughes,-1018.245371,elective,09-03-2023 00:00,Penicillin,Inconclusive,21
+49,Female,O-,diabetes,25-04-2024 00:00,"and woods, rodriguez williams",6657.347141,elective,14-05-2024 00:00,Penicillin,Abnormal,19
+65,Female,B-,asthma,25-09-2023 00:00,lowery-howard,39357.45974,urgent,13-10-2023 00:00,Lipitor,Normal,18
+59,Female,AB-,arthritis,12-09-2022 00:00,colon-leon,23154.6385,emergency,21-09-2022 00:00,Aspirin,Normal,9
+82,Male,O+,diabetes,30-06-2019 00:00,boyle-woods,6653.59156,emergency,22-07-2019 00:00,Penicillin,Normal,22
+31,Male,B-,diabetes,12-02-2023 00:00,"and graham morris, gonzales",15327.74216,urgent,27-02-2023 00:00,Penicillin,Inconclusive,15
+63,Female,AB-,obesity,23-01-2020 00:00,tucker-moyer,31457.79731,elective,01-02-2020 00:00,Aspirin,Normal,9
+78,Male,AB+,asthma,25-11-2022 00:00,sons and stephenson,21875.08332,elective,11-12-2022 00:00,Penicillin,Inconclusive,16
+25,Female,A+,diabetes,10-02-2021 00:00,hernandez plc,49635.30652,elective,17-02-2021 00:00,Lipitor,Normal,7
+66,Male,AB-,cancer,30-01-2023 00:00,dougherty group,41413.80939,emergency,27-02-2023 00:00,Ibuprofen,Inconclusive,28
+58,Male,O+,arthritis,24-08-2019 00:00,"morgan zimmerman, matthews and",16352.58628,urgent,17-09-2019 00:00,Aspirin,Normal,24
+28,Female,A+,arthritis,05-02-2024 00:00,jimenez-huff,1805.522806,urgent,06-02-2024 00:00,Penicillin,Normal,1
+18,Female,O+,arthritis,30-08-2021 00:00,stevenson-chen,38363.26127,emergency,25-09-2021 00:00,Penicillin,Inconclusive,26
+46,Female,B+,asthma,07-01-2022 00:00,parker-white,32746.55637,urgent,25-01-2022 00:00,Ibuprofen,Normal,18
+44,Male,AB+,arthritis,08-09-2023 00:00,"vang schneider and torres,",36649.32428,elective,06-10-2023 00:00,Aspirin,Inconclusive,28
+52,Female,B+,cancer,07-10-2021 00:00,booth-williams,3288.125879,elective,10-10-2021 00:00,Paracetamol,Abnormal,3
+24,Female,B+,cancer,29-02-2020 00:00,gray-black,32993.4924,urgent,17-03-2020 00:00,Lipitor,Normal,17
+53,Male,A+,obesity,06-08-2019 00:00,johnson-garcia,3338.215511,emergency,03-09-2019 00:00,Lipitor,Normal,28
+46,Female,A-,obesity,06-08-2019 00:00,"salinas terrell villanueva, and",21401.52106,urgent,09-08-2019 00:00,Penicillin,Abnormal,3
+72,Female,O+,asthma,06-12-2021 00:00,phelps group,35828.3195,emergency,12-12-2021 00:00,Aspirin,Inconclusive,6
+54,Female,A-,asthma,19-05-2020 00:00,"harrison and erickson, barnett",14171.98971,elective,11-06-2020 00:00,Paracetamol,Inconclusive,23
+73,Male,AB+,hypertension,27-12-2019 00:00,fischer ltd,30283.17459,emergency,29-12-2019 00:00,Lipitor,Abnormal,2
+69,Female,AB-,cancer,04-06-2022 00:00,rhodes-kelly,31419.11937,urgent,13-06-2022 00:00,Penicillin,Normal,9
+32,Male,O+,diabetes,18-01-2023 00:00,"tate pierce and jackson,",23734.85401,emergency,03-02-2023 00:00,Penicillin,Normal,16
+29,Male,B+,diabetes,25-07-2023 00:00,inc daniel,45417.64235,elective,28-07-2023 00:00,Lipitor,Inconclusive,3
+82,Female,A+,arthritis,17-07-2020 00:00,"and roberson lee young,",12822.78329,urgent,09-08-2020 00:00,Lipitor,Inconclusive,23
+19,Male,O-,obesity,03-02-2023 00:00,giles-miller,25856.2202,emergency,23-02-2023 00:00,Lipitor,Abnormal,20
+63,Male,A-,arthritis,27-11-2021 00:00,"martinez, and snyder hill",10443.67777,elective,08-12-2021 00:00,Penicillin,Normal,11
+38,Male,A-,hypertension,18-08-2020 00:00,barber-page,40606.45848,emergency,24-08-2020 00:00,Paracetamol,Inconclusive,6
+74,Male,B+,diabetes,06-07-2019 00:00,"and hess delgado foster,",32535.44837,emergency,02-08-2019 00:00,Lipitor,Normal,27
+38,Male,B-,asthma,17-02-2024 00:00,johnson-holland,34557.28864,emergency,19-02-2024 00:00,Lipitor,Normal,2
+53,Male,AB-,arthritis,06-09-2021 00:00,"and gonzales dunn, camacho",35116.71047,emergency,05-10-2021 00:00,Paracetamol,Normal,29
+36,Male,AB+,diabetes,17-12-2021 00:00,"rodriguez diaz daugherty, and",28270.30357,elective,07-01-2022 00:00,Ibuprofen,Inconclusive,21
+67,Female,A+,arthritis,20-09-2022 00:00,rowland-abbott,47734.98787,emergency,07-10-2022 00:00,Aspirin,Abnormal,17
+63,Male,AB-,asthma,13-12-2021 00:00,"murphy, reid knox and",19176.2617,elective,20-12-2021 00:00,Penicillin,Inconclusive,7
+39,Male,A+,arthritis,12-10-2021 00:00,ryan-mcneil,8731.482275,emergency,27-10-2021 00:00,Ibuprofen,Normal,15
+55,Male,O-,asthma,08-08-2023 00:00,"ramos miller and moore,",19249.68719,emergency,21-08-2023 00:00,Aspirin,Abnormal,13
+80,Male,AB-,obesity,15-11-2019 00:00,sons cherry and,22758.6376,elective,13-12-2019 00:00,Aspirin,Inconclusive,28
+18,Female,B-,asthma,17-12-2021 00:00,cook llc,20929.06654,emergency,26-12-2021 00:00,Aspirin,Normal,9
+41,Male,O+,cancer,08-11-2022 00:00,phillips ltd,3899.863641,emergency,11-11-2022 00:00,Penicillin,Abnormal,3
+81,Male,A+,arthritis,24-02-2020 00:00,"oliver griffin johnson, and",19698.00074,elective,16-03-2020 00:00,Paracetamol,Abnormal,21
+66,Female,O+,asthma,28-05-2022 00:00,gregory group,34060.27295,elective,22-06-2022 00:00,Lipitor,Inconclusive,25
+44,Male,A+,hypertension,03-09-2022 00:00,"and camacho thomas malone,",40367.63417,elective,30-09-2022 00:00,Aspirin,Inconclusive,27
+81,Female,AB-,arthritis,07-04-2020 00:00,llc smith,3638.246196,emergency,30-04-2020 00:00,Aspirin,Abnormal,23
+77,Male,O+,arthritis,25-08-2019 00:00,"cunningham andrade and butler,",46134.92598,elective,04-09-2019 00:00,Aspirin,Inconclusive,10
+62,Male,B-,obesity,28-05-2021 00:00,curtis-lin,14549.49467,urgent,09-06-2021 00:00,Penicillin,Abnormal,12
+78,Male,O+,cancer,25-02-2024 00:00,ltd smith,30549.65332,emergency,08-03-2024 00:00,Paracetamol,Inconclusive,12
+70,Male,O+,diabetes,08-09-2019 00:00,inc sanchez,13666.17587,elective,09-09-2019 00:00,Lipitor,Normal,1
+33,Male,B-,asthma,25-05-2023 00:00,"rice, cooper rivera and",45199.27331,elective,29-05-2023 00:00,Lipitor,Abnormal,4
+56,Female,AB-,arthritis,11-07-2023 00:00,garcia llc,20514.40018,elective,01-08-2023 00:00,Ibuprofen,Abnormal,21
+38,Male,A+,cancer,20-03-2024 00:00,bell ltd,47700.53753,emergency,05-04-2024 00:00,Penicillin,Normal,16
+33,Male,AB+,hypertension,05-11-2021 00:00,"hogan, young holmes and",2462.21032,urgent,06-11-2021 00:00,Paracetamol,Inconclusive,1
+25,Male,O-,hypertension,27-08-2023 00:00,vazquez-sanchez,31401.50185,urgent,28-08-2023 00:00,Lipitor,Inconclusive,1
+66,Female,B-,obesity,26-05-2022 00:00,mcintyre ltd,20749.86282,elective,30-05-2022 00:00,Paracetamol,Inconclusive,4
+47,Male,B+,hypertension,13-09-2021 00:00,"white roberts and lee,",47297.41907,emergency,16-09-2021 00:00,Lipitor,Normal,3
+53,Female,O-,obesity,10-03-2024 00:00,"simpson espinoza, and thompson",26223.16583,urgent,15-03-2024 00:00,Penicillin,Normal,5
+37,Male,AB+,asthma,26-09-2022 00:00,and moore sons,35821.64934,urgent,24-10-2022 00:00,Paracetamol,Normal,28
+56,Male,A-,arthritis,26-12-2019 00:00,"and mclaughlin powers stevens,",21633.32776,elective,27-12-2019 00:00,Paracetamol,Inconclusive,1
+51,Male,A-,arthritis,18-01-2021 00:00,"and anderson, porter becker",39448.88651,elective,11-02-2021 00:00,Aspirin,Inconclusive,24
+40,Female,O-,cancer,23-02-2021 00:00,bailey-hunt,8867.746669,emergency,20-03-2021 00:00,Lipitor,Inconclusive,25
+56,Female,AB+,arthritis,15-03-2020 00:00,"king and bryant olsen,",5571.235246,elective,22-03-2020 00:00,Paracetamol,Normal,7
+76,Male,A+,asthma,22-09-2019 00:00,"watson johnson joseph, and",13014.33,emergency,28-09-2019 00:00,Aspirin,Abnormal,6
+81,Male,AB+,obesity,07-12-2023 00:00,group evans,27828.93952,emergency,13-12-2023 00:00,Ibuprofen,Abnormal,6
+84,Female,O-,arthritis,01-07-2020 00:00,"collins porter and rodgers,",36931.48285,elective,09-07-2020 00:00,Paracetamol,Normal,8
+54,Male,O+,obesity,12-05-2020 00:00,"and goodwin, hernandez andrade",41307.89583,elective,17-05-2020 00:00,Penicillin,Normal,5
+40,Male,B+,asthma,29-08-2022 00:00,solomon plc,36632.31835,urgent,10-09-2022 00:00,Penicillin,Inconclusive,12
+79,Male,O-,cancer,01-11-2019 00:00,flores sons and,17658.4724,emergency,19-11-2019 00:00,Penicillin,Inconclusive,18
+52,Male,AB-,cancer,16-08-2019 00:00,lowe llc,10034.72126,emergency,15-09-2019 00:00,Paracetamol,Abnormal,30
+42,Male,B+,diabetes,28-02-2021 00:00,"lopez keller, williams and",7383.383359,emergency,14-03-2021 00:00,Paracetamol,Normal,14
+41,Male,A+,asthma,07-09-2020 00:00,brown-wood,28974.45533,elective,30-09-2020 00:00,Paracetamol,Normal,23
+26,Male,A+,arthritis,16-02-2024 00:00,martinez-davis,4697.234334,elective,28-02-2024 00:00,Aspirin,Abnormal,12
+76,Female,B+,cancer,16-01-2021 00:00,alexander-oconnor,41150.19069,elective,27-01-2021 00:00,Lipitor,Abnormal,11
+29,Female,A+,arthritis,31-01-2023 00:00,carlson-stone,30324.45091,emergency,14-02-2023 00:00,Penicillin,Normal,14
+19,Male,B-,hypertension,29-07-2022 00:00,"george ward, and clark",33646.11409,emergency,21-08-2022 00:00,Penicillin,Normal,23
+30,Female,O-,diabetes,27-04-2022 00:00,nicholson-johnson,46717.95011,urgent,01-05-2022 00:00,Penicillin,Inconclusive,4
+37,Female,O-,asthma,06-06-2020 00:00,plc carr,49997.32637,elective,22-06-2020 00:00,Aspirin,Normal,16
+82,Female,AB-,asthma,02-11-2019 00:00,alexander-middleton,38397.02332,elective,28-11-2019 00:00,Penicillin,Abnormal,26
+84,Female,B+,obesity,12-09-2022 00:00,horton-martinez,10135.86552,urgent,22-09-2022 00:00,Paracetamol,Inconclusive,10
+52,Female,A+,arthritis,10-01-2021 00:00,group schneider,25685.62576,emergency,25-01-2021 00:00,Paracetamol,Abnormal,15
+75,Female,B-,hypertension,05-11-2019 00:00,plc obrien,6007.693943,emergency,08-11-2019 00:00,Aspirin,Inconclusive,3
+30,Male,A+,cancer,17-02-2021 00:00,ramos-holt,7609.436017,urgent,07-03-2021 00:00,Ibuprofen,Abnormal,18
+76,Male,A-,diabetes,04-06-2023 00:00,"patterson and peterson, velazquez",46287.04931,emergency,27-06-2023 00:00,Paracetamol,Inconclusive,23
+56,Male,B-,diabetes,07-09-2023 00:00,"jensen and jackson, greene",19204.91778,emergency,06-10-2023 00:00,Lipitor,Inconclusive,29
+65,Female,O-,hypertension,29-09-2022 00:00,mathews-lawrence,45019.02631,emergency,09-10-2022 00:00,Paracetamol,Abnormal,10
+83,Female,A+,obesity,03-02-2022 00:00,"morales, johnson and carlson",44581.1535,urgent,08-02-2022 00:00,Penicillin,Abnormal,5
+43,Female,B+,hypertension,14-02-2024 00:00,"wilson, ward taylor and",8726.699006,elective,02-03-2024 00:00,Penicillin,Inconclusive,17
+84,Male,A+,hypertension,10-09-2020 00:00,torres-johnson,41966.56891,urgent,21-09-2020 00:00,Ibuprofen,Inconclusive,11
+84,Female,B+,hypertension,24-01-2023 00:00,inc mcbride,44255.32601,urgent,27-01-2023 00:00,Lipitor,Inconclusive,3
+77,Male,O-,obesity,01-10-2021 00:00,"and dunlap, wright mays",43644.33708,emergency,23-10-2021 00:00,Paracetamol,Abnormal,22
+60,Male,O+,arthritis,05-06-2021 00:00,sullivan-crosby,45304.3895,elective,11-06-2021 00:00,Penicillin,Inconclusive,6
+48,Male,O+,arthritis,09-08-2023 00:00,"and shaw, davis pollard",18891.92099,urgent,26-08-2023 00:00,Paracetamol,Inconclusive,17
+80,Female,B-,asthma,22-12-2020 00:00,williams llc,18381.58295,urgent,16-01-2021 00:00,Ibuprofen,Normal,25
+46,Male,A+,hypertension,21-06-2022 00:00,franklin ltd,42316.12427,elective,10-07-2022 00:00,Paracetamol,Inconclusive,19
+38,Male,B-,arthritis,05-05-2021 00:00,galloway-barnett,15072.57093,elective,15-05-2021 00:00,Penicillin,Abnormal,10
+72,Female,A-,asthma,20-04-2024 00:00,"miller olson, and collins",7380.731298,elective,10-05-2024 00:00,Aspirin,Normal,20
+70,Female,A+,asthma,13-06-2022 00:00,"wheeler and miller burch,",5936.363411,elective,05-07-2022 00:00,Lipitor,Abnormal,22
+46,Female,O+,hypertension,01-09-2023 00:00,mercer-booker,7704.300991,emergency,18-09-2023 00:00,Penicillin,Abnormal,17
+82,Male,AB+,cancer,14-03-2020 00:00,"and burke skinner myers,",12099.7931,urgent,01-04-2020 00:00,Penicillin,Normal,18
+44,Female,A+,hypertension,05-06-2022 00:00,"and parker, stout chase",17202.89964,elective,29-06-2022 00:00,Ibuprofen,Inconclusive,24
+34,Female,O+,asthma,19-12-2019 00:00,"fernandez harris, and wilson",25275.94423,urgent,16-01-2020 00:00,Ibuprofen,Inconclusive,28
+49,Male,A-,hypertension,06-12-2020 00:00,young-myers,17002.30327,emergency,09-12-2020 00:00,Ibuprofen,Normal,3
+44,Female,B+,cancer,13-05-2019 00:00,johnson plc,4794.751355,emergency,10-06-2019 00:00,Paracetamol,Inconclusive,28
+37,Male,A-,hypertension,17-01-2023 00:00,"barber waters castillo, and",7241.195989,elective,05-02-2023 00:00,Penicillin,Normal,19
+37,Male,AB-,arthritis,28-07-2022 00:00,jarvis-craig,45218.74105,elective,16-08-2022 00:00,Aspirin,Abnormal,19
+58,Female,O+,diabetes,15-10-2022 00:00,schneider-patton,32052.05646,urgent,05-11-2022 00:00,Ibuprofen,Abnormal,21
+20,Female,A+,obesity,25-05-2020 00:00,"kane porter and robinson,",30718.54628,elective,06-06-2020 00:00,Ibuprofen,Normal,12
+43,Male,A-,obesity,13-02-2021 00:00,archer inc,51441.72905,urgent,03-03-2021 00:00,Aspirin,Abnormal,18
+57,Female,AB-,cancer,31-05-2023 00:00,castaneda-powell,1821.347946,emergency,25-06-2023 00:00,Penicillin,Inconclusive,25
+76,Male,AB+,arthritis,18-01-2020 00:00,"king, williams and terry",23857.49948,urgent,26-01-2020 00:00,Paracetamol,Inconclusive,8
+53,Female,B-,cancer,19-08-2020 00:00,henry plc,4795.513439,urgent,28-08-2020 00:00,Penicillin,Abnormal,9
+45,Male,A-,diabetes,24-12-2022 00:00,"and carpenter, hernandez chang",25500.707,emergency,22-01-2023 00:00,Ibuprofen,Normal,29
+21,Female,O+,asthma,05-09-2020 00:00,santiago-bush,10837.61458,emergency,25-09-2020 00:00,Aspirin,Normal,20
+64,Male,A-,arthritis,10-09-2022 00:00,"williams hale and summers,",46836.7059,elective,22-09-2022 00:00,Paracetamol,Normal,12
+71,Male,AB-,diabetes,26-04-2021 00:00,ltd carroll,11426.01213,emergency,04-05-2021 00:00,Aspirin,Abnormal,8
+28,Female,O-,diabetes,20-01-2024 00:00,"stevenson, harding and woods",20590.5154,urgent,28-01-2024 00:00,Penicillin,Normal,8
+79,Male,A-,hypertension,05-03-2021 00:00,munoz ltd,28100.09253,emergency,15-03-2021 00:00,Lipitor,Normal,10
+40,Male,O+,arthritis,27-12-2020 00:00,llc hernandez,33188.92655,urgent,23-01-2021 00:00,Penicillin,Abnormal,27
+50,Female,AB+,asthma,22-09-2021 00:00,"kidd romero, and douglas",47130.0256,urgent,15-10-2021 00:00,Lipitor,Abnormal,23
+64,Female,B-,cancer,01-05-2023 00:00,and cordova sons,20361.86552,urgent,31-05-2023 00:00,Lipitor,Abnormal,30
+81,Male,O+,obesity,12-05-2019 00:00,garcia-clark,11229.75549,emergency,23-05-2019 00:00,Penicillin,Abnormal,11
+52,Female,O+,hypertension,22-02-2021 00:00,robinson group,6969.091522,emergency,15-03-2021 00:00,Penicillin,Normal,21
+76,Male,B+,obesity,10-03-2022 00:00,"hayes ryan, and martinez",31405.58063,urgent,18-03-2022 00:00,Aspirin,Inconclusive,8
+52,Male,B+,obesity,23-10-2022 00:00,"glover and oneill miller,",22976.90758,emergency,03-11-2022 00:00,Aspirin,Abnormal,11
+77,Female,O-,cancer,13-03-2024 00:00,diaz inc,32136.51041,emergency,29-03-2024 00:00,Penicillin,Inconclusive,16
+81,Male,AB+,hypertension,06-08-2019 00:00,martin-nguyen,39313.88983,elective,16-08-2019 00:00,Lipitor,Normal,10
+36,Male,B-,obesity,15-09-2020 00:00,roberts inc,5624.288669,emergency,26-09-2020 00:00,Paracetamol,Inconclusive,11
+72,Female,AB+,cancer,31-10-2019 00:00,"riley, grimes ruiz and",5823.048061,elective,03-11-2019 00:00,Lipitor,Inconclusive,3
+70,Male,O-,diabetes,07-09-2020 00:00,ltd rogers,11628.61734,urgent,19-09-2020 00:00,Lipitor,Inconclusive,12
+44,Female,O-,arthritis,27-08-2021 00:00,gomez inc,8104.667977,elective,24-09-2021 00:00,Lipitor,Inconclusive,28
+81,Female,A-,arthritis,21-12-2019 00:00,plc mack,12093.08681,emergency,15-01-2020 00:00,Aspirin,Inconclusive,25
+41,Male,B-,arthritis,23-09-2019 00:00,castro-gomez,29465.81709,urgent,26-09-2019 00:00,Lipitor,Abnormal,3
+32,Female,A+,arthritis,21-05-2022 00:00,"chan, goodman and gould",22545.92923,emergency,25-05-2022 00:00,Penicillin,Inconclusive,4
+58,Female,B-,obesity,29-12-2019 00:00,"russell and randolph, lawrence",2641.016179,elective,04-01-2020 00:00,Aspirin,Normal,6
+33,Male,A-,arthritis,03-04-2020 00:00,evans-gonzalez,16527.25787,elective,04-04-2020 00:00,Penicillin,Inconclusive,1
+80,Male,A+,cancer,15-12-2022 00:00,miller sons and,13624.82928,urgent,28-12-2022 00:00,Paracetamol,Inconclusive,13
+67,Male,O-,obesity,07-08-2020 00:00,watts-schneider,39570.06896,urgent,09-08-2020 00:00,Aspirin,Inconclusive,2
+39,Male,A-,diabetes,19-03-2022 00:00,harrell inc,13256.41456,urgent,20-03-2022 00:00,Paracetamol,Normal,1
+52,Male,A+,arthritis,10-03-2024 00:00,"reed valdez and pratt,",32633.20307,emergency,26-03-2024 00:00,Aspirin,Normal,16
+49,Male,AB-,arthritis,29-11-2019 00:00,ali group,19720.0359,emergency,30-11-2019 00:00,Lipitor,Normal,1
+41,Male,B-,hypertension,17-07-2019 00:00,conner-nelson,46421.26125,emergency,12-08-2019 00:00,Paracetamol,Abnormal,26
+81,Female,O-,hypertension,27-05-2020 00:00,"and miller prince rodriguez,",10767.37667,elective,12-06-2020 00:00,Aspirin,Normal,16
+19,Female,A-,hypertension,06-09-2019 00:00,"parker davis clark, and",47656.51701,emergency,01-10-2019 00:00,Penicillin,Inconclusive,25
+83,Male,AB+,hypertension,06-04-2021 00:00,mills-petersen,46186.16325,elective,06-05-2021 00:00,Ibuprofen,Abnormal,30
+36,Female,O+,cancer,19-05-2019 00:00,"smith anderson and hunt,",44148.54288,emergency,29-05-2019 00:00,Paracetamol,Abnormal,10
+43,Female,A-,cancer,24-09-2023 00:00,kennedy-smith,12447.26512,elective,20-10-2023 00:00,Paracetamol,Abnormal,26
+72,Male,AB-,diabetes,30-09-2019 00:00,"and moore, ballard johnson",43298.4337,urgent,10-10-2019 00:00,Paracetamol,Abnormal,10
+73,Female,A+,asthma,23-07-2022 00:00,"williams reynolds and rangel,",33379.54547,emergency,16-08-2022 00:00,Ibuprofen,Abnormal,24
+32,Male,AB-,cancer,11-05-2020 00:00,"shelton johnson, and green",37553.16097,emergency,06-06-2020 00:00,Aspirin,Inconclusive,26
+39,Male,O+,asthma,01-08-2019 00:00,"lopez, and howard morrison",44931.12877,elective,08-08-2019 00:00,Penicillin,Normal,7
+72,Male,B+,asthma,06-09-2019 00:00,sons and cortez,44595.97086,urgent,15-09-2019 00:00,Lipitor,Abnormal,9
+24,Male,B-,cancer,28-01-2023 00:00,roberts ltd,10243.97206,emergency,26-02-2023 00:00,Penicillin,Inconclusive,29
+32,Female,O-,obesity,11-09-2023 00:00,sellers-shepard,8762.503072,emergency,11-10-2023 00:00,Penicillin,Abnormal,30
+57,Female,AB+,asthma,11-03-2020 00:00,"lloyd scott, and reese",10363.66893,emergency,18-03-2020 00:00,Ibuprofen,Normal,7
+56,Male,B-,asthma,07-03-2021 00:00,gibson-osborne,22827.8109,urgent,21-03-2021 00:00,Paracetamol,Abnormal,14
+84,Female,O+,asthma,03-04-2024 00:00,matthews-morgan,22913.34873,urgent,10-04-2024 00:00,Ibuprofen,Inconclusive,7
+46,Male,B-,cancer,25-12-2022 00:00,scott and sons,33800.90849,urgent,10-01-2023 00:00,Penicillin,Abnormal,16
+55,Male,AB+,obesity,01-04-2020 00:00,diaz-richards,23713.92381,urgent,26-04-2020 00:00,Ibuprofen,Inconclusive,25
+19,Female,A+,hypertension,23-01-2020 00:00,llc johnson,41794.35543,emergency,20-02-2020 00:00,Aspirin,Abnormal,28
+69,Female,O+,diabetes,10-02-2023 00:00,murphy group,40304.38007,emergency,25-02-2023 00:00,Paracetamol,Inconclusive,15
+69,Female,B-,cancer,20-10-2023 00:00,"barajas and byrd, wolf",43825.05667,elective,28-10-2023 00:00,Paracetamol,Normal,8
+56,Male,A-,hypertension,15-07-2020 00:00,"salazar newman white, and",16509.89323,emergency,11-08-2020 00:00,Lipitor,Inconclusive,27
+36,Female,A-,arthritis,14-01-2023 00:00,hancock-lewis,46268.72904,elective,08-02-2023 00:00,Aspirin,Normal,25
+44,Male,A-,arthritis,19-06-2021 00:00,barrett-wright,36272.75182,emergency,14-07-2021 00:00,Paracetamol,Normal,25
+32,Male,O-,obesity,18-05-2020 00:00,"bowers blankenship jackson, and",5614.518227,urgent,19-05-2020 00:00,Aspirin,Abnormal,1
+61,Female,B-,arthritis,16-05-2020 00:00,hahn-wilson,21429.67391,elective,15-06-2020 00:00,Ibuprofen,Abnormal,30
+61,Male,AB+,cancer,11-03-2021 00:00,"ramirez and nelson, collins",24057.47093,emergency,02-04-2021 00:00,Paracetamol,Normal,22
+47,Male,B-,arthritis,05-02-2023 00:00,sosa-jackson,22775.47094,elective,12-02-2023 00:00,Penicillin,Abnormal,7
+49,Female,A+,obesity,19-10-2021 00:00,dillon-richard,30953.78226,urgent,12-11-2021 00:00,Penicillin,Normal,24
+83,Male,B-,asthma,07-09-2019 00:00,stokes and sons,12101.13066,urgent,29-09-2019 00:00,Aspirin,Abnormal,22
+63,Male,B-,asthma,26-05-2021 00:00,inc nguyen,1478.181139,elective,20-06-2021 00:00,Ibuprofen,Normal,25
+26,Female,O-,cancer,07-05-2021 00:00,gallagher-hernandez,37197.85565,urgent,27-05-2021 00:00,Penicillin,Abnormal,20
+20,Female,AB-,arthritis,17-01-2023 00:00,"johnson david carpenter, and",5407.728755,elective,29-01-2023 00:00,Paracetamol,Normal,12
+69,Male,AB-,asthma,05-03-2020 00:00,"and montes marshall valdez,",6035.458069,urgent,06-03-2020 00:00,Lipitor,Normal,1
+26,Male,AB-,asthma,16-09-2022 00:00,plc kelly,5778.245819,elective,16-10-2022 00:00,Aspirin,Normal,30
+36,Male,AB+,arthritis,03-06-2022 00:00,wilson-sherman,46602.69268,elective,28-06-2022 00:00,Ibuprofen,Abnormal,25
+27,Male,AB-,diabetes,30-12-2020 00:00,peterson group,47789.82597,emergency,26-01-2021 00:00,Paracetamol,Abnormal,27
+60,Female,B-,obesity,09-08-2020 00:00,hall-taylor,46608.39289,emergency,15-08-2020 00:00,Penicillin,Abnormal,6
+67,Female,AB-,arthritis,10-03-2021 00:00,rios plc,8709.035963,elective,29-03-2021 00:00,Lipitor,Normal,19
+41,Female,O+,cancer,15-03-2021 00:00,"lutz, lester and kelly",18270.99527,urgent,26-03-2021 00:00,Ibuprofen,Abnormal,11
+45,Male,B-,hypertension,23-08-2021 00:00,"scott, moore and brewer",17679.02668,urgent,24-08-2021 00:00,Penicillin,Normal,1
+37,Male,A+,diabetes,11-11-2023 00:00,"sullivan henderson lloyd, and",21965.1474,emergency,28-11-2023 00:00,Penicillin,Inconclusive,17
+46,Male,A+,cancer,31-12-2023 00:00,"and rhodes trujillo, booth",27309.70788,emergency,27-01-2024 00:00,Penicillin,Inconclusive,27
+71,Female,A+,arthritis,21-09-2019 00:00,bailey-white,4437.95635,emergency,20-10-2019 00:00,Penicillin,Normal,29
+69,Female,B+,hypertension,04-11-2022 00:00,bridges inc,15704.08922,emergency,13-11-2022 00:00,Ibuprofen,Inconclusive,9
+65,Male,O-,asthma,08-08-2019 00:00,"jackson carr, garcia and",16528.80182,urgent,19-08-2019 00:00,Paracetamol,Abnormal,11
+75,Female,O+,arthritis,05-10-2023 00:00,richardson-griffin,3621.161691,elective,08-10-2023 00:00,Penicillin,Inconclusive,3
+77,Male,O+,diabetes,28-08-2020 00:00,allen-campbell,47863.02392,urgent,04-09-2020 00:00,Ibuprofen,Normal,7
+22,Male,A+,obesity,08-07-2020 00:00,ferguson-liu,46772.5812,emergency,13-07-2020 00:00,Ibuprofen,Abnormal,5
+58,Female,O+,obesity,06-10-2023 00:00,lee ltd,18479.74328,urgent,09-10-2023 00:00,Ibuprofen,Inconclusive,3
+25,Female,A-,cancer,01-07-2023 00:00,baldwin-marshall,7285.489592,urgent,05-07-2023 00:00,Lipitor,Normal,4
+83,Female,B-,diabetes,07-08-2021 00:00,norman plc,6818.72448,elective,20-08-2021 00:00,Lipitor,Normal,13
+27,Male,A-,hypertension,13-05-2020 00:00,boyd-fisher,14374.313,urgent,26-05-2020 00:00,Lipitor,Abnormal,13
+32,Male,B-,arthritis,26-09-2023 00:00,inc davis,5936.177145,urgent,29-09-2023 00:00,Aspirin,Normal,3
+40,Male,A+,diabetes,14-06-2023 00:00,perry inc,32897.26731,urgent,15-06-2023 00:00,Ibuprofen,Inconclusive,1
+25,Male,AB-,asthma,05-05-2024 00:00,"and brown larson moyer,",3963.121128,urgent,07-05-2024 00:00,Aspirin,Abnormal,2
+69,Male,A-,asthma,03-04-2023 00:00,soto-boyle,16057.82016,elective,11-04-2023 00:00,Ibuprofen,Normal,8
+25,Female,B-,diabetes,24-10-2021 00:00,jones-ellis,44041.57374,emergency,13-11-2021 00:00,Ibuprofen,Normal,20
+66,Female,B+,arthritis,24-05-2023 00:00,"jenkins, mathews and ho",15086.15878,urgent,09-06-2023 00:00,Lipitor,Abnormal,16
+62,Male,A+,hypertension,20-12-2019 00:00,villa inc,16377.52313,urgent,17-01-2020 00:00,Penicillin,Inconclusive,28
+30,Male,A-,hypertension,27-04-2022 00:00,castro plc,43488.83863,elective,04-05-2022 00:00,Lipitor,Inconclusive,7
+55,Male,B+,hypertension,14-11-2019 00:00,ortiz-martin,43108.88806,emergency,16-11-2019 00:00,Ibuprofen,Inconclusive,2
+78,Female,O-,hypertension,17-04-2022 00:00,anthony-torres,21585.24342,emergency,25-04-2022 00:00,Penicillin,Abnormal,8
+69,Female,A-,arthritis,15-04-2022 00:00,plc drake,28922.86052,urgent,12-05-2022 00:00,Penicillin,Inconclusive,27
+77,Male,O+,cancer,13-03-2021 00:00,schmidt ltd,14808.74759,emergency,14-03-2021 00:00,Aspirin,Normal,1
+56,Female,A+,hypertension,18-12-2021 00:00,ortiz-gardner,26824.00264,emergency,06-01-2022 00:00,Ibuprofen,Inconclusive,19
+58,Female,O-,asthma,09-12-2022 00:00,smith-white,49741.76823,emergency,27-12-2022 00:00,Paracetamol,Inconclusive,18
+78,Female,O-,asthma,06-01-2024 00:00,ltd stewart,14687.49995,elective,31-01-2024 00:00,Aspirin,Normal,25
+50,Male,O+,asthma,27-12-2020 00:00,"hunter and james wilson,",30770.32271,emergency,30-12-2020 00:00,Aspirin,Inconclusive,3
+38,Female,O-,obesity,05-01-2024 00:00,martinez-elliott,32173.35154,elective,06-01-2024 00:00,Penicillin,Abnormal,1
+81,Female,A-,cancer,24-02-2021 00:00,wright-nguyen,28009.03341,urgent,28-02-2021 00:00,Paracetamol,Abnormal,4
+80,Male,AB-,cancer,11-09-2023 00:00,"and johnson wright carter,",14657.57329,elective,27-09-2023 00:00,Lipitor,Abnormal,16
+48,Female,A+,cancer,31-01-2022 00:00,johnson-collins,49492.13632,elective,09-02-2022 00:00,Lipitor,Normal,9
+22,Male,O+,arthritis,22-08-2022 00:00,olsen llc,7647.467841,emergency,15-09-2022 00:00,Penicillin,Inconclusive,24
+50,Male,A-,arthritis,07-10-2021 00:00,smith llc,37340.17187,urgent,08-10-2021 00:00,Ibuprofen,Abnormal,1
+19,Male,O-,diabetes,04-10-2021 00:00,rodriguez-morgan,23743.09829,emergency,13-10-2021 00:00,Aspirin,Inconclusive,9
+79,Male,A+,obesity,13-08-2023 00:00,ltd bell,10322.73695,emergency,02-09-2023 00:00,Paracetamol,Inconclusive,20
+44,Female,B-,arthritis,16-11-2019 00:00,"and thompson mccall, brooks",5009.974996,urgent,25-11-2019 00:00,Paracetamol,Inconclusive,9
+50,Female,A-,hypertension,10-05-2023 00:00,castillo llc,22823.92438,emergency,04-06-2023 00:00,Ibuprofen,Inconclusive,25
+20,Female,O+,arthritis,28-03-2021 00:00,torres group,27854.68007,urgent,17-04-2021 00:00,Lipitor,Abnormal,20
+60,Male,A+,hypertension,21-12-2021 00:00,"and wagner, lee klein",-306.3649251,elective,11-01-2022 00:00,Ibuprofen,Normal,21
+75,Male,B+,asthma,05-02-2021 00:00,"boyd and baker rasmussen,",2223.609989,emergency,17-02-2021 00:00,Aspirin,Abnormal,12
+45,Female,AB+,asthma,15-07-2023 00:00,owens-adkins,13534.10945,urgent,23-07-2023 00:00,Ibuprofen,Abnormal,8
+20,Female,O-,asthma,20-01-2023 00:00,plc lewis,5851.030625,emergency,18-02-2023 00:00,Ibuprofen,Inconclusive,29
+50,Female,AB-,hypertension,22-03-2020 00:00,brennan-walters,20831.13595,emergency,01-04-2020 00:00,Paracetamol,Inconclusive,10
+39,Female,AB+,diabetes,17-10-2020 00:00,"and mcdonald taylor, pitts",10556.97519,emergency,26-10-2020 00:00,Penicillin,Abnormal,9
+32,Female,O+,asthma,19-01-2021 00:00,martin llc,29831.51574,elective,05-02-2021 00:00,Lipitor,Normal,17
+58,Male,A-,diabetes,26-03-2023 00:00,huang-blanchard,30143.30118,urgent,05-04-2023 00:00,Ibuprofen,Normal,10
+67,Female,A-,diabetes,28-09-2022 00:00,"gonzalez and marks, lopez",34555.17166,emergency,16-10-2022 00:00,Aspirin,Normal,18
+59,Male,AB-,cancer,20-10-2019 00:00,"molina, rogers and horton",3915.229618,elective,07-11-2019 00:00,Penicillin,Abnormal,18
+37,Male,O+,arthritis,13-03-2022 00:00,"haynes miller, and gray",36541.89485,emergency,17-03-2022 00:00,Paracetamol,Abnormal,4
+37,Male,B+,obesity,19-03-2020 00:00,"garcia woodward and morgan,",6709.755375,elective,22-03-2020 00:00,Aspirin,Abnormal,3
+59,Female,O+,diabetes,22-02-2021 00:00,and kennedy sons,5078.627303,elective,04-03-2021 00:00,Paracetamol,Abnormal,10
+68,Male,B-,arthritis,28-06-2021 00:00,inc anderson,36247.04392,emergency,27-07-2021 00:00,Ibuprofen,Inconclusive,29
+51,Female,A-,hypertension,08-10-2022 00:00,"armstrong everett, adams and",24786.21802,elective,05-11-2022 00:00,Aspirin,Abnormal,28
+74,Male,B-,hypertension,05-10-2021 00:00,mclaughlin-jenkins,28652.03903,urgent,26-10-2021 00:00,Aspirin,Abnormal,21
+81,Female,AB+,hypertension,15-02-2023 00:00,parks plc,9824.840766,emergency,22-02-2023 00:00,Ibuprofen,Abnormal,7
+60,Male,O-,diabetes,24-01-2021 00:00,"hendrix, roberts and pitts",3763.772427,urgent,11-02-2021 00:00,Paracetamol,Abnormal,18
+44,Male,A+,hypertension,22-01-2022 00:00,"and berger perry, calhoun",31043.20634,urgent,09-02-2022 00:00,Ibuprofen,Inconclusive,18
+33,Female,AB-,obesity,02-03-2023 00:00,evans-molina,14033.54521,emergency,03-03-2023 00:00,Ibuprofen,Abnormal,1
+35,Male,B+,obesity,26-10-2020 00:00,and sons tucker,28978.374,emergency,31-10-2020 00:00,Ibuprofen,Normal,5
+46,Male,B-,asthma,09-02-2022 00:00,group holder,46467.77081,urgent,16-02-2022 00:00,Paracetamol,Inconclusive,7
+51,Female,B+,hypertension,26-10-2023 00:00,lawrence plc,19095.52451,emergency,21-11-2023 00:00,Penicillin,Inconclusive,26
+65,Male,A-,obesity,11-01-2024 00:00,smith ltd,13302.22991,elective,15-01-2024 00:00,Penicillin,Abnormal,4
+75,Male,O+,hypertension,25-05-2022 00:00,howe-smith,47701.5277,emergency,19-06-2022 00:00,Paracetamol,Normal,25
+33,Female,B-,cancer,31-07-2019 00:00,plc vargas,3311.874195,elective,08-08-2019 00:00,Aspirin,Abnormal,8
+45,Female,O+,diabetes,27-02-2022 00:00,"and ray wood barrett,",3553.896471,emergency,03-03-2022 00:00,Aspirin,Abnormal,4
+81,Female,AB+,diabetes,15-05-2021 00:00,"davis moore bartlett, and",41320.70858,elective,31-05-2021 00:00,Paracetamol,Abnormal,16
+56,Female,B-,arthritis,27-07-2023 00:00,barton-johnson,14150.51155,elective,19-08-2023 00:00,Penicillin,Abnormal,23
+57,Male,A+,obesity,01-08-2022 00:00,salas-farmer,34903.67037,emergency,16-08-2022 00:00,Aspirin,Abnormal,15
+75,Male,A+,arthritis,17-05-2021 00:00,"neal and roberson hicks,",47641.69925,urgent,30-05-2021 00:00,Paracetamol,Abnormal,13
+22,Male,A+,cancer,22-03-2022 00:00,robinson inc,4440.423373,elective,01-04-2022 00:00,Ibuprofen,Normal,10
+68,Male,B+,hypertension,31-08-2020 00:00,and howard sons,19936.65975,elective,13-09-2020 00:00,Penicillin,Normal,13
+22,Male,AB+,arthritis,17-03-2021 00:00,"and morris mullins, hernandez",44863.65089,emergency,20-03-2021 00:00,Aspirin,Normal,3
+47,Male,A+,cancer,13-06-2019 00:00,rodriguez-howard,6877.477401,emergency,17-06-2019 00:00,Penicillin,Normal,4
+66,Male,AB-,hypertension,01-08-2020 00:00,martin ltd,17036.10858,elective,22-08-2020 00:00,Lipitor,Abnormal,21
+51,Female,O+,cancer,25-03-2020 00:00,jordan-hood,19825.21712,emergency,05-04-2020 00:00,Lipitor,Abnormal,11
+45,Male,AB+,asthma,03-05-2020 00:00,fox-singleton,47624.24846,urgent,27-05-2020 00:00,Lipitor,Abnormal,24
+23,Female,A+,arthritis,29-11-2022 00:00,"holland, daniels brennan and",22014.56051,elective,17-12-2022 00:00,Ibuprofen,Abnormal,18
+77,Male,AB-,obesity,12-12-2019 00:00,sanchez-green,17621.51913,elective,27-12-2019 00:00,Penicillin,Abnormal,15
+68,Male,B+,asthma,14-04-2023 00:00,brown llc,47742.58882,urgent,03-05-2023 00:00,Penicillin,Abnormal,19
+21,Female,AB+,cancer,08-09-2021 00:00,pacheco-morris,40960.95747,elective,03-10-2021 00:00,Penicillin,Normal,25
+28,Male,A+,hypertension,16-05-2020 00:00,"odonnell, kelly mejia and",45977.38137,urgent,20-05-2020 00:00,Ibuprofen,Inconclusive,4
+64,Male,B+,obesity,24-05-2020 00:00,zimmerman-schneider,29685.10982,emergency,01-06-2020 00:00,Ibuprofen,Abnormal,8
+23,Male,B-,obesity,05-01-2020 00:00,"hoover rodriguez, and vang",11418.62217,urgent,31-01-2020 00:00,Lipitor,Abnormal,26
+29,Female,B-,cancer,20-05-2023 00:00,fuller sons and,20578.29571,emergency,25-05-2023 00:00,Penicillin,Normal,5
+79,Female,O-,arthritis,16-10-2023 00:00,and sons bonilla,7068.913984,elective,27-10-2023 00:00,Penicillin,Inconclusive,11
+53,Male,O+,cancer,09-12-2022 00:00,"and gordon lee yang,",16964.06034,urgent,12-12-2022 00:00,Penicillin,Inconclusive,3
+25,Female,AB-,cancer,21-10-2022 00:00,llc howard,16428.99224,urgent,14-11-2022 00:00,Penicillin,Normal,24
+60,Male,O-,obesity,27-02-2020 00:00,"and shields williams, james",49241.69058,elective,16-03-2020 00:00,Lipitor,Abnormal,18
+59,Female,AB+,obesity,28-08-2022 00:00,moore-sanders,28954.26139,emergency,14-09-2022 00:00,Aspirin,Inconclusive,17
+26,Female,A+,diabetes,15-11-2023 00:00,"ortiz, and massey norton",2329.108093,urgent,27-11-2023 00:00,Lipitor,Abnormal,12
+56,Male,AB+,obesity,25-03-2023 00:00,plc anderson,17327.9845,urgent,26-03-2023 00:00,Penicillin,Abnormal,1
+53,Female,A+,obesity,28-02-2021 00:00,herring-smith,22475.88372,emergency,29-03-2021 00:00,Ibuprofen,Abnormal,29
+73,Female,B+,diabetes,14-05-2021 00:00,plc hale,32773.81627,emergency,17-05-2021 00:00,Lipitor,Abnormal,3
+38,Male,B+,obesity,19-04-2020 00:00,"parker jackson, jackson and",17202.04638,urgent,12-05-2020 00:00,Aspirin,Normal,23
+73,Female,A-,cancer,18-01-2024 00:00,"parsons petersen, mckenzie and",43801.72709,emergency,08-02-2024 00:00,Lipitor,Abnormal,21
+20,Female,B-,arthritis,05-05-2021 00:00,guerrero-jordan,8042.612464,emergency,20-05-2021 00:00,Lipitor,Inconclusive,15
+19,Male,A+,hypertension,27-06-2020 00:00,"lee pugh, and orozco",26660.4482,urgent,23-07-2020 00:00,Aspirin,Normal,26
+79,Female,A+,obesity,08-01-2022 00:00,"payne parker, murphy and",33071.26657,emergency,31-01-2022 00:00,Penicillin,Abnormal,23
+56,Female,A+,arthritis,01-09-2019 00:00,"and hernandez mckinney li,",36923.54008,emergency,01-10-2019 00:00,Lipitor,Abnormal,30
+54,Female,O-,arthritis,17-02-2020 00:00,hancock ltd,34455.47548,urgent,21-02-2020 00:00,Penicillin,Normal,4
+37,Female,O-,arthritis,05-04-2021 00:00,"mitchell brown and rice,",29993.37901,elective,09-04-2021 00:00,Paracetamol,Inconclusive,4
+23,Male,B+,diabetes,14-07-2023 00:00,garcia-martinez,9736.464738,urgent,18-07-2023 00:00,Lipitor,Abnormal,4
+35,Male,A+,cancer,06-01-2021 00:00,douglas-diaz,43625.56217,emergency,25-01-2021 00:00,Penicillin,Abnormal,19
+52,Male,A-,cancer,05-05-2023 00:00,ltd tran,33864.95313,elective,14-05-2023 00:00,Ibuprofen,Abnormal,9
+58,Male,O+,asthma,17-02-2020 00:00,"smith and foster cooper,",12004.40476,elective,06-03-2020 00:00,Paracetamol,Normal,18
+28,Male,B+,arthritis,27-08-2022 00:00,hunter inc,1910.77855,urgent,07-09-2022 00:00,Paracetamol,Abnormal,11
+47,Female,A-,diabetes,09-10-2019 00:00,sons flores and,9594.886274,emergency,07-11-2019 00:00,Paracetamol,Normal,29
+68,Female,B+,arthritis,06-05-2022 00:00,green group,3770.637381,emergency,14-05-2022 00:00,Paracetamol,Inconclusive,8
+25,Female,B+,cancer,08-07-2019 00:00,"lewis, gibbs and powell",12950.75958,emergency,14-07-2019 00:00,Paracetamol,Inconclusive,6
+71,Female,O+,arthritis,12-09-2020 00:00,"gomez and espinoza, wilson",14564.74608,emergency,18-09-2020 00:00,Paracetamol,Normal,6
+36,Female,B+,diabetes,02-12-2021 00:00,sons martin and,38276.35622,emergency,16-12-2021 00:00,Lipitor,Normal,14
+34,Male,A+,diabetes,08-09-2022 00:00,sons and moore,12586.42218,urgent,21-09-2022 00:00,Penicillin,Normal,13
+23,Female,A+,cancer,30-01-2021 00:00,hernandez-pearson,34251.2201,elective,19-02-2021 00:00,Penicillin,Normal,20
+66,Male,O+,diabetes,03-04-2020 00:00,harrison-robles,23812.42448,emergency,30-04-2020 00:00,Lipitor,Normal,27
+57,Male,B-,obesity,14-08-2022 00:00,ltd guerra,26378.97927,urgent,13-09-2022 00:00,Ibuprofen,Inconclusive,30
+73,Female,AB-,asthma,09-05-2023 00:00,group hudson,34587.80723,urgent,30-05-2023 00:00,Lipitor,Inconclusive,21
+21,Female,O+,asthma,29-12-2019 00:00,cordova llc,14945.32806,elective,07-01-2020 00:00,Penicillin,Normal,9
+27,Male,A-,obesity,10-04-2020 00:00,horton-boone,11023.28747,urgent,10-05-2020 00:00,Paracetamol,Abnormal,30
+58,Female,O-,hypertension,19-11-2022 00:00,campbell-ryan,36841.60061,elective,15-12-2022 00:00,Lipitor,Abnormal,26
+31,Female,AB+,asthma,18-08-2019 00:00,"johnson aguilar hamilton, and",25894.00998,elective,30-08-2019 00:00,Ibuprofen,Normal,12
+64,Female,B+,cancer,30-09-2021 00:00,moreno inc,33631.41767,urgent,03-10-2021 00:00,Lipitor,Normal,3
+80,Female,AB+,arthritis,16-09-2019 00:00,group brown,32879.087,emergency,27-09-2019 00:00,Aspirin,Inconclusive,11
+26,Female,AB+,arthritis,18-04-2021 00:00,inc singh,30502.46141,elective,30-04-2021 00:00,Ibuprofen,Abnormal,12
+56,Male,AB+,hypertension,13-02-2024 00:00,sanchez-mccullough,6576.085125,elective,24-02-2024 00:00,Lipitor,Inconclusive,11
+46,Female,A+,diabetes,05-10-2020 00:00,"smith rodriguez and buchanan,",41392.78012,elective,07-10-2020 00:00,Aspirin,Abnormal,2
+53,Male,B-,hypertension,02-08-2021 00:00,grant-wiggins,30714.82456,emergency,26-08-2021 00:00,Aspirin,Abnormal,24
+58,Male,A-,cancer,16-10-2022 00:00,may-smith,30627.20862,emergency,26-10-2022 00:00,Lipitor,Abnormal,10
+40,Male,B-,cancer,13-12-2023 00:00,"franco and trevino clayton,",32482.15576,emergency,19-12-2023 00:00,Aspirin,Inconclusive,6
+84,Female,O-,obesity,19-11-2023 00:00,herman-griffin,7238.963312,urgent,22-11-2023 00:00,Lipitor,Normal,3
+39,Female,O-,arthritis,03-01-2021 00:00,mcclure inc,41210.76572,urgent,10-01-2021 00:00,Paracetamol,Normal,7
+41,Male,AB+,obesity,01-10-2022 00:00,watson-hill,1114.411559,emergency,20-10-2022 00:00,Paracetamol,Inconclusive,19
+74,Male,B+,cancer,24-05-2019 00:00,"martin rodriguez, richardson and",11162.42502,emergency,17-06-2019 00:00,Aspirin,Normal,24
+84,Female,O-,obesity,31-05-2021 00:00,"and gray smith, jennings",1990.269053,urgent,03-06-2021 00:00,Lipitor,Normal,3
+67,Female,B+,obesity,02-07-2019 00:00,"and reynolds moore martin,",32363.64418,elective,13-07-2019 00:00,Penicillin,Inconclusive,11
+55,Female,B-,cancer,01-12-2022 00:00,inc wyatt,7949.353564,emergency,03-12-2022 00:00,Ibuprofen,Inconclusive,2
+84,Female,B+,obesity,26-06-2019 00:00,"potts, salas fletcher and",36760.48329,elective,30-06-2019 00:00,Lipitor,Abnormal,4
+28,Male,A+,obesity,19-02-2023 00:00,carr group,24416.37602,emergency,13-03-2023 00:00,Paracetamol,Normal,22
+57,Female,A-,diabetes,03-06-2020 00:00,osborne-hayes,25821.26488,elective,11-06-2020 00:00,Paracetamol,Abnormal,8
+55,Male,O+,diabetes,06-05-2021 00:00,sullivan-thomas,29427.51412,urgent,14-05-2021 00:00,Lipitor,Normal,8
+22,Female,B-,hypertension,22-11-2020 00:00,group graves,13763.98316,elective,27-11-2020 00:00,Lipitor,Normal,5
+46,Female,AB+,hypertension,14-02-2021 00:00,inc gonzales,36135.23051,elective,02-03-2021 00:00,Paracetamol,Normal,16
+55,Male,AB-,diabetes,12-08-2022 00:00,roberts-brock,1933.237943,elective,16-08-2022 00:00,Aspirin,Normal,4
+51,Female,B+,asthma,06-02-2023 00:00,plc johnson,48723.70848,emergency,02-03-2023 00:00,Penicillin,Abnormal,24
+80,Female,B+,arthritis,04-08-2021 00:00,"and gill, king osborn",37114.41168,urgent,30-08-2021 00:00,Paracetamol,Normal,26
+67,Female,A+,asthma,20-01-2023 00:00,"and johnson, carter johnston",19190.26499,elective,02-02-2023 00:00,Ibuprofen,Abnormal,13
+21,Female,O-,arthritis,12-03-2021 00:00,"deleon oneal, moore and",42247.34252,urgent,11-04-2021 00:00,Penicillin,Inconclusive,30
+71,Male,O-,arthritis,12-02-2022 00:00,scott-stewart,12068.76035,emergency,25-02-2022 00:00,Ibuprofen,Abnormal,13
+54,Female,A+,hypertension,16-06-2022 00:00,santos-harris,33834.65942,emergency,02-07-2022 00:00,Ibuprofen,Inconclusive,16
+85,Female,AB+,hypertension,27-12-2019 00:00,brown plc,13924.72386,elective,23-01-2020 00:00,Lipitor,Normal,27
+73,Male,A-,arthritis,20-01-2022 00:00,benson-cunningham,37323.43729,elective,02-02-2022 00:00,Lipitor,Abnormal,13
+21,Male,A+,cancer,12-09-2022 00:00,"and walker, li gomez",32540.97415,emergency,19-09-2022 00:00,Ibuprofen,Abnormal,7
+41,Male,AB+,hypertension,17-12-2020 00:00,moore-arias,1538.394317,emergency,20-12-2020 00:00,Lipitor,Normal,3
+63,Male,A+,obesity,10-01-2022 00:00,cunningham group,33449.559,elective,12-01-2022 00:00,Aspirin,Normal,2
+21,Female,B-,asthma,15-01-2024 00:00,"pineda rhodes, and luna",18187.77166,emergency,06-02-2024 00:00,Ibuprofen,Inconclusive,22
+70,Male,A+,hypertension,09-12-2021 00:00,"pearson, carroll and lane",943.1165335,elective,08-01-2022 00:00,Lipitor,Abnormal,30
+49,Male,AB-,obesity,05-08-2019 00:00,gonzalez-keith,45777.4365,elective,08-08-2019 00:00,Penicillin,Normal,3
+60,Female,AB-,cancer,17-02-2021 00:00,perez-henderson,20840.24292,urgent,14-03-2021 00:00,Lipitor,Inconclusive,25
+29,Male,O+,diabetes,29-05-2019 00:00,davis-smith,38625.54343,urgent,26-06-2019 00:00,Penicillin,Normal,28
+46,Male,A+,cancer,28-08-2019 00:00,henderson inc,7837.564863,elective,20-09-2019 00:00,Penicillin,Normal,23
+55,Male,AB-,arthritis,15-03-2023 00:00,"williams, and diaz campbell",30299.19679,emergency,21-03-2023 00:00,Paracetamol,Normal,6
+62,Male,AB+,obesity,05-02-2023 00:00,"finley salinas, jones and",13795.00468,urgent,23-02-2023 00:00,Paracetamol,Inconclusive,18
+71,Female,O+,hypertension,24-01-2024 00:00,"baker and barber baxter,",15645.72078,elective,11-02-2024 00:00,Paracetamol,Abnormal,18
+18,Female,A-,cancer,02-01-2021 00:00,ltd marquez,47559.87976,elective,10-01-2021 00:00,Lipitor,Inconclusive,8
+23,Male,AB-,obesity,12-07-2019 00:00,stuart inc,33991.20176,urgent,25-07-2019 00:00,Paracetamol,Normal,13
+38,Male,O+,hypertension,27-09-2019 00:00,ltd dixon,48437.87959,urgent,30-09-2019 00:00,Ibuprofen,Inconclusive,3
+30,Male,B+,obesity,18-06-2019 00:00,plc harris,20070.13948,urgent,16-07-2019 00:00,Lipitor,Abnormal,28
+39,Male,A-,diabetes,22-04-2022 00:00,carpenter-chen,39180.29909,elective,08-05-2022 00:00,Ibuprofen,Inconclusive,16
+55,Female,AB-,arthritis,31-05-2020 00:00,ltd wilkinson,25474.50125,urgent,18-06-2020 00:00,Paracetamol,Abnormal,18
+38,Male,O-,asthma,15-12-2021 00:00,miles-sanchez,18510.33015,elective,13-01-2022 00:00,Lipitor,Normal,29
+48,Female,B+,diabetes,17-03-2021 00:00,collins sons and,11884.32793,elective,13-04-2021 00:00,Paracetamol,Normal,27
+26,Female,B+,asthma,05-10-2023 00:00,massey inc,3573.016429,emergency,18-10-2023 00:00,Aspirin,Normal,13
+68,Female,O+,obesity,15-11-2022 00:00,"baker and thompson, johnson",4084.515472,elective,14-12-2022 00:00,Lipitor,Inconclusive,29
+60,Female,A+,obesity,23-12-2021 00:00,group robbins,10649.32841,urgent,30-12-2021 00:00,Penicillin,Inconclusive,7
+72,Female,B+,diabetes,10-02-2020 00:00,white-stone,28756.2281,elective,16-02-2020 00:00,Aspirin,Abnormal,6
+23,Female,O+,cancer,11-06-2021 00:00,caldwell group,26424.34812,urgent,17-06-2021 00:00,Lipitor,Normal,6
+55,Male,AB+,arthritis,05-03-2022 00:00,brown-thompson,34602.10194,elective,14-03-2022 00:00,Paracetamol,Normal,9
+59,Male,AB+,diabetes,22-11-2023 00:00,sons and morton,6216.406228,emergency,23-11-2023 00:00,Paracetamol,Inconclusive,1
+83,Male,O-,obesity,08-01-2021 00:00,and johnson sons,34770.74796,urgent,06-02-2021 00:00,Aspirin,Normal,29
+36,Female,A+,arthritis,31-07-2023 00:00,travis inc,27378.98791,elective,15-08-2023 00:00,Lipitor,Inconclusive,15
+51,Male,A-,arthritis,10-08-2019 00:00,brooks llc,12297.0257,emergency,14-08-2019 00:00,Paracetamol,Abnormal,4
+59,Male,B+,asthma,24-02-2020 00:00,"nguyen, simmons and johnson",43863.48441,elective,22-03-2020 00:00,Paracetamol,Normal,27
+64,Female,AB+,arthritis,25-06-2021 00:00,"buck and delgado, rich",21690.79797,emergency,16-07-2021 00:00,Lipitor,Abnormal,21
+38,Male,B-,obesity,10-04-2022 00:00,snyder ltd,41134.78762,emergency,28-04-2022 00:00,Paracetamol,Abnormal,18
+25,Female,B+,obesity,26-01-2020 00:00,"patton and mclaughlin, barr",4980.387475,emergency,19-02-2020 00:00,Paracetamol,Normal,24
+52,Male,AB+,diabetes,26-06-2021 00:00,olson llc,4152.864724,emergency,27-06-2021 00:00,Penicillin,Normal,1
+80,Female,A-,obesity,21-03-2022 00:00,"foley, williams gonzales and",26459.13383,emergency,30-03-2022 00:00,Penicillin,Normal,9
+34,Female,A+,cancer,01-11-2022 00:00,melton ltd,22549.37964,emergency,18-11-2022 00:00,Penicillin,Normal,17
+32,Female,B+,obesity,11-10-2022 00:00,baker plc,45870.56019,urgent,06-11-2022 00:00,Penicillin,Abnormal,26
+42,Female,B+,obesity,13-06-2019 00:00,oconnor and sons,43131.25218,elective,12-07-2019 00:00,Penicillin,Inconclusive,29
+37,Female,O-,arthritis,13-09-2020 00:00,"schmitt and montgomery, barber",16828.05197,urgent,13-10-2020 00:00,Paracetamol,Inconclusive,30
+20,Male,O-,cancer,26-05-2022 00:00,"and miller montoya, small",38270.26967,urgent,25-06-2022 00:00,Penicillin,Abnormal,30
+26,Female,A+,cancer,07-07-2021 00:00,"travis graham and whitehead,",40078.82105,urgent,17-07-2021 00:00,Paracetamol,Inconclusive,10
+21,Female,B+,diabetes,21-12-2023 00:00,thomas ltd,22757.58718,emergency,11-01-2024 00:00,Ibuprofen,Abnormal,21
+56,Female,O+,arthritis,30-01-2021 00:00,llc allen,9028.98361,emergency,26-02-2021 00:00,Aspirin,Abnormal,27
+20,Male,O+,diabetes,06-07-2022 00:00,king group,23436.74159,urgent,11-07-2022 00:00,Aspirin,Inconclusive,5
+32,Male,AB-,arthritis,12-10-2022 00:00,lamb-hansen,45177.87574,urgent,11-11-2022 00:00,Lipitor,Abnormal,30
+47,Female,B+,arthritis,26-04-2023 00:00,plc haney,17353.78781,elective,16-05-2023 00:00,Penicillin,Abnormal,20
+47,Female,B-,cancer,06-02-2020 00:00,moss-jones,16670.01256,urgent,14-02-2020 00:00,Aspirin,Normal,8
+79,Female,AB-,obesity,21-09-2019 00:00,"meyer bishop and wallace,",22059.35976,urgent,06-10-2019 00:00,Ibuprofen,Inconclusive,15
+48,Female,B+,cancer,11-03-2020 00:00,black and sons,34934.93538,emergency,14-03-2020 00:00,Paracetamol,Abnormal,3
+44,Male,B+,cancer,30-04-2022 00:00,davis-bell,45625.23811,urgent,12-05-2022 00:00,Ibuprofen,Inconclusive,12
+42,Male,AB-,arthritis,09-04-2020 00:00,"hill, murphy and stewart",11641.62885,emergency,11-04-2020 00:00,Penicillin,Inconclusive,2
+78,Female,A+,diabetes,05-10-2020 00:00,"bryant and thomas, smith",16267.12661,elective,14-10-2020 00:00,Paracetamol,Normal,9
+39,Female,O+,asthma,28-12-2019 00:00,sons and dawson,48038.21697,elective,05-01-2020 00:00,Aspirin,Normal,8
+67,Female,AB-,asthma,05-09-2023 00:00,"paul watts and perkins,",33118.52902,emergency,14-09-2023 00:00,Paracetamol,Inconclusive,9
+40,Female,AB-,obesity,12-08-2022 00:00,williams-gordon,28087.59444,urgent,01-09-2022 00:00,Paracetamol,Normal,20
+30,Female,AB-,diabetes,17-02-2024 00:00,"and chapman payne, werner",42500.59067,emergency,18-02-2024 00:00,Penicillin,Abnormal,1
+69,Female,B+,asthma,21-05-2019 00:00,"thomas, green and barron",47980.91717,urgent,18-06-2019 00:00,Ibuprofen,Inconclusive,28
+29,Female,A-,arthritis,30-11-2019 00:00,lambert-brandt,27191.41891,emergency,22-12-2019 00:00,Penicillin,Normal,22
+82,Male,B-,diabetes,29-01-2023 00:00,group sparks,11425.8885,elective,04-02-2023 00:00,Penicillin,Inconclusive,6
+56,Male,A-,cancer,21-06-2019 00:00,inc swanson,30414.76633,urgent,11-07-2019 00:00,Ibuprofen,Abnormal,20
+84,Male,B-,asthma,17-06-2023 00:00,"mclaughlin, and tucker francis",7566.859307,urgent,17-07-2023 00:00,Penicillin,Normal,30
+43,Female,B-,obesity,24-07-2022 00:00,inc copeland,34815.75497,emergency,28-07-2022 00:00,Aspirin,Normal,4
+79,Female,AB-,arthritis,28-01-2022 00:00,ltd smith,18609.89817,elective,18-02-2022 00:00,Lipitor,Inconclusive,21
+22,Female,B+,arthritis,31-07-2022 00:00,brown llc,25233.8924,elective,28-08-2022 00:00,Lipitor,Inconclusive,28
+73,Male,B+,cancer,05-05-2023 00:00,"hodges brown, munoz and",12339.95861,elective,28-05-2023 00:00,Aspirin,Inconclusive,23
+84,Male,A-,asthma,31-08-2020 00:00,robinson-ritter,38440.92707,urgent,28-09-2020 00:00,Lipitor,Inconclusive,28
+49,Male,A-,obesity,13-05-2022 00:00,"green, howell and jordan",7147.966202,emergency,05-06-2022 00:00,Paracetamol,Normal,23
+54,Male,AB+,cancer,04-12-2019 00:00,plc garcia,24755.02643,emergency,30-12-2019 00:00,Paracetamol,Inconclusive,26
+59,Male,B-,cancer,06-04-2023 00:00,"fox, and lucas cain",39553.11649,emergency,21-04-2023 00:00,Aspirin,Abnormal,15
+55,Male,B+,hypertension,08-10-2022 00:00,and lee sons,48590.77273,urgent,06-11-2022 00:00,Penicillin,Inconclusive,29
+27,Male,A-,asthma,22-07-2023 00:00,petty-lloyd,32806.48774,elective,11-08-2023 00:00,Paracetamol,Normal,20
+38,Male,O+,cancer,19-10-2021 00:00,kelly plc,18647.82144,urgent,01-11-2021 00:00,Penicillin,Normal,13
+55,Female,B+,arthritis,05-12-2021 00:00,conley-wood,50378.30056,emergency,11-12-2021 00:00,Ibuprofen,Normal,6
+46,Male,A-,diabetes,24-09-2023 00:00,choi plc,31263.32985,emergency,06-10-2023 00:00,Ibuprofen,Normal,12
+40,Female,A+,hypertension,03-12-2021 00:00,yu-bryant,14273.01116,urgent,14-12-2021 00:00,Lipitor,Inconclusive,11
+21,Male,A+,arthritis,06-02-2020 00:00,llc chavez,20549.25907,elective,16-02-2020 00:00,Aspirin,Inconclusive,10
+81,Male,O-,hypertension,30-07-2023 00:00,"mills and young, perry",48799.38533,emergency,11-08-2023 00:00,Paracetamol,Inconclusive,12
+40,Female,O-,hypertension,25-03-2020 00:00,sims-castro,16572.9003,emergency,07-04-2020 00:00,Aspirin,Inconclusive,13
+60,Male,O-,arthritis,25-02-2021 00:00,gonzalez llc,4224.21845,urgent,15-03-2021 00:00,Paracetamol,Normal,18
+58,Female,B+,hypertension,25-10-2020 00:00,"hall and montgomery king,",39053.04523,elective,14-11-2020 00:00,Paracetamol,Abnormal,20
+54,Male,A+,asthma,07-08-2021 00:00,ingram-collins,35554.17155,elective,26-08-2021 00:00,Lipitor,Abnormal,19
+60,Male,A+,diabetes,21-01-2023 00:00,watkins group,7613.45094,urgent,07-02-2023 00:00,Penicillin,Normal,17
+52,Female,O+,diabetes,30-07-2023 00:00,group smith,18798.1153,urgent,23-08-2023 00:00,Penicillin,Normal,24
+49,Male,A+,obesity,25-09-2023 00:00,carpenter plc,35740.55032,elective,04-10-2023 00:00,Ibuprofen,Abnormal,9
+38,Male,B+,diabetes,29-03-2020 00:00,sons and davis,15415.38808,emergency,19-04-2020 00:00,Aspirin,Abnormal,21
+55,Female,B+,diabetes,10-08-2023 00:00,"ellis, and smith black",18628.70184,emergency,30-08-2023 00:00,Aspirin,Normal,20
+59,Female,B-,cancer,04-06-2023 00:00,aguilar-moreno,30451.23586,urgent,20-06-2023 00:00,Lipitor,Abnormal,16
+72,Female,O-,obesity,26-03-2021 00:00,inc howard,5471.729817,emergency,25-04-2021 00:00,Lipitor,Inconclusive,30
+55,Female,B+,arthritis,15-11-2020 00:00,goodwin-lawrence,22348.1071,emergency,06-12-2020 00:00,Penicillin,Inconclusive,21
+85,Male,B-,arthritis,12-05-2019 00:00,plc hoffman,36307.54118,urgent,16-05-2019 00:00,Lipitor,Inconclusive,4
+18,Female,AB-,arthritis,20-05-2019 00:00,acosta group,37941.37825,urgent,15-06-2019 00:00,Aspirin,Abnormal,26
+58,Female,A-,cancer,03-01-2024 00:00,"murray, gilbert and crawford",15648.78728,elective,26-01-2024 00:00,Aspirin,Abnormal,23
+76,Male,B+,arthritis,17-05-2020 00:00,group blake,14572.19984,emergency,23-05-2020 00:00,Penicillin,Normal,6
+82,Female,O+,hypertension,03-10-2022 00:00,"price, neal and mcpherson",35789.99459,elective,31-10-2022 00:00,Penicillin,Inconclusive,28
+66,Female,O-,asthma,24-09-2020 00:00,group davis,26911.22299,elective,26-09-2020 00:00,Paracetamol,Normal,2
+84,Female,B-,diabetes,12-10-2019 00:00,"sellers and nelson, anderson",37571.3757,urgent,31-10-2019 00:00,Penicillin,Normal,19
+62,Male,A+,obesity,11-03-2022 00:00,gordon-foster,17370.82595,urgent,28-03-2022 00:00,Penicillin,Normal,17
+38,Male,AB-,obesity,03-11-2021 00:00,boyd ltd,35489.4586,elective,03-12-2021 00:00,Penicillin,Normal,30
+70,Male,A+,obesity,21-01-2023 00:00,cole inc,47443.61136,emergency,14-02-2023 00:00,Aspirin,Abnormal,24
+63,Male,B-,obesity,14-02-2020 00:00,matthews group,49376.06353,elective,02-03-2020 00:00,Aspirin,Inconclusive,17
+27,Female,AB-,asthma,17-08-2023 00:00,plc clarke,27601.5494,urgent,19-08-2023 00:00,Penicillin,Normal,2
+29,Female,O+,hypertension,30-08-2020 00:00,graham-smith,20455.45829,elective,01-09-2020 00:00,Lipitor,Abnormal,2
+65,Female,A+,obesity,06-05-2020 00:00,reynolds and sons,11492.78839,emergency,15-05-2020 00:00,Lipitor,Inconclusive,9
+26,Female,B+,hypertension,25-03-2024 00:00,adams-kim,46094.97544,elective,30-03-2024 00:00,Penicillin,Abnormal,5
+53,Male,B-,cancer,08-11-2020 00:00,sons and good,17616.10084,elective,16-11-2020 00:00,Paracetamol,Normal,8
+46,Female,A-,cancer,09-09-2019 00:00,"howell, young potts and",46961.57544,urgent,23-09-2019 00:00,Paracetamol,Normal,14
+25,Male,B+,asthma,29-05-2019 00:00,"martinez, reed watts and",21951.53638,emergency,27-06-2019 00:00,Ibuprofen,Abnormal,29
+18,Male,A+,cancer,22-02-2021 00:00,llc massey,29003.53535,elective,16-03-2021 00:00,Ibuprofen,Inconclusive,22
+67,Female,B-,obesity,01-05-2021 00:00,lewis-fletcher,18561.27058,emergency,26-05-2021 00:00,Ibuprofen,Inconclusive,25
+25,Female,B-,cancer,04-05-2022 00:00,"and harmon brown, cabrera",50081.1319,elective,17-05-2022 00:00,Ibuprofen,Normal,13
+24,Male,AB+,obesity,27-06-2023 00:00,wagner llc,39018.76747,emergency,09-07-2023 00:00,Ibuprofen,Abnormal,12
+47,Male,AB+,hypertension,05-05-2023 00:00,inc johnson,20071.99922,urgent,18-05-2023 00:00,Penicillin,Inconclusive,13
+69,Male,A-,asthma,22-09-2019 00:00,inc taylor,30828.63361,emergency,26-09-2019 00:00,Lipitor,Abnormal,4
+18,Female,B-,cancer,22-10-2023 00:00,steele-robinson,47337.95535,elective,16-11-2023 00:00,Paracetamol,Abnormal,25
+53,Male,A+,hypertension,02-09-2021 00:00,"berry and fischer, wells",45053.27038,elective,09-09-2021 00:00,Paracetamol,Abnormal,7
+45,Male,O-,obesity,30-06-2021 00:00,benson-cook,32095.92606,urgent,29-07-2021 00:00,Penicillin,Inconclusive,29
+50,Female,AB-,cancer,28-01-2024 00:00,montes-evans,12150.46721,urgent,01-02-2024 00:00,Ibuprofen,Inconclusive,4
+51,Female,AB+,diabetes,19-05-2022 00:00,ortega ltd,43474.51877,urgent,28-05-2022 00:00,Lipitor,Normal,9
+34,Male,B-,arthritis,21-09-2022 00:00,"and rose stewart, davis",10830.60839,elective,08-10-2022 00:00,Paracetamol,Abnormal,17
+80,Male,B-,arthritis,06-12-2020 00:00,melendez llc,18251.21188,elective,11-12-2020 00:00,Paracetamol,Abnormal,5
+19,Female,A-,obesity,07-04-2023 00:00,vazquez-brown,44731.27088,urgent,05-05-2023 00:00,Ibuprofen,Normal,28
+49,Male,AB-,diabetes,30-10-2022 00:00,warren-bowman,32574.83723,emergency,15-11-2022 00:00,Penicillin,Normal,16
+46,Male,B+,hypertension,12-11-2019 00:00,"brown reed robinson, and",19479.44701,urgent,05-12-2019 00:00,Paracetamol,Abnormal,23
+63,Male,AB-,arthritis,23-08-2020 00:00,ltd peterson,44981.16665,emergency,15-09-2020 00:00,Paracetamol,Abnormal,23
+75,Male,AB+,hypertension,11-01-2021 00:00,moore-taylor,20198.74274,elective,22-01-2021 00:00,Lipitor,Inconclusive,11
+59,Female,A-,cancer,17-10-2019 00:00,stewart-dominguez,40055.59415,urgent,08-11-2019 00:00,Lipitor,Abnormal,22
+18,Male,A-,obesity,09-05-2019 00:00,lamb-herrera,8906.669679,urgent,02-06-2019 00:00,Ibuprofen,Normal,24
+68,Male,AB+,hypertension,20-06-2020 00:00,and sons morrison,14590.35376,urgent,01-07-2020 00:00,Penicillin,Inconclusive,11
+72,Male,O-,cancer,21-07-2020 00:00,ellis-roberson,42853.98906,emergency,18-08-2020 00:00,Ibuprofen,Normal,28
+79,Female,AB-,asthma,22-05-2019 00:00,"and glover christensen, jackson",41102.28023,emergency,07-06-2019 00:00,Penicillin,Normal,16
+74,Male,B+,hypertension,15-09-2019 00:00,"alvarez austin snyder, and",21513.52658,emergency,11-10-2019 00:00,Lipitor,Normal,26
+56,Male,B+,diabetes,23-12-2019 00:00,erickson-rodriguez,37330.16092,emergency,07-01-2020 00:00,Aspirin,Abnormal,15
+80,Female,A-,cancer,25-07-2020 00:00,"and daniel bryan brown,",4250.200821,urgent,11-08-2020 00:00,Paracetamol,Inconclusive,17
+83,Male,AB-,diabetes,15-11-2019 00:00,sons and sanchez,22561.88367,emergency,07-12-2019 00:00,Aspirin,Abnormal,22
+69,Male,B-,diabetes,15-09-2020 00:00,costa llc,35662.19842,elective,18-09-2020 00:00,Lipitor,Abnormal,3
+84,Female,O-,hypertension,08-08-2023 00:00,coleman-aguilar,34961.90671,emergency,01-09-2023 00:00,Aspirin,Normal,24
+60,Male,AB-,asthma,23-05-2021 00:00,plc morrison,25999.13335,elective,20-06-2021 00:00,Penicillin,Inconclusive,28
+49,Female,AB-,asthma,22-07-2020 00:00,jones-graham,25594.55847,urgent,12-08-2020 00:00,Ibuprofen,Normal,21
+63,Male,A+,cancer,01-06-2022 00:00,ltd brown,21380.19723,elective,21-06-2022 00:00,Lipitor,Inconclusive,20
+21,Male,A-,diabetes,01-01-2024 00:00,"bell and davis ross,",12063.94848,elective,14-01-2024 00:00,Lipitor,Normal,13
+28,Female,O+,asthma,25-04-2024 00:00,"allen garcia and wolf,",25702.29961,elective,25-05-2024 00:00,Aspirin,Abnormal,30
+77,Male,O+,asthma,30-08-2019 00:00,"lin chan, and moreno",35252.89353,emergency,06-09-2019 00:00,Aspirin,Abnormal,7
+34,Male,A-,cancer,03-03-2023 00:00,"dennis, and hood guerra",11175.23087,urgent,22-03-2023 00:00,Paracetamol,Normal,19
+83,Female,A-,obesity,16-01-2020 00:00,inc mercer,42510.68779,emergency,03-02-2020 00:00,Aspirin,Inconclusive,18
+33,Female,B-,arthritis,15-03-2024 00:00,garrett plc,7475.740733,elective,20-03-2024 00:00,Penicillin,Abnormal,5
+39,Male,O+,diabetes,12-10-2022 00:00,rollins-garrett,6117.893628,elective,06-11-2022 00:00,Aspirin,Normal,25
+31,Female,B+,hypertension,01-03-2020 00:00,"medina, and allen wilkins",15092.0751,elective,06-03-2020 00:00,Lipitor,Abnormal,5
+75,Female,O+,hypertension,25-05-2022 00:00,llc smith,13354.51423,elective,02-06-2022 00:00,Ibuprofen,Abnormal,8
+44,Male,O-,hypertension,04-05-2021 00:00,martin group,9911.678076,elective,11-05-2021 00:00,Aspirin,Abnormal,7
+43,Female,O+,hypertension,20-06-2023 00:00,"hayes and miller, sawyer",37095.59318,urgent,24-06-2023 00:00,Penicillin,Normal,4
+84,Female,B+,obesity,09-01-2020 00:00,"and phelps burke fields,",20737.6363,emergency,06-02-2020 00:00,Paracetamol,Inconclusive,28
+21,Female,AB-,arthritis,29-01-2024 00:00,inc smith,24809.71744,elective,20-02-2024 00:00,Penicillin,Abnormal,22
+49,Male,A+,cancer,14-10-2021 00:00,"and smith conway, byrd",31511.11965,elective,01-11-2021 00:00,Ibuprofen,Inconclusive,18
+50,Female,O+,cancer,11-01-2020 00:00,llc roberts,23498.4548,elective,10-02-2020 00:00,Aspirin,Inconclusive,30
+31,Male,B+,diabetes,24-08-2021 00:00,sons gonzalez and,21915.77878,urgent,25-08-2021 00:00,Aspirin,Abnormal,1
+40,Male,B+,diabetes,07-12-2020 00:00,"johnson kirby and richard,",7868.688582,urgent,10-12-2020 00:00,Paracetamol,Inconclusive,3
+68,Female,O+,diabetes,13-12-2021 00:00,llc ware,21747.8298,urgent,01-01-2022 00:00,Aspirin,Abnormal,19
+41,Female,AB-,cancer,03-01-2024 00:00,"thomas and nguyen, king",26036.67356,emergency,16-01-2024 00:00,Lipitor,Inconclusive,13
+84,Male,A-,asthma,29-11-2019 00:00,bruce-thomas,27480.23809,urgent,24-12-2019 00:00,Aspirin,Normal,25
+70,Male,A-,asthma,08-09-2019 00:00,"baldwin, and roberts ray",31266.8353,urgent,23-09-2019 00:00,Ibuprofen,Normal,15
+30,Female,O+,arthritis,12-01-2021 00:00,horton-hines,36081.22098,elective,04-02-2021 00:00,Ibuprofen,Abnormal,23
+57,Male,O+,obesity,09-10-2020 00:00,"and lewis, hardy cooper",24346.51943,urgent,07-11-2020 00:00,Penicillin,Normal,29
+63,Male,B-,cancer,24-09-2023 00:00,moore group,4022.198689,elective,10-10-2023 00:00,Aspirin,Normal,16
+55,Male,A+,hypertension,04-10-2022 00:00,nelson-hawkins,31632.73898,urgent,11-10-2022 00:00,Ibuprofen,Normal,7
+30,Female,A+,asthma,24-06-2019 00:00,llc martinez,29806.71822,elective,25-06-2019 00:00,Paracetamol,Normal,1
+45,Male,O-,arthritis,22-03-2022 00:00,ross llc,5956.234238,urgent,01-04-2022 00:00,Penicillin,Normal,10
+75,Female,B+,cancer,30-04-2023 00:00,graves llc,1493.077679,emergency,30-05-2023 00:00,Ibuprofen,Normal,30
+42,Female,A+,cancer,06-02-2024 00:00,"cowan cardenas allen, and",6257.128988,elective,27-02-2024 00:00,Ibuprofen,Abnormal,21
+82,Male,A+,arthritis,09-04-2024 00:00,plc mann,32968.23319,emergency,01-05-2024 00:00,Aspirin,Normal,22
+18,Female,A-,arthritis,01-12-2021 00:00,inc lopez,35732.34535,urgent,18-12-2021 00:00,Penicillin,Abnormal,17
+58,Female,AB-,arthritis,03-10-2020 00:00,llc gonzalez,13975.26996,urgent,30-10-2020 00:00,Ibuprofen,Normal,27
+69,Female,B-,asthma,06-01-2023 00:00,lee-white,14108.6624,elective,07-01-2023 00:00,Aspirin,Inconclusive,1
+69,Female,A-,arthritis,25-02-2022 00:00,rodriguez-beck,44253.71985,urgent,26-02-2022 00:00,Paracetamol,Normal,1
+47,Male,AB+,diabetes,19-09-2019 00:00,king-garza,23136.6674,emergency,01-10-2019 00:00,Penicillin,Normal,12
+35,Male,AB+,diabetes,13-05-2020 00:00,"and nelson blake, gutierrez",38101.6256,elective,25-05-2020 00:00,Lipitor,Abnormal,12
+44,Male,O-,hypertension,14-06-2019 00:00,willis-dixon,24947.58794,elective,07-07-2019 00:00,Aspirin,Abnormal,23
+76,Male,AB-,diabetes,29-04-2021 00:00,"arnold, steele scott and",9632.876199,urgent,16-05-2021 00:00,Lipitor,Inconclusive,17
+23,Female,O+,diabetes,07-11-2023 00:00,sharp-greer,11209.41585,emergency,05-12-2023 00:00,Lipitor,Abnormal,28
+82,Female,A-,diabetes,13-05-2020 00:00,"jones, valentine pacheco and",15850.20524,urgent,07-06-2020 00:00,Aspirin,Abnormal,25
+37,Male,AB-,obesity,14-07-2020 00:00,burns llc,28367.19225,urgent,23-07-2020 00:00,Lipitor,Abnormal,9
+79,Female,A+,diabetes,12-10-2021 00:00,"floyd and williams stephenson,",49784.88625,elective,13-10-2021 00:00,Penicillin,Inconclusive,1
+61,Female,AB-,obesity,23-10-2020 00:00,"smith, singh and gonzales",16155.88013,emergency,15-11-2020 00:00,Ibuprofen,Inconclusive,23
+48,Male,O-,hypertension,03-03-2024 00:00,smith-smith,5352.549488,urgent,27-03-2024 00:00,Ibuprofen,Abnormal,24
+70,Female,A-,arthritis,11-03-2020 00:00,"jenkins, jenkins and patterson",44693.69114,elective,07-04-2020 00:00,Paracetamol,Abnormal,27
+37,Female,O+,diabetes,29-08-2023 00:00,"duran mendoza and scott,",8656.283524,emergency,08-09-2023 00:00,Penicillin,Normal,10
+40,Male,AB-,obesity,17-06-2020 00:00,frye group,27009.21241,emergency,05-07-2020 00:00,Paracetamol,Normal,18
+39,Female,AB+,diabetes,26-02-2023 00:00,harding-adams,24977.26728,urgent,28-03-2023 00:00,Lipitor,Inconclusive,30
+76,Male,A+,arthritis,08-02-2021 00:00,lopez group,12282.27946,urgent,12-02-2021 00:00,Aspirin,Abnormal,4
+74,Male,B+,cancer,08-01-2022 00:00,powell inc,12989.2451,emergency,26-01-2022 00:00,Aspirin,Normal,18
+65,Male,B-,cancer,10-02-2023 00:00,duran-scott,22805.14825,urgent,10-03-2023 00:00,Lipitor,Abnormal,28
+44,Female,AB-,diabetes,03-09-2020 00:00,llc fletcher,8194.526805,emergency,24-09-2020 00:00,Penicillin,Abnormal,21
+80,Female,B-,hypertension,14-05-2019 00:00,smith-hicks,39605.89074,emergency,15-05-2019 00:00,Penicillin,Normal,1
+48,Male,A+,asthma,02-06-2023 00:00,llc dickerson,50838.48296,elective,27-06-2023 00:00,Lipitor,Abnormal,25
+76,Male,AB-,hypertension,01-02-2023 00:00,guerrero group,34020.24959,urgent,28-02-2023 00:00,Ibuprofen,Abnormal,27
+65,Female,AB-,hypertension,06-10-2022 00:00,"and gardner torres, rosario",43940.13607,emergency,23-10-2022 00:00,Penicillin,Abnormal,17
+52,Male,B+,diabetes,30-04-2024 00:00,wilson sons and,6789.917912,urgent,19-05-2024 00:00,Paracetamol,Abnormal,19
+19,Male,A-,arthritis,15-05-2020 00:00,plc rivera,12073.32874,elective,21-05-2020 00:00,Paracetamol,Abnormal,6
+26,Male,A-,diabetes,17-04-2024 00:00,plc holmes,29283.60403,emergency,22-04-2024 00:00,Ibuprofen,Normal,5
+31,Female,O-,obesity,17-09-2019 00:00,"taylor mcintosh and ross,",14265.93681,emergency,17-10-2019 00:00,Aspirin,Abnormal,30
+84,Male,A+,hypertension,16-06-2019 00:00,anderson-miller,25664.35254,emergency,30-06-2019 00:00,Lipitor,Inconclusive,14
+54,Male,A+,asthma,04-05-2021 00:00,martin-terry,29245.2546,emergency,15-05-2021 00:00,Penicillin,Inconclusive,11
+84,Female,B-,cancer,06-01-2022 00:00,inc meyer,24557.9354,urgent,09-01-2022 00:00,Aspirin,Normal,3
+82,Male,O-,diabetes,12-08-2020 00:00,plc phillips,23437.29608,emergency,07-09-2020 00:00,Penicillin,Inconclusive,26
+22,Female,AB+,hypertension,21-09-2022 00:00,"schneider and hopkins oconnor,",12074.06857,urgent,29-09-2022 00:00,Ibuprofen,Abnormal,8
+76,Male,AB-,arthritis,04-10-2022 00:00,bauer inc,26434.27121,urgent,07-10-2022 00:00,Lipitor,Normal,3
+26,Male,A-,obesity,23-10-2023 00:00,cowan inc,38142.10968,urgent,18-11-2023 00:00,Penicillin,Abnormal,26
+77,Male,B+,asthma,04-07-2022 00:00,burns-callahan,3825.092545,elective,30-07-2022 00:00,Lipitor,Normal,26
+77,Female,A-,obesity,31-03-2022 00:00,moore-smith,28157.61795,emergency,21-04-2022 00:00,Aspirin,Inconclusive,21
+43,Male,AB+,hypertension,03-03-2020 00:00,"taylor johnson, beasley and",44211.0167,urgent,15-03-2020 00:00,Ibuprofen,Abnormal,12
+18,Female,O+,hypertension,08-01-2021 00:00,"young wright davis, and",21072.76747,elective,28-01-2021 00:00,Paracetamol,Inconclusive,20
+71,Male,B+,diabetes,17-08-2021 00:00,"wood and murphy jones,",25100.38028,emergency,07-09-2021 00:00,Ibuprofen,Normal,21
+77,Male,A-,hypertension,14-02-2024 00:00,"gonzalez and stevens ruiz,",34006.63002,urgent,18-02-2024 00:00,Paracetamol,Abnormal,4
+34,Male,AB-,hypertension,08-07-2021 00:00,willis-mcgee,15343.04277,emergency,21-07-2021 00:00,Paracetamol,Normal,13
+63,Male,B+,diabetes,29-08-2019 00:00,williams-meza,39934.84129,urgent,21-09-2019 00:00,Ibuprofen,Abnormal,23
+77,Male,A+,obesity,20-07-2023 00:00,"king weiss, and west",42829.63252,urgent,14-08-2023 00:00,Lipitor,Abnormal,25
+70,Male,A-,diabetes,10-10-2019 00:00,benson plc,26499.41643,urgent,27-10-2019 00:00,Aspirin,Normal,17
+26,Male,O-,hypertension,12-11-2019 00:00,"morgan and wilcox barnett,",47839.77039,urgent,16-11-2019 00:00,Penicillin,Normal,4
+36,Male,O+,asthma,09-03-2020 00:00,rubio llc,45412.65981,emergency,03-04-2020 00:00,Paracetamol,Abnormal,25
+68,Female,A+,hypertension,23-08-2021 00:00,"lee chambers, and foley",45476.56159,emergency,18-09-2021 00:00,Penicillin,Abnormal,26
+51,Male,O+,asthma,10-10-2023 00:00,hurley ltd,44926.67392,emergency,15-10-2023 00:00,Paracetamol,Inconclusive,5
+46,Female,O-,arthritis,10-03-2021 00:00,plc trujillo,8017.510404,urgent,12-03-2021 00:00,Lipitor,Abnormal,2
+58,Male,A-,arthritis,07-09-2022 00:00,henson-harmon,27565.26066,emergency,29-09-2022 00:00,Paracetamol,Normal,22
+38,Female,AB-,hypertension,04-07-2023 00:00,jacobs-howell,44442.61096,emergency,17-07-2023 00:00,Ibuprofen,Abnormal,13
+55,Female,O+,arthritis,21-06-2022 00:00,williams plc,27643.3234,elective,28-06-2022 00:00,Aspirin,Normal,7
+77,Male,O-,cancer,05-07-2019 00:00,martin plc,27530.22948,elective,15-07-2019 00:00,Paracetamol,Inconclusive,10
+72,Female,B+,hypertension,10-02-2020 00:00,"mata norman, holmes and",47601.55168,emergency,14-02-2020 00:00,Lipitor,Inconclusive,4
+26,Female,B+,arthritis,12-09-2022 00:00,brown llc,36680.26971,urgent,19-09-2022 00:00,Paracetamol,Inconclusive,7
+29,Female,O-,asthma,14-06-2021 00:00,ward-crosby,29560.98617,urgent,01-07-2021 00:00,Penicillin,Normal,17
+85,Female,A-,cancer,09-02-2021 00:00,wong-booth,49121.41107,urgent,09-03-2021 00:00,Penicillin,Inconclusive,28
+37,Female,A+,cancer,16-11-2023 00:00,"and valencia flores, byrd",35722.02235,emergency,03-12-2023 00:00,Paracetamol,Inconclusive,17
+69,Female,A-,asthma,21-03-2021 00:00,collins-gutierrez,11202.34669,elective,25-03-2021 00:00,Aspirin,Abnormal,4
+27,Male,B-,diabetes,23-06-2021 00:00,"cameron black davis, and",31555.50057,urgent,23-07-2021 00:00,Aspirin,Normal,30
+77,Male,B+,obesity,14-05-2023 00:00,group rivera,44075.25208,urgent,27-05-2023 00:00,Penicillin,Abnormal,13
+55,Female,B-,obesity,01-02-2024 00:00,plc davis,26408.46916,elective,21-02-2024 00:00,Paracetamol,Abnormal,20
+75,Male,O+,arthritis,20-06-2023 00:00,ltd taylor,43770.11791,emergency,08-07-2023 00:00,Lipitor,Abnormal,18
+74,Female,O-,asthma,05-12-2019 00:00,"anderson, smith smith and",3353.635419,emergency,06-12-2019 00:00,Lipitor,Abnormal,1
+38,Male,B+,asthma,22-11-2021 00:00,"and walker smith cannon,",34469.85259,emergency,02-12-2021 00:00,Ibuprofen,Abnormal,10
+61,Male,AB-,asthma,29-07-2023 00:00,williams llc,30304.55838,emergency,14-08-2023 00:00,Ibuprofen,Normal,16
+38,Female,AB+,obesity,24-05-2019 00:00,ayers-alvarez,20022.79446,urgent,16-06-2019 00:00,Paracetamol,Inconclusive,23
+28,Male,A+,cancer,27-10-2020 00:00,"walsh alexander, and dennis",19993.53849,emergency,11-11-2020 00:00,Penicillin,Normal,15
+65,Male,A-,obesity,18-09-2020 00:00,nelson plc,29921.44307,elective,09-10-2020 00:00,Ibuprofen,Normal,21
+44,Female,O-,arthritis,16-05-2020 00:00,group kim,36508.84805,elective,26-05-2020 00:00,Lipitor,Normal,10
+58,Male,B-,obesity,15-05-2020 00:00,hess sons and,26697.18254,urgent,11-06-2020 00:00,Aspirin,Abnormal,27
+38,Female,AB+,obesity,26-06-2021 00:00,"cardenas, and fields nichols",4289.026756,elective,30-06-2021 00:00,Ibuprofen,Inconclusive,4
+49,Female,A-,asthma,10-02-2021 00:00,"fisher kirk, and becker",34804.88396,urgent,16-02-2021 00:00,Ibuprofen,Abnormal,6
+35,Female,A-,obesity,23-05-2020 00:00,jenkins-jackson,2280.744969,urgent,22-06-2020 00:00,Lipitor,Abnormal,30
+45,Female,O+,cancer,23-09-2020 00:00,"jackson hammond and garcia,",3290.147401,elective,16-10-2020 00:00,Ibuprofen,Normal,23
+41,Male,A-,arthritis,23-06-2023 00:00,inc miller,44839.30594,emergency,27-06-2023 00:00,Penicillin,Abnormal,4
+77,Female,A+,hypertension,21-10-2021 00:00,llc smith,15018.44215,elective,24-10-2021 00:00,Aspirin,Abnormal,3
+66,Female,O+,hypertension,27-09-2022 00:00,schroeder-walker,23094.17705,urgent,05-10-2022 00:00,Ibuprofen,Abnormal,8
+72,Female,A+,arthritis,12-11-2020 00:00,"mcguire and wheeler, morris",49032.03427,urgent,09-12-2020 00:00,Ibuprofen,Normal,27
+85,Female,A+,asthma,30-10-2023 00:00,washington-sanchez,27783.86721,urgent,25-11-2023 00:00,Penicillin,Inconclusive,26
+52,Male,A+,diabetes,20-01-2022 00:00,dawson-baker,16660.53007,urgent,15-02-2022 00:00,Paracetamol,Inconclusive,26
+78,Male,B+,cancer,14-12-2021 00:00,llc perez,28921.58546,emergency,05-01-2022 00:00,Lipitor,Abnormal,22
+55,Female,A+,arthritis,13-04-2022 00:00,sons and olson,27100.22247,elective,22-04-2022 00:00,Ibuprofen,Inconclusive,9
+19,Male,B-,obesity,27-03-2024 00:00,bell-thomas,37309.35216,emergency,31-03-2024 00:00,Penicillin,Inconclusive,4
+47,Male,A-,cancer,18-03-2024 00:00,thompson-thomas,23995.1474,urgent,21-03-2024 00:00,Aspirin,Inconclusive,3
+41,Female,B+,arthritis,06-01-2023 00:00,"kelly johnson, parker and",43882.30153,elective,28-01-2023 00:00,Aspirin,Normal,22
+36,Female,O+,cancer,03-09-2019 00:00,"tanner smith miller, and",21561.77239,urgent,05-09-2019 00:00,Lipitor,Abnormal,2
+77,Female,O+,asthma,09-02-2023 00:00,"johnson and doyle, collins",44206.1349,emergency,03-03-2023 00:00,Paracetamol,Normal,22
+55,Male,B-,hypertension,31-03-2022 00:00,inc taylor,17463.2424,urgent,03-04-2022 00:00,Aspirin,Normal,3
+50,Female,AB-,obesity,15-12-2019 00:00,inc williams,45885.54827,emergency,05-01-2020 00:00,Aspirin,Inconclusive,21
+72,Female,AB-,arthritis,12-03-2022 00:00,king-henry,7538.411978,urgent,20-03-2022 00:00,Ibuprofen,Abnormal,8
+58,Male,AB+,diabetes,04-03-2023 00:00,"cruz and hahn, gibbs",7138.206761,urgent,14-03-2023 00:00,Lipitor,Abnormal,10
+76,Male,AB-,hypertension,25-08-2019 00:00,"and higgins mckay, cruz",17338.24645,elective,23-09-2019 00:00,Ibuprofen,Normal,29
+50,Female,AB-,obesity,27-04-2022 00:00,johnson-mitchell,7093.997462,emergency,13-05-2022 00:00,Aspirin,Normal,16
+40,Male,AB+,diabetes,29-01-2024 00:00,"vincent, walker parsons and",32956.18445,elective,26-02-2024 00:00,Penicillin,Inconclusive,28
+38,Male,AB+,diabetes,13-03-2021 00:00,collins-mcdonald,17765.6837,urgent,18-03-2021 00:00,Penicillin,Inconclusive,5
+31,Male,AB+,arthritis,28-11-2023 00:00,kelly-tapia,30988.29632,emergency,07-12-2023 00:00,Ibuprofen,Abnormal,9
+82,Male,AB-,asthma,25-05-2020 00:00,williams-peterson,14168.50089,elective,30-05-2020 00:00,Lipitor,Inconclusive,5
+25,Female,O+,hypertension,01-02-2022 00:00,llc merritt,11167.10926,urgent,20-02-2022 00:00,Lipitor,Normal,19
+84,Female,B+,diabetes,06-02-2020 00:00,ryan-miller,16972.59548,emergency,08-02-2020 00:00,Ibuprofen,Normal,2
+28,Male,B-,obesity,08-02-2024 00:00,mcintosh-cantu,44867.88629,urgent,08-03-2024 00:00,Lipitor,Inconclusive,29
+70,Female,B+,hypertension,09-02-2023 00:00,plc hill,7754.756924,elective,13-02-2023 00:00,Lipitor,Normal,4
+63,Male,B+,cancer,15-12-2020 00:00,"and perkins, long herring",28356.68597,urgent,23-12-2020 00:00,Paracetamol,Abnormal,8
+70,Female,AB+,asthma,29-02-2024 00:00,"russell, and barnett williams",12869.42849,emergency,16-03-2024 00:00,Aspirin,Inconclusive,16
+66,Female,B+,hypertension,18-02-2024 00:00,lambert-richardson,49125.37574,urgent,11-03-2024 00:00,Penicillin,Inconclusive,22
+72,Female,A+,hypertension,02-07-2023 00:00,"morgan, stephenson and frazier",19950.75547,emergency,17-07-2023 00:00,Lipitor,Inconclusive,15
+76,Female,AB+,diabetes,30-05-2020 00:00,"taylor reyes and bowers,",9747.668093,urgent,19-06-2020 00:00,Ibuprofen,Inconclusive,20
+84,Male,AB-,asthma,16-04-2021 00:00,plc gaines,44452.66811,emergency,17-04-2021 00:00,Paracetamol,Inconclusive,1
+53,Male,AB+,hypertension,16-09-2021 00:00,"and neal vargas, welch",40786.35448,elective,15-10-2021 00:00,Paracetamol,Abnormal,29
+31,Male,B-,hypertension,23-07-2021 00:00,howe-mitchell,28062.07813,elective,13-08-2021 00:00,Ibuprofen,Abnormal,21
+67,Male,AB-,arthritis,12-03-2021 00:00,becker llc,1061.078137,urgent,07-04-2021 00:00,Lipitor,Abnormal,26
+56,Male,A-,diabetes,26-05-2019 00:00,vargas-walker,13670.11031,urgent,18-06-2019 00:00,Lipitor,Normal,23
+25,Male,A-,obesity,01-11-2023 00:00,henderson-cruz,20161.43741,urgent,19-11-2023 00:00,Lipitor,Abnormal,18
+84,Female,AB+,hypertension,11-06-2022 00:00,holt-hale,2080.255947,elective,15-06-2022 00:00,Paracetamol,Inconclusive,4
+80,Male,A-,arthritis,11-03-2022 00:00,"and cohen nelson, davidson",30322.53267,urgent,09-04-2022 00:00,Paracetamol,Inconclusive,29
+41,Male,A-,asthma,03-04-2023 00:00,brooks plc,33256.48914,elective,16-04-2023 00:00,Paracetamol,Inconclusive,13
+70,Female,A-,obesity,24-03-2021 00:00,and sons curry,47469.17733,elective,11-04-2021 00:00,Ibuprofen,Abnormal,18
+38,Female,AB+,obesity,09-07-2021 00:00,group owens,17150.15843,elective,26-07-2021 00:00,Ibuprofen,Abnormal,17
+74,Female,O+,asthma,20-01-2021 00:00,group peters,-109.097122,emergency,09-02-2021 00:00,Ibuprofen,Abnormal,20
+32,Female,A-,diabetes,22-05-2020 00:00,"vang, and cook moore",44695.26174,emergency,14-06-2020 00:00,Paracetamol,Abnormal,23
+29,Male,A-,hypertension,19-09-2022 00:00,sons and lewis,15157.87703,elective,02-10-2022 00:00,Lipitor,Inconclusive,13
+77,Male,AB-,arthritis,12-08-2023 00:00,"haynes lopez and simon,",23545.37994,urgent,17-08-2023 00:00,Lipitor,Normal,5
+56,Female,O+,obesity,09-08-2020 00:00,walker sons and,17461.85469,elective,01-09-2020 00:00,Aspirin,Inconclusive,23
+54,Female,O+,arthritis,19-06-2023 00:00,"and leon anderson, arnold",21623.03531,emergency,13-07-2023 00:00,Ibuprofen,Inconclusive,24
+77,Female,O+,asthma,03-09-2019 00:00,santana-thomas,2810.262624,emergency,27-09-2019 00:00,Penicillin,Inconclusive,24
+21,Female,O+,hypertension,16-10-2022 00:00,hayes ltd,31420.52747,urgent,25-10-2022 00:00,Aspirin,Abnormal,9
+36,Female,AB-,asthma,31-10-2021 00:00,baker-gill,49675.00926,elective,26-11-2021 00:00,Ibuprofen,Normal,26
+36,Male,B+,diabetes,19-08-2022 00:00,cook-fischer,18598.20178,urgent,10-09-2022 00:00,Lipitor,Normal,22
+32,Male,A-,obesity,09-08-2023 00:00,garcia-nichols,22810.13596,urgent,07-09-2023 00:00,Aspirin,Abnormal,29
+38,Female,O-,asthma,02-12-2020 00:00,llc baker,35251.71977,emergency,16-12-2020 00:00,Penicillin,Abnormal,14
+73,Male,AB-,cancer,23-08-2019 00:00,gallegos ltd,39611.23922,emergency,02-09-2019 00:00,Penicillin,Abnormal,10
+79,Male,AB+,diabetes,14-09-2021 00:00,"nash stevenson and martinez,",26350.00344,emergency,16-09-2021 00:00,Aspirin,Inconclusive,2
+55,Female,B-,cancer,21-04-2020 00:00,miller-bell,1934.751642,urgent,21-05-2020 00:00,Aspirin,Inconclusive,30
+58,Male,AB+,asthma,07-08-2023 00:00,"gray and harris, oneal",23771.68922,urgent,28-08-2023 00:00,Penicillin,Abnormal,21
+61,Female,B+,cancer,13-07-2020 00:00,ltd carter,28761.3627,urgent,29-07-2020 00:00,Aspirin,Abnormal,16
+45,Male,B-,asthma,31-07-2019 00:00,sons hodges and,47629.61502,emergency,11-08-2019 00:00,Paracetamol,Normal,11
+34,Female,O+,hypertension,11-05-2022 00:00,henderson and sons,2851.515446,elective,29-05-2022 00:00,Paracetamol,Normal,18
+31,Female,A-,cancer,03-02-2021 00:00,"frey and leon espinoza,",9829.914582,urgent,28-02-2021 00:00,Aspirin,Inconclusive,25
+37,Female,AB-,diabetes,23-11-2023 00:00,barnett llc,22039.67764,elective,27-11-2023 00:00,Ibuprofen,Abnormal,4
+48,Female,A+,hypertension,31-01-2023 00:00,ramos-simon,25487.49167,emergency,21-02-2023 00:00,Paracetamol,Abnormal,21
+67,Male,A+,hypertension,20-04-2024 00:00,cook-hurst,22506.85995,urgent,29-04-2024 00:00,Paracetamol,Inconclusive,9
+78,Female,O+,cancer,20-11-2023 00:00,ramirez-hebert,30659.37583,emergency,10-12-2023 00:00,Lipitor,Normal,20
+42,Female,B-,arthritis,05-07-2019 00:00,"frank hernandez, taylor and",30046.27894,emergency,24-07-2019 00:00,Aspirin,Inconclusive,19
+61,Female,AB+,arthritis,02-06-2019 00:00,parker-petersen,42966.49937,elective,19-06-2019 00:00,Lipitor,Inconclusive,17
+64,Male,B+,cancer,06-04-2020 00:00,"medina, wright and shaffer",49899.94595,urgent,11-04-2020 00:00,Lipitor,Normal,5
+31,Female,A-,diabetes,05-04-2022 00:00,"and grant hamilton edwards,",2924.472824,urgent,12-04-2022 00:00,Ibuprofen,Normal,7
+79,Male,AB-,obesity,26-06-2019 00:00,plc hunt,12412.10833,urgent,21-07-2019 00:00,Ibuprofen,Inconclusive,25
+80,Male,O-,cancer,15-03-2023 00:00,"and webb robinson, hicks",752.0328994,urgent,14-04-2023 00:00,Aspirin,Abnormal,30
+83,Male,AB-,hypertension,26-08-2022 00:00,"collins woodward martinez, and",26023.36131,elective,05-09-2022 00:00,Paracetamol,Abnormal,10
+27,Male,B+,hypertension,06-02-2020 00:00,"hale garner, schultz and",14917.96281,elective,18-02-2020 00:00,Penicillin,Abnormal,12
+30,Female,B-,asthma,19-03-2024 00:00,inc anderson,43838.29198,elective,26-03-2024 00:00,Aspirin,Abnormal,7
+39,Male,AB-,obesity,07-07-2022 00:00,"garcia duncan peters, and",38136.61348,elective,14-07-2022 00:00,Penicillin,Abnormal,7
+41,Male,AB+,diabetes,19-01-2024 00:00,"and english sanders, wilcox",48413.77488,emergency,08-02-2024 00:00,Ibuprofen,Inconclusive,20
+78,Female,A-,diabetes,13-01-2022 00:00,moore-myers,37669.6891,emergency,03-02-2022 00:00,Aspirin,Normal,21
+25,Male,B-,cancer,26-04-2020 00:00,and reeves sons,34789.05006,emergency,28-04-2020 00:00,Paracetamol,Normal,2
+53,Male,AB+,asthma,21-12-2023 00:00,"walker, and webb morton",13907.10713,elective,20-01-2024 00:00,Aspirin,Abnormal,30
+22,Female,AB+,hypertension,04-01-2020 00:00,"thompson ritter austin, and",41270.61338,emergency,19-01-2020 00:00,Paracetamol,Inconclusive,15
+65,Male,A+,arthritis,08-02-2020 00:00,"and moyer powell, padilla",6239.649914,elective,14-02-2020 00:00,Penicillin,Abnormal,6
+37,Female,AB-,diabetes,29-04-2022 00:00,nelson-edwards,14265.81162,elective,13-05-2022 00:00,Paracetamol,Normal,14
+25,Female,B+,arthritis,05-04-2020 00:00,llc english,16520.92307,elective,20-04-2020 00:00,Ibuprofen,Inconclusive,15
+62,Female,O+,arthritis,02-12-2019 00:00,jones-lee,35057.11283,emergency,09-12-2019 00:00,Aspirin,Inconclusive,7
+38,Male,A-,asthma,19-03-2021 00:00,reed-medina,4218.549435,elective,08-04-2021 00:00,Penicillin,Abnormal,20
+58,Female,B-,asthma,07-10-2023 00:00,inc stevens,36771.41218,emergency,08-10-2023 00:00,Ibuprofen,Inconclusive,1
+44,Male,A+,obesity,10-09-2021 00:00,"rodriguez and becker holmes,",35520.39682,urgent,08-10-2021 00:00,Aspirin,Normal,28
+62,Male,O+,asthma,14-10-2021 00:00,"jacobs owens smith, and",7656.635668,emergency,29-10-2021 00:00,Ibuprofen,Normal,15
+46,Female,AB+,diabetes,24-10-2023 00:00,davis-nguyen,34599.40943,urgent,29-10-2023 00:00,Lipitor,Inconclusive,5
+29,Male,B-,arthritis,28-12-2022 00:00,"moore cooper, wilson and",2436.52059,urgent,15-01-2023 00:00,Paracetamol,Abnormal,18
+35,Female,O+,diabetes,31-12-2023 00:00,"and salazar, gonzales jones",32680.60699,emergency,04-01-2024 00:00,Paracetamol,Abnormal,4
+46,Female,B+,asthma,07-02-2022 00:00,hunt inc,1790.315235,urgent,23-02-2022 00:00,Paracetamol,Normal,16
+85,Male,A+,hypertension,12-06-2020 00:00,plc cox,2284.429475,urgent,14-06-2020 00:00,Ibuprofen,Inconclusive,2
+37,Female,AB-,diabetes,16-10-2022 00:00,"welch carr and kennedy,",37152.64529,emergency,28-10-2022 00:00,Paracetamol,Abnormal,12
+62,Female,AB-,cancer,11-01-2022 00:00,group stein,21169.11422,emergency,15-01-2022 00:00,Lipitor,Normal,4
+45,Female,B+,asthma,13-11-2022 00:00,taylor inc,31028.00119,elective,16-11-2022 00:00,Ibuprofen,Normal,3
+33,Male,O-,arthritis,24-07-2022 00:00,kidd inc,1468.243831,urgent,14-08-2022 00:00,Penicillin,Abnormal,21
+44,Female,AB+,obesity,25-06-2019 00:00,"hurst, thompson and walls",35284.16727,urgent,10-07-2019 00:00,Lipitor,Normal,15
+29,Female,AB-,asthma,19-06-2020 00:00,black-stevens,4288.608248,urgent,08-07-2020 00:00,Ibuprofen,Normal,19
+35,Female,AB+,diabetes,06-02-2020 00:00,"collins and murray taylor,",19769.29293,elective,24-02-2020 00:00,Ibuprofen,Inconclusive,18
+45,Female,A+,hypertension,17-12-2023 00:00,"wilson whitney henderson, and",30430.10013,urgent,12-01-2024 00:00,Paracetamol,Normal,26
+49,Female,B-,cancer,05-08-2022 00:00,"vaughan, adams and garcia",38716.05419,urgent,11-08-2022 00:00,Penicillin,Abnormal,6
+39,Male,O+,asthma,28-09-2020 00:00,vazquez and sons,15563.56602,urgent,05-10-2020 00:00,Paracetamol,Inconclusive,7
+80,Male,O+,obesity,16-09-2020 00:00,"aguilar mullins and schmidt,",27670.952,elective,13-10-2020 00:00,Ibuprofen,Abnormal,27
+80,Female,A-,hypertension,27-01-2020 00:00,rivera-norton,10757.12292,emergency,21-02-2020 00:00,Penicillin,Inconclusive,25
+51,Male,A-,asthma,11-06-2020 00:00,"williams, and howard meyer",43582.94096,emergency,16-06-2020 00:00,Paracetamol,Normal,5
+70,Female,B-,arthritis,04-12-2019 00:00,robbins-wiggins,27005.53429,emergency,02-01-2020 00:00,Lipitor,Normal,29
+68,Male,A+,diabetes,05-12-2020 00:00,"and hess, nguyen everett",6078.838575,emergency,18-12-2020 00:00,Ibuprofen,Inconclusive,13
+49,Male,A-,cancer,22-05-2021 00:00,holland-brown,49343.01703,urgent,08-06-2021 00:00,Aspirin,Normal,17
+54,Female,O+,asthma,02-06-2022 00:00,santiago plc,16515.75591,urgent,07-06-2022 00:00,Aspirin,Inconclusive,5
+81,Male,B-,arthritis,31-07-2022 00:00,hensley-shepard,49000.22655,urgent,22-08-2022 00:00,Ibuprofen,Inconclusive,22
+55,Female,B+,obesity,16-08-2019 00:00,maldonado-white,31484.41349,emergency,05-09-2019 00:00,Aspirin,Normal,20
+34,Male,AB-,diabetes,08-02-2022 00:00,"mcmahon, and steele rose",24701.86616,urgent,03-03-2022 00:00,Ibuprofen,Inconclusive,23
+22,Male,A+,diabetes,23-03-2021 00:00,"holmes, vasquez sanchez and",18831.83241,urgent,22-04-2021 00:00,Penicillin,Abnormal,30
+74,Male,A+,cancer,17-02-2021 00:00,hall-johnson,44439.43189,urgent,18-02-2021 00:00,Aspirin,Abnormal,1
+72,Female,O+,diabetes,01-06-2019 00:00,plc jacobs,6899.394974,urgent,18-06-2019 00:00,Paracetamol,Inconclusive,17
+75,Female,A+,obesity,24-09-2020 00:00,williams-hill,44516.09119,emergency,26-09-2020 00:00,Penicillin,Inconclusive,2
+63,Male,B-,cancer,01-08-2019 00:00,petty ltd,16396.32384,emergency,26-08-2019 00:00,Ibuprofen,Normal,25
+32,Female,A-,arthritis,31-05-2021 00:00,lopez inc,3916.004572,urgent,22-06-2021 00:00,Penicillin,Abnormal,22
+78,Female,O+,diabetes,15-09-2022 00:00,plc conway,28106.0821,emergency,19-09-2022 00:00,Aspirin,Inconclusive,4
